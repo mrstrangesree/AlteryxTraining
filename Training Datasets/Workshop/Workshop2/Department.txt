@@ -1,4 +1,0 @@
-DeptID,DepartmentName
-D01,Computer Science
-D02,Mechanical
-D03,Electrical

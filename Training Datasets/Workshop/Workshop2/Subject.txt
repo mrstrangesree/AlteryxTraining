@@ -1,8 +1,0 @@
-SubjectID,SubjectName
-SUB01,Maths
-SUB02,Physics
-SUB03,Programming
-SUB04,Thermodynamics
-SUB05,Mechanics
-SUB06,Circuits
-SUB07,Electronics

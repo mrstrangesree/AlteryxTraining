@@ -1,5 +1,0 @@
-StationID,StationName,City
-ST01,MG Road Station,Bangalore
-ST02,Indiranagar Station,Bangalore
-ST03,Whitefield Station,Bangalore
-ST04,Electronic City Station,Bangalore
