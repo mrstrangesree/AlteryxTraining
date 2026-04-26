@@ -1,0 +1,51 @@
+movie_id#title#genre#release_year#rating#votes#box_office_millions#budget_millions
+6001#Inception#Sci-Fi#2010#8.8#2100000#829#160
+6002#The Dark Knight#Action#2008#9.0#2700000#1005#185
+6003#Interstellar#Sci-Fi#2014#8.7#1900000#677#165
+6004#Titanic#Romance#1997#7.9#1200000#2200#200
+6005#Avatar#Sci-Fi#2009#7.8#1300000#2920#237
+6006#Avengers Endgame#Action#2019#8.4#1100000#2798#356
+6007#Joker#Drama#2019#8.5#1400000#1074#55
+6008#Frozen#Animation#2013#7.4#700000#1280#150
+6009#Gladiator#Action#2000#8.5#1500000#460#103
+6010#The Lion King#Animation#1994#8.5#1100000#968#45
+6011#Jurassic Park#Adventure#1993#8.2#950000#1045#63
+6012#The Matrix#Sci-Fi#1999#8.7#1800000#466#63
+6013#Forrest Gump#Drama#1994#8.8#2100000#678#55
+6014#The Shawshank Redemption#Drama#1994#9.3#2800000#58#25
+6015#The Godfather#Crime#1972#9.2#1900000#246#6
+6016#The Godfather Part II#Crime#1974#9.0#1300000#48#13
+6017#Pulp Fiction#Crime#1994#8.9#2000000#213#8
+6018#Fight Club#Drama#1999#8.8#1900000#101#63
+6019#The Avengers#Action#2012#8.0#1400000#1518#220
+6020#Iron Man#Action#2008#7.9#1100000#585#140
+6021#Captain America Civil War#Action#2016#7.8#900000#1153#250
+6022#Black Panther#Action#2018#7.3#800000#1347#200
+6023#Doctor Strange#Sci-Fi#2016#7.5#700000#677#165
+6024#Thor Ragnarok#Action#2017#7.9#800000#853#180
+6025#Guardians of the Galaxy#Sci-Fi#2014#8.0#1000000#772#170
+6026#Toy Story#Animation#1995#8.3#1000000#373#30
+6027#Finding Nemo#Animation#2003#8.1#900000#940#94
+6028#Up#Animation#2009#8.2#1100000#735#175
+6029#Coco#Animation#2017#8.4#800000#807#175
+6030#Inside Out#Animation#2015#8.1#750000#858#175
+6031#The Conjuring#Horror#2013#7.5#600000#319#20
+6032#It#Horror#2017#7.3#700000#701#35
+6033#A Quiet Place#Horror#2018#7.5#500000#340#17
+6034#The Nun#Horror#2018#5.3#300000#365#22
+6035#Parasite#Thriller#2019#8.6#900000#258#11
+6036#Se7en#Thriller#1995#8.6#1600000#327#33
+6037#Gone Girl#Thriller#2014#8.1#1000000#369#61
+6038#The Social Network#Drama#2010#7.7#700000#224#40
+6039#La La Land#Romance#2016#8.0#600000#446#30
+6040#The Notebook#Romance#2004#7.8#600000#115#29
+6041#Dune#Sci-Fi#2021#8.0#800000#402#165
+6042#Mad Max Fury Road#Action#2015#8.1#1000000#374#150
+6043#John Wick#Action#2014#7.4#700000#86#20
+6044#Logan#Action#2017#8.1#800000#619#127
+6045#Deadpool#Action#2016#8.0#1000000#782#58
+6046#The Batman#Action#2022#7.9#700000#770#185
+6047#Spider Man No Way Home#Action#2021#8.2#900000#1920#200
+6048#Harry Potter Sorcerers Stone#Fantasy#2001#7.6#800000#1024#125
+6049#The Hobbit#Fantasy#2012#7.8#900000#1017#180
+6050#Lord of the Rings Fellowship#Fantasy#2001#8.8#1800000#897#93

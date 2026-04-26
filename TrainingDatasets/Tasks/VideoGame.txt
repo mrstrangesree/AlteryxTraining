@@ -1,0 +1,51 @@
+game_id,title,platform,genre,release_year,sales_millions,rating,active_users_millions
+5001,Eternal Quest,PC,RPG,2018,5.2,8.5,1.2
+5002,Speed Rivals,PlayStation,Racing,2020,6.8,8.9,2.1
+5003,Battle Strike,Xbox,Shooter,2019,7.5,9.1,3.0
+5004,Galaxy Wars,PC,Sci-Fi,2021,4.9,8.3,1.5
+5005,Fantasy World,PlayStation,RPG,2017,8.2,9.0,2.8
+5006,Street Hoops,Xbox,Sports,2016,3.5,7.8,1.0
+5007,Zombie Night,PC,Horror,2022,6.1,8.7,2.4
+5008,Hero Legends,Mobile,Action,2021,9.5,9.3,5.0
+5009,Pixel Adventure,Switch,Platformer,2015,4.0,8.2,1.3
+5010,War Command,PC,Strategy,2019,5.8,8.6,1.7
+5011,Dragon Slayer,PlayStation,RPG,2020,7.9,9.2,2.9
+5012,Car Drift Pro,Xbox,Racing,2018,6.3,8.4,2.0
+5013,Space Odyssey,PC,Sci-Fi,2022,5.5,8.8,1.9
+5014,Ninja Fight,Mobile,Action,2021,8.7,9.0,4.2
+5015,Haunted Manor,PC,Horror,2017,3.9,7.9,1.1
+5016,Football King,PlayStation,Sports,2020,9.0,9.1,3.8
+5017,Alien Attack,Xbox,Shooter,2019,7.2,8.9,2.7
+5018,Jungle Run,Mobile,Platformer,2018,6.6,8.3,2.5
+5019,Empire Rise,PC,Strategy,2021,5.1,8.5,1.6
+5020,Magic Realm,Switch,RPG,2016,4.7,8.1,1.4
+5021,Speed Legends,PlayStation,Racing,2022,7.0,9.0,2.3
+5022,War Zone,Xbox,Shooter,2021,8.5,9.3,3.5
+5023,Cyber City,PC,Sci-Fi,2020,6.9,8.7,2.2
+5024,Street Fighter Pro,Mobile,Action,2019,9.2,9.4,4.8
+5025,Ghost Escape,PC,Horror,2018,4.3,8.0,1.2
+5026,Cricket Stars,PlayStation,Sports,2017,5.6,8.2,2.0
+5027,Sniper Elite,Xbox,Shooter,2022,7.8,9.1,3.1
+5028,Temple Dash,Mobile,Platformer,2016,8.0,8.5,3.9
+5029,Kingdom Builder,PC,Strategy,2019,5.4,8.6,1.8
+5030,Legend Quest,Switch,RPG,2021,6.2,8.8,2.1
+5031,Race Master,PlayStation,Racing,2018,6.7,8.7,2.2
+5032,War Heroes,Xbox,Shooter,2020,8.1,9.2,3.4
+5033,Future Tech,PC,Sci-Fi,2022,5.9,8.9,2.0
+5034,Shadow Ninja,Mobile,Action,2017,7.5,8.8,3.0
+5035,Dark Forest,PC,Horror,2016,3.8,7.7,1.0
+5036,Basketball Pro,PlayStation,Sports,2021,8.3,9.0,3.6
+5037,Combat Arena,Xbox,Shooter,2019,7.4,8.9,2.9
+5038,Run Runner,Mobile,Platformer,2020,7.9,8.6,3.7
+5039,City Empire,PC,Strategy,2018,5.0,8.4,1.5
+5040,Mythic Land,Switch,RPG,2022,6.5,8.9,2.3
+5041,Turbo Racing,PlayStation,Racing,2017,6.1,8.5,2.1
+5042,Sniper War,Xbox,Shooter,2016,7.0,8.8,2.6
+5043,Star Galaxy,PC,Sci-Fi,2021,6.3,8.7,2.4
+5044,Kung Fu Master,Mobile,Action,2018,8.9,9.2,4.5
+5045,Haunted House,PC,Horror,2020,4.1,7.9,1.3
+5046,Tennis Ace,PlayStation,Sports,2019,5.7,8.3,2.2
+5047,Modern Combat,Xbox,Shooter,2021,8.6,9.4,3.8
+5048,Island Jump,Mobile,Platformer,2022,7.3,8.7,3.2
+5049,World Strategy,PC,Strategy,2017,5.3,8.5,1.7
+5050,Ancient Quest,Switch,RPG,2018,6.0,8.6,2.0
