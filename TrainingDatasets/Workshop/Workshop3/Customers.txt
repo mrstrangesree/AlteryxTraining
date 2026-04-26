@@ -1,0 +1,6 @@
+CustomerID,CustomerName,MembershipType
+C001,Rahul,Monthly
+C002,Ananya,Daily
+C003,Vikram,Monthly
+C004,Priya,Weekly
+C005,Arjun,Daily
