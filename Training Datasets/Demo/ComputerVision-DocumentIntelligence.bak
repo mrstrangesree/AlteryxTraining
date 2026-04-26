@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2025.2" RunE2="T">
+  <Nodes>
+    <Node ToolID="5">
+      <GuiSettings Plugin="ImageTemplate">
+        <Position x="114" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <BlobField>
+          </BlobField>
+          <Bounds>[{"fname":"Data1","ftype":"table","h":0.5915026000862911,"page":1,"src":"C:\\Users\\meghana\\Downloads\\Alteryx Training\\Training Datasets\\Demo\\Invoice.pdf","w":0.8641975308641975,"x":0.06790123456790123,"y":0.39457728728114994},{"fname":"Data2","ftype":"table","h":0.2339850580193928,"page":2,"src":"C:\\Users\\meghana\\Downloads\\Alteryx Training\\Training Datasets\\Demo\\Invoice.pdf","w":0.8477366255144033,"x":0.07818930041152264,"y":0.019619865113427344}]</Bounds>
+          <FilePath isWorkflowDependency="True">C:\Users\meghana\Downloads\Alteryx Training\Training Datasets\Demo\Invoice.pdf</FilePath>
+          <Mode>manual</Mode>
+          <PageNumber>1</PageNumber>
+          <RelativePath>C:\Users\meghana\Downloads\Alteryx Training\Training Datasets\Demo\Invoice.pdf</RelativePath>
+          <RelativePathResolved>C:\Users\meghana\Downloads\Alteryx Training\Training Datasets\Demo\Invoice.pdf</RelativePathResolved>
+          <UNCPath>
+          </UNCPath>
+          <UNCPathResolved>
+          </UNCPathResolved>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Select Template and Add annotation</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="Python" EngineDllEntryPoint="ImageTemplate\image_template_engine.py" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="PDFToText">
+        <Position x="222" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ConfigStore>
+            <IsTemplateAnchorConnected>true</IsTemplateAnchorConnected>
+            <OutputOptions>
+              <OutputAlteryxTable>true</OutputAlteryxTable>
+              <OutputLines>false</OutputLines>
+              <OutputPipeDelimitedTable>false</OutputPipeDelimitedTable>
+              <OutputString>false</OutputString>
+            </OutputOptions>
+            <PageRange>false</PageRange>
+            <PageRangeEnd>
+            </PageRangeEnd>
+            <PageRangeStart>
+            </PageRangeStart>
+            <PathInputField>
+            </PathInputField>
+            <PathInputMode>fileBrowse</PathInputMode>
+            <RelativePathResolved>C:\Users\meghana\Downloads\Alteryx Training\Training Datasets\Demo</RelativePathResolved>
+            <RelativePathValue>C:\Users\meghana\Downloads\Alteryx Training\Training Datasets\Demo</RelativePathValue>
+            <TemplateSelect>false</TemplateSelect>
+            <TextExtractionImageOfGraphicText>false</TextExtractionImageOfGraphicText>
+            <TextExtractionLanguage>
+              <LanguageName>EN</LanguageName>
+            </TextExtractionLanguage>
+            <TextExtractionMode>text_only</TextExtractionMode>
+            <TextExtractionRiskScore>false</TextExtractionRiskScore>
+          </ConfigStore>
+          <IsTemplateAnchorConnected>true</IsTemplateAnchorConnected>
+          <MetadataStore>Field(name=File, field_type=FieldType.v_wstring, size=2147483647, scale=0, source="", description="File name from PDF to Text")</MetadataStore>
+          <MetadataStore>Field(name=Path, field_type=FieldType.v_wstring, size=2147483647, scale=0, source="", description="File path from PDF to Text")</MetadataStore>
+          <MetadataStore>Field(name=Output Option, field_type=FieldType.v_wstring, size=2147483647, scale=0, source="", description="Output option from PDF to Text")</MetadataStore>
+          <MetadataStore>Field(name=Page, field_type=FieldType.int64, size=8, scale=0, source="", description="Page number from PDF to Text")</MetadataStore>
+          <MetadataStore>Field(name=Region, field_type=FieldType.v_wstring, size=2147483647, scale=0, source="", description="Markup region from Image Template")</MetadataStore>
+          <MetadataStore>Field(name=Row, field_type=FieldType.int64, size=8, scale=0, source="", description="Row number from PDF to Text")</MetadataStore>
+          <MetadataStore>Field(name=Text, field_type=FieldType.v_wstring, size=2147483647, scale=0, source="Text output from PDF to Text", description="")</MetadataStore>
+          <MetadataStore>Field(name=Column 1, field_type=FieldType.v_wstring, size=2147483647, scale=0, source="Text output from PDF to Text", description="")</MetadataStore>
+          <MetadataStore>Field(name=Column 2, field_type=FieldType.v_wstring, size=2147483647, scale=0, source="Text output from PDF to Text", description="")</MetadataStore>
+          <MetadataStore>Field(name=Column 3, field_type=FieldType.v_wstring, size=2147483647, scale=0, source="Text output from PDF to Text", description="")</MetadataStore>
+          <MetadataStore>Field(name=Column 4, field_type=FieldType.v_wstring, size=2147483647, scale=0, source="Text output from PDF to Text", description="")</MetadataStore>
+          <MetadataStore>Field(name=Column 5, field_type=FieldType.v_wstring, size=2147483647, scale=0, source="Text output from PDF to Text", description="")</MetadataStore>
+          <NumConnectStore>1</NumConnectStore>
+          <OutputOptions>
+            <OutputAlteryxTable>true</OutputAlteryxTable>
+            <OutputLines>false</OutputLines>
+            <OutputPipeDelimitedTable>false</OutputPipeDelimitedTable>
+            <OutputString>false</OutputString>
+          </OutputOptions>
+          <PageRange>false</PageRange>
+          <PageRangeEnd>
+          </PageRangeEnd>
+          <PageRangeStart>
+          </PageRangeStart>
+          <PathInputField>
+          </PathInputField>
+          <PathInputMode>fileBrowse</PathInputMode>
+          <PathInputValue isWorkflowDependency="True">C:\Users\meghana\Downloads\Alteryx Training\Training Datasets\Demo</PathInputValue>
+          <RelativePathResolved>C:\Users\meghana\Downloads\Alteryx Training\Training Datasets\Demo</RelativePathResolved>
+          <RelativePathValue>C:\Users\meghana\Downloads\Alteryx Training\Training Datasets\Demo</RelativePathValue>
+          <TemplateSelect>false</TemplateSelect>
+          <TextExtractionImageOfGraphicText>false</TextExtractionImageOfGraphicText>
+          <TextExtractionLanguage>
+            <LanguageName>EN</LanguageName>
+          </TextExtractionLanguage>
+          <TextExtractionMode>text_only</TextExtractionMode>
+          <TextExtractionRiskScore>false</TextExtractionRiskScore>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Extract Data</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="Python" EngineDllEntryPoint="PDFToText\pdf_to_text_engine.py" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="354" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="File" selected="False" />
+            <SelectField field="Path" selected="False" />
+            <SelectField field="Output Option" selected="False" />
+            <SelectField field="Page" selected="False" />
+            <SelectField field="Region" selected="False" />
+            <SelectField field="Row" selected="False" />
+            <SelectField field="Text" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Select Necessary fields for processing</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="9">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Sample.Sample">
+        <Position x="474" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Mode>Skip</Mode>
+          <N>3</N>
+          <GroupFields orderChanged="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Skip 1st 3 rows</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSample" />
+    </Node>
+    <Node ToolID="10">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="594" y="102" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Column 1" selected="True" rename="LineNumber" type="Int64" size="8" />
+            <SelectField field="Column 2" selected="True" rename="Description" />
+            <SelectField field="Column 3" selected="True" rename="Qty" />
+            <SelectField field="Column 4" selected="True" rename="Unit Price(USD)" />
+            <SelectField field="Column 5" selected="True" rename="Amount(USD)" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Rename columns</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="12">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="702" y="90" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[LineNumber] &lt;= 1 OR  IsNull([LineNumber])</Expression>
+          <Mode>Custom</Mode>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[LineNumber] &lt;= 1 OR  IsNull([LineNumber])</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="13">
+      <GuiSettings Plugin="AlteryxSpatialPluginsGui.Summarize.Summarize">
+        <Position x="822" y="-6" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <SummarizeFields>
+            <SummarizeField field="LineNumber" action="Max" rename="LineNumber" />
+            <SummarizeField field="Description" action="Concat" rename="Description">
+              <Concat_Start />
+              <Separator><![CDATA[ ]]></Separator>
+              <Concat_End />
+            </SummarizeField>
+            <SummarizeField field="Qty" action="Concat" rename="Qty">
+              <Concat_Start />
+              <Separator />
+              <Concat_End />
+            </SummarizeField>
+            <SummarizeField field="Unit Price(USD)" action="Concat" rename="Unit Price(USD)">
+              <Concat_Start />
+              <Separator />
+              <Concat_End />
+            </SummarizeField>
+            <SummarizeField field="Amount(USD)" action="Concat" rename="Amount(USD)">
+              <Concat_Start />
+              <Separator />
+              <Concat_End />
+            </SummarizeField>
+          </SummarizeFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Concatenate and refine the data</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxSpatialPluginsEngine.dll" EngineDllEntryPoint="AlteryxSummarize" />
+    </Node>
+    <Node ToolID="14">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Union.Union">
+        <Position x="1062" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <ByName_ErrorMode>Warning</ByName_ErrorMode>
+          <ByName_OutputMode>All</ByName_OutputMode>
+          <Mode>ByName</Mode>
+          <SetOutputOrder value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Combine both the data</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxUnion" />
+    </Node>
+    <Node ToolID="15">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="1254" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\meghana\AppData\Local\Temp\Alteryx\Engine_16568_0c1868716e1c43b6a515885cde680da4_\Engine_16568_3594d2065e4641b88e23f045698e27e6~.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Final Table Output</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="16">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="1158" y="210" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Description" selected="True" size="1024" />
+            <SelectField field="Qty" selected="True" type="Int64" size="8" />
+            <SelectField field="Unit Price(USD)" selected="True" type="FixedDecimal" size="16.2" />
+            <SelectField field="Amount(USD)" selected="True" type="FixedDecimal" size="16.2" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <AnnotationText>Fix datatype and length</AnnotationText>
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="7" Connection="Template Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="8" Connection="Output" />
+      <Destination ToolID="9" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="9" Connection="Output" />
+      <Destination ToolID="10" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="10" Connection="Output" />
+      <Destination ToolID="12" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="12" Connection="True" />
+      <Destination ToolID="13" Connection="Input" />
+    </Connection>
+    <Connection name="#2">
+      <Origin ToolID="12" Connection="False" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection name="#1">
+      <Origin ToolID="13" Connection="Output" />
+      <Destination ToolID="14" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="14" Connection="Output" />
+      <Destination ToolID="16" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="16" Connection="Output" />
+      <Destination ToolID="15" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <RunWithE2 value="True" />
+    <DefaultTZ value="Local" />
+    <PredictiveToolsCodePage value="1252" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <IsTemplate value="False" />
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>ComputerVision-DocumentIntelligence</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+      <WorkflowId value="bec17dbc-ab13-4f1a-a521-69566d5e8641" />
+      <Telemetry>
+        <PreviousWorkflowId value="76ad9d6a-e017-4f8c-b0d7-dc86e070bad2" />
+        <OriginWorkflowId value="76ad9d6a-e017-4f8c-b0d7-dc86e070bad2" />
+      </Telemetry>
+      <PlatformWorkflowId value="" />
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>

@@ -1,0 +1,11 @@
+CurrencyCode | CurrencyValue | Country
+INR          | 1.00          | India
+USD          | 83.00         | United States
+EUR          | 90.00         | Eurozone
+GBP          | 105.00        | United Kingdom
+AED          | 22.60         | United Arab Emirates
+JPY          | 0.55          | Japan
+AUD          | 54.00         | Australia
+CAD          | 61.00         | Canada
+SGD          | 62.00         | Singapore
+CHF          | 92.00         | Switzerland

@@ -1,0 +1,7 @@
+StudentID,StudentName,DeptID
+S001,Aarav,D01
+S002,Diya,D01
+S003,Rohan,D02
+S004,Isha,D02
+S005,Neha,D03
+S006,Karan,D03
