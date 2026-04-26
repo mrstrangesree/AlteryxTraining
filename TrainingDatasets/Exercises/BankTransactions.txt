@@ -1,0 +1,1201 @@
+TransactionID|TransactionDate|AccountNumber|CustomerName|TransactionType|Merchant|Category|Amount|Currency|BalanceAfter|PaymentMethod|Status
+TXN100050|2025-02-30|ACCT17728||C|Target|Electronics|0|USD|5708.86|Wire|Pending
+TXN100001|2025-11-23|ACCT29953|Sarah Miller|C|Apple|Bills|170.49|USD|3858.95|Zelle|Failed
+TXN100002|2025-08-30|ACCT56857|David Wilson|C|Amazon|Electronics|4956.26|USD|5816.96|Credit Card|Completed
+TXN100003|2025-12-24|ACCT81863|Emily Johnson|C|Apple|Groceries|1738.51|USD|7558.16|Debit Card|Reversed
+TXN100004|2025-07-12|ACCT28754|Sarah Miller|D|Amazon|Electronics|4660.99|USD|2335.65|ACH|Reversed
+TXN100005|2025-01-01|ACCT60812|David Wilson|C|Starbucks|Groceries|1800.82|USD|1646.34|Zelle|Reversed
+TXN100006|2025-12-08|ACCT86946|Jessica Davis|C|Starbucks|Groceries|-66.52|USD|7972.87|Zelle|Reversed
+TXN100007|2025-03-24|ACCT13552|Sarah Miller|D|Apple|Dining|296.46|USD|19227.91|Zelle|Pending
+TXN100008|2025-12-18|ACCT40520|David Wilson|C|Shell|Groceries|173.03|USD|6806.62|Debit Card|Failed
+TXN100009|2025-03-28|ACCT64482|David Wilson|C|Amazon|Electronics|3441.01|USD|7739.65|Zelle|Pending
+TXN100010|2025-04-03|ACCT16301|John Smith|C|Amazon|Bills|1237.91|USD|19560.09|ACH|Completed
+TXN100011|2025-12-02|ACCT57810|Michael Brown|D|Walmart|Fuel|3684.25|USD|19225.95|Wire|Reversed
+TXN100012|2025-12-03|ACCT15099|Michael Brown|D|Shell|Fuel|151.26|USD|19702.43|Wire|Failed
+TXN100013|2025-05-05|ACCT19921|Michael Brown|C|Amazon|Retail|2333.16|USD|6862.39|Credit Card|Failed
+TXN100014|2025-10-13|ACCT55196|Emily Johnson|D|Target|Electronics|4240.11|USD|19745.48|Wire|Completed
+TXN100015|2025-11-30|ACCT58742|John Smith|D|Costco|Retail|4678.41|USD|19051.74|Zelle|Failed
+TXN100016|2025-07-26|ACCT17987|Michael Brown|D|Amazon|Electronics|3180.92|USD|1137.23|ACH|Failed
+TXN100017|2025-10-06|ACCT23699|Emily Johnson|D|Starbucks|Fuel|3074.57|USD|7637.49|ACH|Completed
+TXN100018|2025-12-27|ACCT77276|David Wilson|C|Target|Electronics|1895.74|USD|2053.03|Credit Card|Completed
+TXN100019|2025-04-08|ACCT54444|John Smith|C|Costco|Groceries|315.42|USD|9881.6|Debit Card|Failed
+TXN100020|2025-09-15|ACCT16958|David Wilson|D|Walmart|Bills|2919.59|USD|16977.9|Zelle|Reversed
+TXN100021|2025-09-22|ACCT70886|Sarah Miller|D|Walmart|Bills|4284.76|USD|11607.21|ACH|Reversed
+TXN100022|2025-04-30|ACCT64243|Emily Johnson|C|Amazon|Bills|1837.32|USD|12885.8|Credit Card|Completed
+TXN100023|2025-03-29|ACCT83094|Jessica Davis|D|Shell|Bills|457.56|USD|4304.14|Wire|Reversed
+TXN100024|2025-03-09|ACCT34820|David Wilson|C|Walmart|Retail|1200.68|USD|3307.85|ACH|Completed
+TXN100025|2025-06-30|ACCT29903|Michael Brown|C|Shell|Groceries|3098.48|USD|1358.41|Wire|Completed
+TXN100026|2025-04-24|ACCT68951|John Smith|C|Walmart|Fuel|3133.25|USD|3796.01|Wire|Reversed
+TXN100027|2025-10-02|ACCT75527|Sarah Miller|C|Apple|Dining|2599.9|USD|11088.32|Credit Card|Completed
+TXN100028|2025-12-05|ACCT97367|Michael Brown|C|Target|Dining|525.42|USD|13756.75|ACH|Completed
+TXN100029|2025-10-08|ACCT23232|Emily Johnson|C|Apple|Fuel|309.04|USD|13988.82|Zelle|Pending
+TXN100030|2025-10-04|ACCT92240|Emily Johnson|D|Starbucks|Electronics|2137.76|USD|5222.81|Zelle|Reversed
+TXN100031|2025-12-09|ACCT48072|David Wilson|C|Shell|Retail|3986.59|USD|13642.49|Credit Card|Failed
+TXN100032|2025-11-28|ACCT45631|David Wilson|C|Walmart|Groceries|163.72|USD|14504.91|ACH|Completed
+TXN100033|2025-01-12|ACCT92318|Emily Johnson|D|Shell|Bills|168.53|USD|18810.8|Credit Card|Failed
+TXN100034|2025-06-05|ACCT19878|Sarah Miller|D|Shell|Electronics|4242.05|USD|1006.58|Wire|Pending
+TXN100035|2025-10-30|ACCT42186|Emily Johnson|C|Walmart|Fuel|4684.38|USD|11693.88|Wire|Pending
+TXN100036|2025-02-07|ACCT45888|John Smith|D|Shell|Electronics|1168.32|USD|13142.26|Credit Card|Completed
+TXN100037|2025-05-22|ACCT28452|Jessica Davis|D|Starbucks|Fuel|173.56|USD|19041.4|Wire|Failed
+TXN100038|2025-02-04|ACCT39394|David Wilson|D|Starbucks|Bills|3289.91|USD|8550.36|Credit Card|Reversed
+TXN100039|2025-11-25|ACCT39118|Sarah Miller|C|Target|Electronics|320.03|USD|13497.06|Debit Card|Reversed
+TXN100040|2025-11-24|ACCT51216|Jessica Davis|C|Starbucks|Dining|1201.12|USD|18788.28|Debit Card|Completed
+TXN100041|2025-04-04|ACCT17583|Jessica Davis|C|Shell|Bills|3196.62|USD|12532.52|Wire|Completed
+TXN100042|2025-10-19|ACCT43881|David Wilson|C|Apple|Groceries|1947.06|USD|9965.11|Zelle|Pending
+TXN100043|2025-07-03|ACCT41190|Emily Johnson|D|Apple|Retail|2282.69|USD|3707.8|Credit Card|Pending
+TXN100044|2025-02-10|ACCT46449|Michael Brown|C|Apple|Electronics|857.27|USD|3258.73|Credit Card|Reversed
+TXN100045|2025-03-04|ACCT67824|Sarah Miller|D|Starbucks|Dining|-480.65|USD|12708.95|Debit Card|Completed
+TXN100046|2025-05-22|ACCT64724|Michael Brown|C|Starbucks|Fuel|3318.13|USD|13189.35|Zelle|Reversed
+TXN100047|2025-12-12|ACCT81645|Jessica Davis|C|Amazon|Electronics|561.98|USD|12356.0|Credit Card|Completed
+TXN100048|2025-08-22|ACCT99730|Jessica Davis|C|Starbucks|Dining|4434.89|USD|15234.67|Debit Card|Pending
+TXN100049|2025-05-30|ACCT82298|John Smith|D|Amazon|Groceries|1766.68|USD|2835.24|Zelle|Reversed
+TXN100050|2025-08-25|ACCT72524|John Smith|D|Walmart|Dining|2708.98|USD|9276.07|Debit Card|Failed
+TXN100051|2025-03-08|ACCT10074|David Wilson|C|Amazon|Bills|2244.3|USD|19491.09|Wire|Reversed
+TXN100052|2025-01-31|ACCT64214|Sarah Miller|D|Costco|Dining|75.25|USD|12807.78|Credit Card|Reversed
+TXN100053|2025-05-15|ACCT48579|Emily Johnson|D|Amazon|Retail|354.32|USD|7610.64|ACH|Pending
+TXN100054|2025-11-02|ACCT51805|Michael Brown|C|Walmart|Bills|958.34|USD|7411.15|Debit Card|Completed
+TXN100055|2025-09-16|ACCT85305|Sarah Miller|C|Costco|Electronics|1071.63|USD|7535.13|ACH|Reversed
+TXN100056|2025-11-29|ACCT16820|Jessica Davis|C|Costco|Retail|1851.74|USD|1081.14|Zelle|Completed
+TXN100057|2025-09-04|ACCT58729|Emily Johnson|D|Target|Bills|-249.91|USD|9290.83|Wire|Completed
+TXN100058|2025-07-30|ACCT25152|Emily Johnson|C|Apple|Fuel|4480.89|USD|4316.48|Zelle|Completed
+TXN100059|2025-07-18|ACCT22134|Michael Brown|D|Shell|Dining|3599.1|USD|10150.59|Wire|Pending
+TXN100060|2025-08-22|ACCT26215|John Smith|D|Apple|Groceries|216.8|USD|16316.88|Debit Card|Completed
+TXN100061|2025-04-17|ACCT92179|Emily Johnson|C|Target|Groceries|-498.49|USD|18249.44|Credit Card|Failed
+TXN100062|2025-06-22|ACCT87003|David Wilson|D|Apple|Electronics|2538.75|USD|14234.1|Wire|Reversed
+TXN100063|2025-10-29|ACCT25788|Jessica Davis|C|Shell|Dining|253.51|USD|19806.61|ACH|Failed
+TXN100064|2025-03-29|ACCT90224|David Wilson|C|Shell|Fuel|4709.35|USD|12168.22|Wire|Reversed
+TXN100065|2025-08-24|ACCT72489|Emily Johnson|D|Amazon|Bills|545.8|USD|5266.31|Zelle|Pending
+TXN100066|2025-10-02|ACCT54010|Sarah Miller|C|Shell|Dining|2454.66|USD|15029.38|Wire|Pending
+TXN100067|2025-10-31|ACCT14672|John Smith|D|Amazon|Electronics|125.37|USD|16194.62|Credit Card|Failed
+TXN100068|2025-12-20|ACCT85542|David Wilson|C|Costco|Retail|3433.81|USD|10329.51|Zelle|Reversed
+TXN100069|2025-10-26|ACCT45281|Jessica Davis|C|Starbucks|Bills|1716.46|USD|16081.94|Debit Card|Reversed
+TXN100070|2025-09-26|ACCT50662|Jessica Davis|C|Apple|Electronics|4783.72|USD|15622.65|ACH|Pending
+TXN100071|2025-02-27|ACCT71080|Emily Johnson|C|Apple|Groceries|4185.74|USD|18730.66|Zelle|Failed
+TXN100072|2025-10-17|ACCT55220|Emily Johnson|C|Apple|Dining|4876.26|USD|19801.33|Credit Card|Completed
+TXN100073|2025-02-25|ACCT45303|Jessica Davis|C|Walmart|Fuel|1024.41|USD|9934.84|Zelle|Completed
+TXN100074|2025-11-28|ACCT98728|Emily Johnson|C|Costco|Bills|4310.62|USD|9482.56|Credit Card|Reversed
+TXN100075|2025-12-29|ACCT87723|Sarah Miller|C|Costco|Groceries|2963.28|USD|16702.13|ACH|Completed
+TXN100076|2025-07-23|ACCT80882|Sarah Miller|C|Apple|Groceries|2676.41|USD|1141.21|Wire|Completed
+TXN100077|2025-05-29|ACCT61942|David Wilson|C|Apple|Retail|2736.07|USD|3513.79|Wire|Pending
+TXN100078|2025-08-01|ACCT86443|John Smith|D|Starbucks|Groceries|1838.43|USD|14631.26|Credit Card|Reversed
+TXN100079|2025-04-19|ACCT78138|Michael Brown|D|Starbucks|Fuel|1376.74|USD|7498.2|ACH|Pending
+TXN100080|2025-02-16|ACCT75244|David Wilson|C|Shell|Dining|9.46|USD|1086.59|Credit Card|Completed
+TXN100081|2025-10-19|ACCT41121|Jessica Davis|D|Amazon|Bills|430.22|USD|3888.19|Credit Card|Completed
+TXN100082|2025-07-04|ACCT10805|Sarah Miller|D|Amazon|Bills|-367.51|USD|15793.5|Zelle|Pending
+TXN100083|2025-11-09|ACCT15218|David Wilson|C|Shell|Groceries|990.67|USD|14555.36|Debit Card|Pending
+TXN100084|2025-11-12|ACCT95959|Michael Brown|C|Costco|Dining|4075.17|USD|17249.89|Wire|Pending
+TXN100085|2025-01-06|ACCT87870|Michael Brown|D|Starbucks|Groceries|4955.11|USD|11079.78|Credit Card|Pending
+TXN100086|2025-08-04|ACCT77273|Michael Brown|C|Apple|Fuel|690.66|USD|9343.78|Zelle|Completed
+TXN100087|2025-01-30|ACCT54697|David Wilson|C|Amazon|Retail|4411.2|USD|18763.28|Wire|Reversed
+TXN100088|2026-01-19|ACCT66449|John Smith|C|Apple|Groceries|3164.81|USD|1385.66|Debit Card|Completed
+TXN100089|2026-01-21|ACCT14084|Michael Brown|C|Apple|Dining|1574.8|USD|17701.37|Credit Card|Failed
+TXN100090|2025-07-10|ACCT27532|Michael Brown|D|Apple|Groceries|2135.09|USD|10656.68|Credit Card|Pending
+TXN100091|2025-02-11|ACCT21846|Jessica Davis|C|Costco|Electronics|1145.16|USD|13055.16|Credit Card|Pending
+TXN100092|2025-02-17|ACCT37523|Jessica Davis|C|Shell|Electronics|1849.8|USD|16046.13|Wire|Pending
+TXN100093|2026-01-12|ACCT29171|Sarah Miller|C|Apple|Bills|2837.9|USD|9655.73|ACH|Failed
+TXN100094|2025-04-18|ACCT97056|Emily Johnson|D|Apple|Retail|1952.59|USD|12257.24|Wire|Pending
+TXN100095|2025-03-20|ACCT17976|David Wilson|D|Shell|Electronics|4755.53|USD|11644.18|Wire|Pending
+TXN100096|2026-01-28|ACCT73084|John Smith|C|Shell|Dining|3664.93|USD|18520.52|Credit Card|Failed
+TXN100097|2025-03-06|ACCT18361|Michael Brown|C|Starbucks|Electronics|2331.22|USD|11694.8|Zelle|Pending
+TXN100098|2026-01-24|ACCT80552|Emily Johnson|D|Apple|Retail|4237.08|USD|16107.09|ACH|Failed
+TXN100099|2025-03-26|ACCT33398|David Wilson|C|Starbucks|Bills|4228.67|USD|6310.87|Zelle|Failed
+TXN100100|2025-10-23|ACCT45927|Sarah Miller|C|Costco|Fuel|2670.9|USD|16721.34|Zelle|Completed
+TXN100101|2025-04-11|ACCT32273|David Wilson|C|Walmart|Fuel|2863.74|USD|10620.33|Zelle|Completed
+TXN100102|2025-04-13|ACCT75905|David Wilson|D|Amazon|Dining|2509.73|USD|8439.02|Wire|Completed
+TXN100103|2025-02-14|ACCT27488|David Wilson|C|Apple|Dining|2708.05|USD|18010.3|Debit Card|Pending
+TXN100104|2025-05-03|ACCT12168|Jessica Davis|D|Walmart|Fuel|-79.32|USD|4494.91|Wire|Failed
+TXN100105|2025-06-30|ACCT21184|David Wilson|C|Amazon|Retail|2197.44|USD|15265.52|ACH|Reversed
+TXN100106|2025-08-24|ACCT78786|Michael Brown|D|Apple|Electronics|2659.11|USD|18936.77|Credit Card|Failed
+TXN100107|2025-03-04|ACCT10019|Emily Johnson|D|Shell|Bills|1302.39|USD|14883.18|Wire|Reversed
+TXN100108|2025-11-12|ACCT66490|Jessica Davis|D|Shell|Retail|1681.33|USD|19423.01|Wire|Pending
+TXN100109|2025-07-09|ACCT40890|Michael Brown|C|Target|Retail|974.92|USD|7652.55|Wire|Completed
+TXN100110|2025-10-09|ACCT80271|John Smith|C|Amazon|Electronics|2544.1|USD|3068.23|Debit Card|Reversed
+TXN100111|2025-07-09|ACCT26688|Sarah Miller|C|Amazon|Dining|2430.76|USD|15476.91|Zelle|Failed
+TXN100112|2025-09-06|ACCT53278|Emily Johnson|D|Amazon|Dining|800.84|USD|12438.11|Credit Card|Reversed
+TXN100113|2025-04-14|ACCT38561|Jessica Davis|D|Amazon|Bills|2220.63|USD|4367.07|ACH|Pending
+TXN100114|2025-01-25|ACCT65392|David Wilson|D|Target|Retail|-290.74|USD|8166.43|Debit Card|Completed
+TXN100115|2025-06-11|ACCT97515|Jessica Davis|D|Target|Electronics|4582.11|USD|7327.81|ACH|Failed
+TXN100116|2025-07-04|ACCT41988|Emily Johnson|D|Starbucks|Bills|2807.08|USD|10182.45|Wire|Reversed
+TXN100117|2025-07-21|ACCT30673|Jessica Davis|C|Walmart|Dining|1753.99|USD|4180.67|Zelle|Failed
+TXN100118|2025-11-21|ACCT12105|Jessica Davis|C|Apple|Retail|3018.21|USD|7983.68|Credit Card|Reversed
+TXN100119|2025-02-23|ACCT92788|Jessica Davis|C|Costco|Fuel|4754.77|USD|15565.62|Debit Card|Completed
+TXN100120|2025-07-08|ACCT66392|Jessica Davis|C|Amazon|Dining|1689.44|USD|13453.71|Credit Card|Failed
+TXN100121|2025-06-19|ACCT42803|David Wilson|D|Apple|Fuel|2005.65|USD|18207.29|ACH|Failed
+TXN100122|2025-01-24|ACCT67663|Emily Johnson|C|Starbucks|Dining|-61.24|USD|3830.6|ACH|Pending
+TXN100123|2025-09-13|ACCT98878|Michael Brown|C|Amazon|Bills|1559.12|USD|2725.42|Credit Card|Pending
+TXN100124|2025-04-08|ACCT30304|David Wilson|D|Shell|Bills|4828.38|USD|10672.83|Credit Card|Completed
+TXN100125|2025-07-08|ACCT75252|John Smith|C|Apple|Electronics|1381.75|USD|9665.86|Wire|Pending
+TXN100126|2025-10-18|ACCT10565|Sarah Miller|C|Walmart|Dining|2780.0|USD|15937.29|Wire|Reversed
+TXN100127|2025-10-19|ACCT13472|Emily Johnson|C|Apple|Bills|42.89|USD|5691.02|Zelle|Completed
+TXN100128|2026-01-30|ACCT76108|David Wilson|D|Costco|Bills|856.6|USD|19738.15|Wire|Completed
+TXN100129|2026-01-30|ACCT66003|David Wilson|C|Target|Retail|4221.83|USD|14869.95|Zelle|Failed
+TXN100130|2025-07-08|ACCT66273|Jessica Davis|D|Walmart|Dining|318.57|USD|11594.32|Credit Card|Failed
+TXN100131|2025-09-30|ACCT89632|Jessica Davis|C|Costco|Dining|3003.95|USD|7886.34|ACH|Pending
+TXN100132|2025-01-21|ACCT83402|Jessica Davis|C|Amazon|Bills|1913.82|USD|17784.18|ACH|Failed
+TXN100133|2025-05-31|ACCT10730|Jessica Davis|D|Costco|Groceries|1870.77|USD|14465.43|Wire|Reversed
+TXN100134|2025-05-29|ACCT49644|Jessica Davis|C|Amazon|Dining|377.84|USD|13921.75|ACH|Pending
+TXN100135|2025-09-25|ACCT25872|Emily Johnson|D|Apple|Retail|4483.08|USD|17805.87|Debit Card|Completed
+TXN100136|2025-03-26|ACCT53169|John Smith|D|Shell|Fuel|2618.71|USD|9669.03|ACH|Reversed
+TXN100137|2025-04-24|ACCT41586|John Smith|C|Target|Electronics|436.61|USD|3684.68|Debit Card|Pending
+TXN100138|2025-11-20|ACCT31211|Emily Johnson|C|Costco|Fuel|3646.72|USD|18596.55|Wire|Completed
+TXN100139|2025-02-06|ACCT91274|Michael Brown|C|Apple|Fuel|3346.81|USD|12808.82|ACH|Reversed
+TXN100140|2026-01-02|ACCT91763|Sarah Miller|D|Apple|Bills|2024.51|USD|13627.14|Credit Card|Pending
+TXN100141|2025-02-25|ACCT21998|Emily Johnson|D|Walmart|Bills|217.44|USD|8632.43|ACH|Pending
+TXN100142|2025-09-11|ACCT55240|John Smith|C|Starbucks|Electronics|1965.55|USD|14569.41|Zelle|Failed
+TXN100143|2025-10-10|ACCT14285|Emily Johnson|C|Amazon|Electronics|1117.97|USD|8157.95|Debit Card|Reversed
+TXN100144|2025-02-05|ACCT12867|David Wilson|D|Costco|Fuel|3312.64|USD|16575.61|ACH|Pending
+TXN100145|2025-12-26|ACCT98032|Michael Brown|C|Walmart|Groceries|68.01|USD|3077.98|Wire|Pending
+TXN100146|2025-08-21|ACCT90119|David Wilson|C|Walmart|Groceries|4830.79|USD|9933.3|Wire|Failed
+TXN100147|2026-01-16|ACCT80179|Sarah Miller|D|Walmart|Retail|3540.89|USD|6747.83|Credit Card|Pending
+TXN100148|2025-07-23|ACCT48543|Emily Johnson|D|Apple|Bills|1092.41|USD|6208.04|Zelle|Completed
+TXN100149|2025-06-11|ACCT12748|Michael Brown|C|Starbucks|Bills|1065.08|USD|7098.25|Credit Card|Pending
+TXN100150|2025-01-31|ACCT77537|David Wilson|C|Apple|Groceries|4529.0|USD|4047.39|Credit Card|Reversed
+TXN100151|2025-02-16|ACCT54571|John Smith|D|Apple|Electronics|736.27|USD|14107.34|Zelle|Reversed
+TXN100152|2025-06-22|ACCT84117|John Smith|C|Starbucks|Dining|-46.65|USD|7150.81|ACH|Failed
+TXN100153|2025-05-07|ACCT77139|Emily Johnson|C|Apple|Electronics|586.13|USD|9511.98|ACH|Pending
+TXN100154|2025-08-01|ACCT28500|John Smith|C|Walmart|Electronics|2741.78|USD|15283.79|Wire|Completed
+TXN100155|2025-10-03|ACCT49931|John Smith|D|Starbucks|Fuel|3108.02|USD|3497.2|Debit Card|Failed
+TXN100156|2025-09-25|ACCT88702|Emily Johnson|D|Shell|Groceries|2638.38|USD|9436.47|ACH|Failed
+TXN100157|2025-10-04|ACCT37547|Sarah Miller|C|Apple|Dining|-123.58|USD|3233.47|ACH|Failed
+TXN100158|2025-06-09|ACCT51040|John Smith|C|Walmart|Dining|-106.33|USD|3432.08|Wire|Completed
+TXN100159|2025-01-03|ACCT76734|Michael Brown|D|Amazon|Electronics|3885.2|USD|10890.41|Wire|Completed
+TXN100160|2025-07-06|ACCT67863|Jessica Davis|C|Walmart|Dining|564.43|USD|18311.75|Wire|Failed
+TXN100161|2025-12-21|ACCT84171|John Smith|D|Shell|Retail|3237.85|USD|15702.61|Zelle|Failed
+TXN100162|2025-11-04|ACCT43141|John Smith|D|Amazon|Fuel|4455.79|USD|6980.66|ACH|Completed
+TXN100163|2026-02-04|ACCT61827|Jessica Davis|D|Walmart|Retail|4393.51|USD|5813.31|Wire|Completed
+TXN100164|2025-05-30|ACCT15298|Michael Brown|C|Starbucks|Bills|2312.81|USD|19803.13|Zelle|Reversed
+TXN100165|2025-08-11|ACCT38838|John Smith|C|Walmart|Electronics|4847.27|USD|12146.94|Wire|Reversed
+TXN100166|2025-04-25|ACCT56615|Emily Johnson|C|Costco|Electronics|-499.42|USD|8501.53|Zelle|Failed
+TXN100167|2025-08-17|ACCT95366|Michael Brown|C|Costco|Bills|1318.96|USD|3968.45|Debit Card|Completed
+TXN100168|2025-09-13|ACCT37961|Emily Johnson|D|Amazon|Retail|676.42|USD|13050.3|Zelle|Reversed
+TXN100169|2025-03-10|ACCT62333|John Smith|C|Costco|Retail|4265.16|USD|1162.95|Debit Card|Reversed
+TXN100170|2025-05-16|ACCT84985|David Wilson|C|Shell|Bills|2590.01|USD|14480.41|Zelle|Reversed
+TXN100171|2025-03-12|ACCT97501|David Wilson|D|Target|Groceries|4203.15|USD|3380.1|Credit Card|Reversed
+TXN100172|2025-04-03|ACCT48680|Sarah Miller|D|Target|Electronics|2132.59|USD|16808.69|Zelle|Pending
+TXN100173|2025-12-24|ACCT87647|John Smith|C|Amazon|Groceries|4386.32|USD|19965.63|Debit Card|Completed
+TXN100174|2025-03-02|ACCT53529|Michael Brown|C|Amazon|Groceries|2599.16|USD|6067.55|ACH|Pending
+TXN100175|2025-09-08|ACCT47271|Jessica Davis|C|Amazon|Bills|1373.99|USD|5979.0|Wire|Failed
+TXN100176|2025-03-12|ACCT78063|Michael Brown|D|Apple|Bills|3239.04|USD|6993.82|Wire|Pending
+TXN100177|2026-01-07|ACCT90168|Michael Brown|C|Amazon|Retail|-272.9|USD|4027.97|Zelle|Reversed
+TXN100178|2025-12-23|ACCT44744|John Smith|C|Shell|Fuel|1669.53|USD|14369.07|ACH|Reversed
+TXN100179|2025-01-31|ACCT48500|David Wilson|C|Apple|Dining|1906.12|USD|6892.14|Zelle|Completed
+TXN100180|2025-04-04|ACCT33881||D|Shell|Retail|2176.32|USD|18359.43|ACH|Completed
+TXN100181|2025-08-18|ACCT92152|David Wilson|D|Costco|Bills|1515.79|USD|10832.24|Credit Card|Pending
+TXN100182|2025-04-29|ACCT80692|Michael Brown|C|Apple|Groceries|256.44|USD|16722.61|ACH|Failed
+TXN100183|2025-03-26|ACCT93779|Michael Brown|D|Starbucks|Dining|3123.44|USD|19504.15|ACH|Pending
+TXN100184|2025-03-11|ACCT74123|Michael Brown|D|Walmart|Bills|3704.68|USD|5444.95|Debit Card|Reversed
+TXN100185|2025-09-04|ACCT51643|David Wilson|C|Target|Electronics|1028.93|USD|6449.15|Credit Card|Completed
+TXN100186|2025-05-16|ACCT75064|David Wilson|C|Walmart|Dining|1913.5|USD|13786.33|ACH|Completed
+TXN100187|2025-01-08|ACCT91011|Sarah Miller|C|Shell|Groceries|4079.93|USD|1425.48|ACH|Failed
+TXN100188|2025-01-28|ACCT47931|Emily Johnson|C|Shell|Bills|4819.07|USD|4819.46|Wire|Reversed
+TXN100189|2025-11-13|ACCT10413|Emily Johnson|D|Target|Electronics|1265.24|USD|1456.22|ACH|Completed
+TXN100190|2025-04-08|ACCT59007|Emily Johnson|D|Starbucks|Dining|-325.19|USD|7446.36|ACH|Completed
+TXN100191|2025-02-02|ACCT46368|John Smith|D|Walmart|Groceries|974.72|USD|11868.55|Zelle|Completed
+TXN100192|2025-02-18|ACCT92564|David Wilson|D|Starbucks|Groceries|2095.63|USD|13957.46|Debit Card|Pending
+TXN100193|2025-05-14|ACCT39212|David Wilson|D|Costco|Groceries|476.96|USD|8630.13|Wire|Failed
+TXN100194|2025-02-07|ACCT29847|John Smith|C|Shell|Groceries|1927.43|USD|6567.52|ACH|Reversed
+TXN100195|2025-02-25|ACCT14082|Michael Brown|D|Apple|Fuel|2173.66|USD|10888.09|Wire|Completed
+TXN100196|2025-12-31|ACCT94189|David Wilson|D|Starbucks|Fuel|2176.53|USD|14376.21|Debit Card|Pending
+TXN100197|2026-01-23|ACCT74555|Emily Johnson|C|Shell|Groceries|-106.85|USD|2990.26|Debit Card|Reversed
+TXN100198|2025-09-01|ACCT32689|Sarah Miller|D|Walmart|Dining|4632.11|USD|4762.94|ACH|Completed
+TXN100199|2025-12-16|ACCT18230|Jessica Davis|C|Target|Dining|2341.59|USD|5046.51|ACH|Completed
+TXN100050|2025-07-24|ACCT15731|Sarah Miller|D|Amazon|Bills|610.65|USD|6476.8|Wire|Pending
+TXN100201|2025-03-07|ACCT19299|Jessica Davis|C|Apple|Bills|2661.74|USD|10375.64|Zelle|Reversed
+TXN100202|2025-09-28|ACCT36613|Emily Johnson|C|Shell|Fuel|1291.43|USD|5343.65|Wire|Pending
+TXN100203|2026-01-22|ACCT79590|Emily Johnson|D|Starbucks|Retail|830.53|USD|19385.82|Wire|Failed
+TXN100204|2025-07-13|ACCT12869|Michael Brown|C|Starbucks|Groceries|2794.5|USD|13545.43|Credit Card|Reversed
+TXN100205|2026-01-26|ACCT76302|Michael Brown|C|Target|Fuel|2084.42|USD|12111.85|Debit Card|Failed
+TXN100206|2025-04-27|ACCT49633|Jessica Davis|C|Costco|Groceries|1937.53|USD|2449.47|Wire|Completed
+TXN100207|2025-10-15|ACCT45753|David Wilson|D|Apple|Dining|161.48|USD|16216.13|Credit Card|Reversed
+TXN100208|2025-02-05|ACCT37979|Michael Brown|C|Walmart|Electronics|481.92|USD|10761.48|ACH|Reversed
+TXN100209|2025-05-17|ACCT62275|Jessica Davis|D|Shell|Fuel|3439.58|USD|18601.03|ACH|Reversed
+TXN100210|2026-02-04|ACCT70018|Jessica Davis|D|Target|Groceries|4476.19|USD|11781.19|Zelle|Completed
+TXN100211|2025-09-29|ACCT26658|David Wilson|D|Target|Retail|3379.29|USD|4617.66|Debit Card|Failed
+TXN100212|2025-12-14|ACCT25680|John Smith|C|Starbucks|Retail|1531.95|USD|17876.3|ACH|Failed
+TXN100213|2025-07-23|ACCT55108|David Wilson|D|Walmart|Dining|283.42|USD|9540.98|Zelle|Failed
+TXN100214|2026-01-18|ACCT46545|David Wilson|C|Amazon|Bills|3177.35|USD|11054.09|Wire|Failed
+TXN100215|2025-12-18|ACCT52316|Jessica Davis|C|Walmart|Bills|4466.95|USD|13048.34|Credit Card|Reversed
+TXN100216|2026-01-17|ACCT91856|David Wilson|D|Target|Bills|4708.63|USD|14511.14|ACH|Reversed
+TXN100217|2025-08-23|ACCT84701|David Wilson|D|Costco|Retail|484.14|USD|5493.83|Credit Card|Pending
+TXN100218|2025-03-19|ACCT31226|David Wilson|C|Walmart|Retail|245.16|USD|4095.93|Debit Card|Completed
+TXN100219|2025-04-01|ACCT50739|David Wilson|D|Costco|Retail|3445.18|USD|3660.53|ACH|Reversed
+TXN100220|2025-04-13|ACCT14557|Emily Johnson|C|Starbucks|Fuel|36.17|USD|16457.89|Debit Card|Failed
+TXN100221|2026-01-23|ACCT69488|David Wilson|C|Starbucks|Bills|4615.59|USD|15605.7|Debit Card|Failed
+TXN100222|2025-05-05|ACCT48433|John Smith|D|Starbucks|Groceries|1955.75|USD|5105.0|Credit Card|Failed
+TXN100223|2025-01-18|ACCT72145|Jessica Davis|D|Costco|Dining|1048.91|USD|11930.93|Credit Card|Completed
+TXN100224|2025-12-09|ACCT21672|Michael Brown|D|Apple|Fuel|1778.57|USD|1790.92|Zelle|Pending
+TXN100225|2025-03-05|ACCT25583|Sarah Miller|C|Costco|Retail|3951.25|USD|5305.99|ACH|Failed
+TXN100226|2025-01-22|ACCT92982|Michael Brown|D|Walmart|Bills|-241.01|USD|2022.12|ACH|Failed
+TXN100227|2026-01-09|ACCT36377|Sarah Miller|D|Walmart|Dining|675.6|USD|6486.55|Wire|Reversed
+TXN100228|2025-06-19|ACCT60873|Sarah Miller|C|Apple|Fuel|717.24|USD|8001.58|Zelle|Reversed
+TXN100229|2026-01-21|ACCT49117|John Smith|D|Target|Dining|3916.15|USD|19680.84|Zelle|Pending
+TXN100230|2025-09-09|ACCT38465|John Smith|C|Walmart|Dining|2788.67|USD|14487.68|Wire|Failed
+TXN100231|2025-10-01|ACCT22660|John Smith|D|Amazon|Bills|1250.47|USD|4200.43|Credit Card|Completed
+TXN100232|2025-06-16|ACCT56243|Emily Johnson|D|Amazon|Dining|2556.89|USD|19953.92|Zelle|Reversed
+TXN100233|2025-02-13|ACCT43828|David Wilson|C|Apple|Electronics|2917.57|USD|1678.55|Debit Card|Completed
+TXN100234|2025-12-04|ACCT70222|Michael Brown|C|Apple|Dining|855.32|USD|2917.59|Credit Card|Completed
+TXN100235|2025-08-31|ACCT17310|Jessica Davis|C|Walmart|Fuel|859.33|USD|2972.42|Wire|Pending
+TXN100236|2025-05-12|ACCT38813|David Wilson|C|Walmart|Dining|3847.71|USD|5616.29|Credit Card|Reversed
+TXN100237|2026-01-25|ACCT50771|Michael Brown|C|Apple|Dining|3744.77|USD|11325.69|Zelle|Reversed
+TXN100238|2025-04-02|ACCT12920|Emily Johnson|D|Costco|Fuel|3353.9|USD|16904.08|Debit Card|Completed
+TXN100239|2025-10-30|ACCT41912|David Wilson|C|Target|Electronics|627.84|USD|12185.57|Debit Card|Failed
+TXN100240|2025-08-21|ACCT41677|Sarah Miller|D|Walmart|Dining|2744.57|USD|10446.74|Debit Card|Reversed
+TXN100241|2025-07-11|ACCT58010|Emily Johnson|D|Apple|Bills|3583.85|USD|13672.01|ACH|Completed
+TXN100242|2025-10-08|ACCT63777|Sarah Miller|C|Amazon|Groceries|2051.99|USD|8007.33|Zelle|Pending
+TXN100243|2025-03-09|ACCT34562|John Smith|D|Shell|Electronics|872.89|USD|15898.79|ACH|Failed
+TXN100244|2025-05-24|ACCT84850|Emily Johnson|D|Apple|Fuel|145.93|USD|12396.45|Zelle|Completed
+TXN100245|2025-07-27|ACCT40220|John Smith|C|Starbucks|Bills|4800.43|USD|9831.58|Credit Card|Reversed
+TXN100246|2025-05-07|ACCT37859|David Wilson|D|Apple|Fuel|3629.03|USD|6785.18|Zelle|Completed
+TXN100247|2025-05-12|ACCT65782|Emily Johnson|D|Amazon|Retail|2450.01|USD|13071.88|Wire|Failed
+TXN100248|2025-09-06|ACCT88325|Emily Johnson|D|Starbucks|Dining|697.86|USD|14934.93|ACH|Pending
+TXN100249|2025-04-29|ACCT23169|David Wilson|D|Starbucks|Groceries|2643.17|USD|4010.98|Wire|Completed
+TXN100250|2025-02-30|ACCT85751|David Wilson|D|Target|Retail|2584.18|USD|16189.11|Debit Card|Reversed
+TXN100251|2025-04-08|ACCT93059|John Smith|C|Walmart|Electronics|1837.38|USD|1867.67|Debit Card|Pending
+TXN100252|2025-08-11|ACCT80153|Emily Johnson|D|Costco|Retail|3974.66|USD|13060.44|Credit Card|Reversed
+TXN100253|2026-01-13|ACCT89025|Michael Brown|D|Amazon|Bills|2367.35|USD|12909.25|ACH|Completed
+TXN100254|2026-01-13|ACCT87728|David Wilson|D|Target|Retail|3308.22|USD|6483.87|Wire|Completed
+TXN100255|2025-12-04|ACCT69982|Sarah Miller|D|Walmart|Bills|-459.17|USD|8033.79|Credit Card|Completed
+TXN100256|2026-01-26|ACCT83408|Emily Johnson|C|Shell|Groceries|2153.27|USD|13697.55|Zelle|Completed
+TXN100257|2025-04-05|ACCT37156|John Smith|D|Amazon|Dining|1257.12|USD|2304.31|Wire|Failed
+TXN100258|2025-04-27|ACCT24248|David Wilson|D|Apple|Bills|1779.3|USD|9208.01|Wire|Failed
+TXN100259|2025-12-22|ACCT49700|David Wilson|D|Target|Dining|-15.6|USD|4718.79|Debit Card|Completed
+TXN100260|2025-09-02|ACCT17036|Michael Brown|C|Apple|Retail|3858.69|USD|10331.33|ACH|Completed
+TXN100261|2025-03-15|ACCT45747|Emily Johnson|D|Amazon|Groceries|4454.16|USD|19305.12|Credit Card|Failed
+TXN100262|2025-01-10|ACCT32954|Michael Brown|D|Starbucks|Dining|3700.47|USD|18431.26|Zelle|Completed
+TXN100263|2025-01-09|ACCT44543|Emily Johnson|C|Starbucks|Dining|1595.63|USD|17117.07|Zelle|Completed
+TXN100264|2025-01-31|ACCT70123|Sarah Miller|D|Amazon|Electronics|64.38|USD|14010.91|Debit Card|Completed
+TXN100265|2025-05-25|ACCT84864|Emily Johnson|C|Starbucks|Bills|2864.55|USD|4877.68|Zelle|Pending
+TXN100266|2025-11-23|ACCT71363|Jessica Davis|C|Costco|Bills|1006.39|USD|6489.74|Credit Card|Failed
+TXN100267|2025-10-14|ACCT73221|John Smith|D|Target|Dining|2651.23|USD|2964.61|Debit Card|Completed
+TXN100268|2025-04-04|ACCT21932|Emily Johnson|C|Shell|Dining|2326.55|USD|18947.75|Zelle|Reversed
+TXN100269|2025-09-13|ACCT77459|Michael Brown|D|Starbucks|Retail|3383.03|USD|5356.2|Zelle|Pending
+TXN100270|2025-04-06|ACCT12436|David Wilson|C|Walmart|Bills|4060.94|USD|3719.1|Debit Card|Pending
+TXN100271|2025-02-10|ACCT18056|Emily Johnson|D|Shell|Retail|2649.72|USD|14515.63|Wire|Failed
+TXN100272|2025-03-23|ACCT37079|David Wilson|D|Target|Dining|3307.39|USD|5315.47|ACH|Failed
+TXN100273|2025-03-31|ACCT97878|Jessica Davis|C|Amazon|Fuel|4383.14|USD|8823.04|Zelle|Reversed
+TXN100274|2025-05-09|ACCT99608|David Wilson|C|Starbucks|Dining|4065.34|USD|18650.84|Debit Card|Reversed
+TXN100275|2025-03-19|ACCT54674|Emily Johnson|D|Starbucks|Electronics|1054.62|USD|19463.84|Credit Card|Failed
+TXN100276|2025-11-07|ACCT97296|David Wilson|C|Apple|Dining|2563.5|USD|14389.11|ACH|Pending
+TXN100277|2025-08-29|ACCT23884|David Wilson|D|Target|Electronics|2789.45|USD|4650.32|Debit Card|Reversed
+TXN100278|2025-05-04|ACCT74396|Emily Johnson|D|Amazon|Groceries|4325.54|USD|1895.56|Credit Card|Failed
+TXN100279|2025-06-17|ACCT60995|Emily Johnson|C|Shell|Electronics|1600.0|USD|1186.39|Debit Card|Pending
+TXN100280|2025-03-09|ACCT99590|Jessica Davis|C|Shell|Electronics|3222.14|USD|9806.67|Wire|Reversed
+TXN100281|2025-08-11|ACCT86502|Sarah Miller|D|Target|Retail|4916.36|USD|15189.91|Zelle|Failed
+TXN100282|2025-02-08|ACCT59850|Michael Brown|D|Amazon|Fuel|26.39|USD|11410.01|Wire|Reversed
+TXN100283|2025-09-26|ACCT22840|Sarah Miller|C|Starbucks|Dining|1023.67|USD|8684.2|ACH|Failed
+TXN100284|2025-06-01|ACCT21913|Emily Johnson|D|Shell|Dining|2065.06|USD|19325.64|ACH|Reversed
+TXN100285|2025-03-29|ACCT12404|Sarah Miller|C|Target|Groceries|2857.54|USD|2148.63|Debit Card|Pending
+TXN100286|2025-01-01|ACCT76402|Emily Johnson|C|Target|Fuel|1302.31|USD|6296.42|Debit Card|Completed
+TXN100287|2025-03-13|ACCT90668|Emily Johnson|D|Starbucks|Dining|4194.0|USD|19429.23|Debit Card|Reversed
+TXN100288|2025-01-06|ACCT78743|Michael Brown|D|Starbucks|Dining|2875.08|USD|7705.99|Zelle|Pending
+TXN100289|2026-01-14|ACCT87746|Michael Brown|D|Target|Fuel|4140.63|USD|9062.88|Debit Card|Reversed
+TXN100290|2025-07-30|ACCT72153|John Smith|D|Shell|Fuel|1522.78|USD|15481.57|Wire|Failed
+TXN100291|2025-10-26|ACCT79928|Sarah Miller|D|Target|Dining|3973.98|USD|4404.29|Debit Card|Completed
+TXN100292|2026-01-01|ACCT78587|Michael Brown|C|Starbucks|Dining|-57.49|USD|11979.73|Credit Card|Failed
+TXN100293|2025-11-25|ACCT51750|Jessica Davis|C|Starbucks|Groceries|751.9|USD|9567.33|Credit Card|Completed
+TXN100294|2025-01-23|ACCT49110|Emily Johnson|C|Apple|Fuel|2285.47|USD|10793.42|Debit Card|Reversed
+TXN100295|2025-06-23|ACCT39893|Michael Brown|D|Shell|Groceries|3495.43|USD|2963.73|Credit Card|Failed
+TXN100296|2025-06-13|ACCT30764|John Smith|C|Target|Retail|4854.55|USD|5084.21|Zelle|Reversed
+TXN100297|2025-11-17|ACCT57920|Sarah Miller|D|Shell|Groceries|2675.18|USD|16140.04|Debit Card|Failed
+TXN100298|2025-02-13|ACCT71512|Jessica Davis|D|Walmart|Retail|247.93|USD|13216.99|Zelle|Reversed
+TXN100299|2025-09-02|ACCT55083|Jessica Davis|C|Walmart|Groceries|3955.69|USD|6588.88|Zelle|Failed
+TXN100300|2025-01-14|ACCT38383|Jessica Davis|C|Amazon|Dining|0|USD|3068.26|Credit Card|Failed
+TXN100301|2025-10-07|ACCT62269|David Wilson|D|Shell|Bills|2316.45|USD|11744.99|Debit Card|Failed
+TXN100302|2025-02-06|ACCT43231|Emily Johnson|C|Target|Electronics|18.07|USD|8929.77|Wire|Completed
+TXN100303|2025-07-07|ACCT61268|Sarah Miller|D|Costco|Dining|3265.3|USD|1233.16|Debit Card|Reversed
+TXN100304|2025-08-14|ACCT10622|John Smith|C|Apple|Electronics|4414.39|USD|1567.01|Wire|Completed
+TXN100305|2025-09-18|ACCT75768|David Wilson|C|Amazon|Bills|2793.37|USD|11303.77|Debit Card|Pending
+TXN100306|2025-01-22|ACCT76590|Emily Johnson|C|Amazon|Bills|541.46|USD|10418.95|Credit Card|Reversed
+TXN100307|2025-08-14|ACCT38533|John Smith|D|Shell|Groceries|2235.82|USD|19610.88|Credit Card|Completed
+TXN100308|2025-11-15|ACCT93114|Emily Johnson|C|Starbucks|Electronics|4428.88|USD|16454.3|Debit Card|Pending
+TXN100309|2025-06-25|ACCT45069|Emily Johnson|C|Walmart|Dining|4321.13|USD|11669.34|Zelle|Reversed
+TXN100310|2025-12-23|ACCT52411|Emily Johnson|C|Amazon|Electronics|1970.95|USD|9125.45|Debit Card|Pending
+TXN100311|2026-01-01|ACCT43194|Jessica Davis|C|Costco|Dining|3416.67|USD|8166.19|Debit Card|Completed
+TXN100312|2025-07-25|ACCT60206|David Wilson|C|Amazon|Groceries|3534.19|USD|12711.57|Debit Card|Failed
+TXN100313|2025-07-11|ACCT87279|Jessica Davis|C|Target|Groceries|2395.05|USD|19247.82|Zelle|Pending
+TXN100314|2025-09-27|ACCT91316|Jessica Davis|C|Amazon|Dining|732.03|USD|1184.68|Credit Card|Completed
+TXN100315|2025-09-03|ACCT83314|Jessica Davis|D|Amazon|Groceries|2633.91|USD|11814.94|Credit Card|Completed
+TXN100316|2025-04-01|ACCT41945|Michael Brown|C|Apple|Retail|566.86|USD|14694.04|Zelle|Completed
+TXN100317|2025-04-23|ACCT70472|Michael Brown|D|Apple|Retail|2142.43|USD|1930.94|Credit Card|Completed
+TXN100318|2025-04-08|ACCT60426|Jessica Davis|C|Amazon|Retail|4955.78|USD|9714.9|Credit Card|Pending
+TXN100319|2026-02-05|ACCT75316|Sarah Miller|C|Starbucks|Dining|804.98|USD|13284.2|ACH|Completed
+TXN100320|2025-10-16|ACCT24896|David Wilson|D|Apple|Groceries|4084.99|USD|4617.67|Credit Card|Pending
+TXN100321|2025-02-03|ACCT35836|David Wilson|C|Costco|Electronics|4535.66|USD|15899.22|Debit Card|Completed
+TXN100322|2025-01-15|ACCT77981|Sarah Miller|D|Costco|Groceries|500.94|USD|4683.67|Wire|Pending
+TXN100323|2025-01-27|ACCT70242|Sarah Miller|C|Shell|Bills|914.87|USD|6725.24|Wire|Completed
+TXN100324|2025-04-29|ACCT87108|Sarah Miller|C|Target|Retail|83.51|USD|18415.47|Credit Card|Failed
+TXN100325|2025-12-07|ACCT32935|Michael Brown|C|Target|Fuel|2682.21|USD|10822.42|Zelle|Failed
+TXN100326|2025-05-22|ACCT51477|Jessica Davis|C|Amazon|Dining|4720.77|USD|17550.42|Wire|Completed
+TXN100327|2025-01-01|ACCT39670|Emily Johnson|C|Target|Electronics|2520.31|USD|13029.65|ACH|Reversed
+TXN100328|2025-09-22|ACCT92971|Sarah Miller|D|Target|Groceries|2342.24|USD|5551.41|Zelle|Pending
+TXN100329|2025-07-25|ACCT39389|John Smith|C|Costco|Bills|-387.11|USD|18155.96|ACH|Failed
+TXN100330|2025-12-12|ACCT14935|Emily Johnson|C|Amazon|Dining|2974.28|USD|19634.2|ACH|Completed
+TXN100331|2025-10-20|ACCT78393|Sarah Miller|D|Target|Bills|3666.39|USD|17975.78|Credit Card|Completed
+TXN100332|2025-05-13|ACCT94886|David Wilson|C|Costco|Bills|-308.1|USD|16867.55|Zelle|Pending
+TXN100333|2025-08-28|ACCT93953|John Smith|C|Walmart|Fuel|4579.85|USD|10521.93|Zelle|Completed
+TXN100334|2025-04-30|ACCT28930|Michael Brown|D|Costco|Groceries|4202.98|USD|12588.24|Zelle|Reversed
+TXN100335|2025-11-16|ACCT29735|John Smith|C|Target|Groceries|-50.43|USD|7350.36|Debit Card|Completed
+TXN100336|2025-09-28|ACCT23219|Sarah Miller|C|Walmart|Bills|2101.01|USD|8065.47|Zelle|Failed
+TXN100337|2025-01-30|ACCT64043|Jessica Davis|D|Shell|Retail|2073.33|USD|2724.27|ACH|Reversed
+TXN100338|2025-07-24|ACCT32118|David Wilson|D|Shell|Groceries|-127.18|USD|15690.81|ACH|Completed
+TXN100339|2025-02-02|ACCT91670|Sarah Miller|D|Amazon|Retail|1501.45|USD|16477.15|ACH|Reversed
+TXN100340|2025-11-07|ACCT39573|David Wilson|D|Shell|Bills|479.06|USD|4775.59|Credit Card|Failed
+TXN100341|2025-06-01|ACCT94914|John Smith|D|Shell|Groceries|3943.55|USD|14385.53|ACH|Failed
+TXN100342|2025-07-01|ACCT77381|John Smith|C|Target|Retail|2200.83|USD|1959.83|Zelle|Reversed
+TXN100343|2025-03-05|ACCT62404|Emily Johnson|D|Costco|Bills|687.12|USD|5251.91|Wire|Failed
+TXN100344|2025-04-07|ACCT76862|Sarah Miller|C|Walmart|Fuel|1003.79|USD|17535.75|Debit Card|Failed
+TXN100345|2026-01-03|ACCT65309|Sarah Miller|C|Target|Fuel|711.34|USD|5850.26|Credit Card|Completed
+TXN100346|2025-08-19|ACCT82500|Jessica Davis|D|Costco|Retail|739.48|USD|16698.42|ACH|Completed
+TXN100347|2025-11-25|ACCT37629|John Smith|D|Shell|Bills|-22.74|USD|5388.26|Debit Card|Failed
+TXN100348|2025-11-23|ACCT45208|Michael Brown|C|Apple|Dining|4201.46|USD|3012.4|ACH|Pending
+TXN100349|2025-02-02|ACCT37924|Emily Johnson|D|Amazon|Dining|4133.08|USD|16856.12|Debit Card|Reversed
+TXN100350|2025-08-14|ACCT65949|John Smith|D|Starbucks|Retail|2081.15|USD|11672.48|Debit Card|Failed
+TXN100351|2025-05-12|ACCT61155|Jessica Davis|C|Costco|Groceries|2682.26|USD|2864.73|Credit Card|Completed
+TXN100352|2025-06-24|ACCT31811|Emily Johnson|C|Apple|Fuel|1333.92|USD|16498.36|Credit Card|Reversed
+TXN100353|2025-10-16|ACCT27621|Michael Brown|C|Apple|Dining|4632.46|USD|11869.12|Debit Card|Completed
+TXN100354|2025-12-10|ACCT57974|John Smith|C|Apple|Bills|1293.27|USD|10289.31|Wire|Failed
+TXN100355|2025-12-11|ACCT88181|John Smith|C|Apple|Bills|4493.09|USD|11693.22|Zelle|Pending
+TXN100356|2025-05-12|ACCT86178|Jessica Davis|C|Apple|Electronics|1660.68|USD|10648.66|Debit Card|Reversed
+TXN100357|2025-10-29|ACCT45282|David Wilson|D|Apple|Electronics|3681.05|USD|4024.67|Credit Card|Pending
+TXN100358|2025-06-22|ACCT88910|John Smith|C|Apple|Bills|1735.68|USD|12987.83|Zelle|Pending
+TXN100359|2025-08-29|ACCT49973|Jessica Davis|D|Starbucks|Retail|2146.38|USD|15568.18|ACH|Failed
+TXN100360|2025-08-11|ACCT15527||C|Costco|Fuel|396.98|USD|9524.64|Zelle|Reversed
+TXN100361|2025-06-05|ACCT94674|Michael Brown|C|Amazon|Groceries|-155.2|USD|19596.66|Zelle|Failed
+TXN100362|2025-03-01|ACCT36791|Michael Brown|D|Apple|Groceries|4049.02|USD|17922.84|ACH|Reversed
+TXN100363|2025-07-20|ACCT26140|David Wilson|D|Starbucks|Fuel|882.9|USD|8540.45|Zelle|Pending
+TXN100364|2025-03-24|ACCT63788|Emily Johnson|C|Costco|Groceries|4022.55|USD|12668.5|Zelle|Failed
+TXN100365|2025-03-14|ACCT86649|David Wilson|C|Costco|Electronics|4335.38|USD|1619.58|Wire|Reversed
+TXN100366|2025-12-08|ACCT85425|David Wilson|D|Shell|Dining|874.77|USD|19230.17|Debit Card|Pending
+TXN100367|2025-07-25|ACCT66611|Jessica Davis|C|Shell|Dining|2706.47|USD|9205.57|ACH|Pending
+TXN100368|2025-09-27|ACCT37051|Jessica Davis|C|Target|Retail|-421.49|USD|17498.59|Credit Card|Completed
+TXN100369|2025-09-11|ACCT36842|David Wilson|C|Walmart|Dining|1007.77|USD|6444.0|Wire|Failed
+TXN100370|2025-10-09|ACCT47701|John Smith|D|Shell|Groceries|3582.46|USD|4993.16|Wire|Pending
+TXN100371|2025-02-02|ACCT12935|David Wilson|D|Costco|Dining|185.71|USD|15737.42|Credit Card|Pending
+TXN100372|2025-11-18|ACCT61874|Sarah Miller|D|Target|Electronics|1052.71|USD|4403.29|ACH|Failed
+TXN100373|2025-07-08|ACCT51558|John Smith|D|Target|Electronics|1590.76|USD|2599.03|Zelle|Completed
+TXN100374|2025-09-05|ACCT37693|Jessica Davis|C|Shell|Dining|-183.66|USD|4627.77|Zelle|Completed
+TXN100375|2025-09-09|ACCT13840|Emily Johnson|D|Target|Retail|4551.86|USD|4983.21|Debit Card|Reversed
+TXN100376|2026-01-27|ACCT34187|John Smith|C|Target|Groceries|3860.14|USD|6409.8|Credit Card|Failed
+TXN100377|2025-09-27|ACCT48332|Michael Brown|C|Shell|Retail|3707.78|USD|16338.19|ACH|Completed
+TXN100378|2025-01-11|ACCT44408|Michael Brown|C|Costco|Retail|2365.1|USD|7463.62|Credit Card|Failed
+TXN100379|2025-07-09|ACCT78693|Jessica Davis|C|Walmart|Dining|-425.16|USD|12142.23|Wire|Completed
+TXN100380|2025-12-01|ACCT67520|Sarah Miller|D|Amazon|Dining|-162.52|USD|8432.03|Credit Card|Pending
+TXN100381|2025-02-18|ACCT48008|Jessica Davis|D|Apple|Electronics|-214.85|USD|4175.16|Wire|Failed
+TXN100382|2025-06-03|ACCT56886|Michael Brown|D|Apple|Bills|2545.44|USD|8054.5|ACH|Reversed
+TXN100383|2025-01-12|ACCT42354|Emily Johnson|C|Starbucks|Dining|1259.22|USD|10867.06|Zelle|Failed
+TXN100384|2025-02-13|ACCT67458|Emily Johnson|C|Shell|Fuel|2136.96|USD|19735.58|Credit Card|Failed
+TXN100385|2025-07-05|ACCT19895|David Wilson|C|Starbucks|Bills|3564.23|USD|7068.55|Credit Card|Reversed
+TXN100386|2025-09-06|ACCT15584|Sarah Miller|D|Apple|Electronics|3685.74|USD|6177.92|Credit Card|Completed
+TXN100387|2025-07-10|ACCT98182|Jessica Davis|D|Amazon|Dining|4981.08|USD|4890.35|Wire|Failed
+TXN100388|2025-10-07|ACCT41276|Emily Johnson|D|Apple|Electronics|2503.83|USD|6751.13|Debit Card|Failed
+TXN100389|2025-01-17|ACCT81147|Michael Brown|D|Target|Dining|3980.33|USD|14274.41|Credit Card|Pending
+TXN100390|2026-01-27|ACCT39076|Jessica Davis|C|Apple|Retail|1412.43|USD|19302.02|Credit Card|Completed
+TXN100391|2025-07-08|ACCT25253|John Smith|D|Shell|Groceries|432.2|USD|2448.83|Credit Card|Failed
+TXN100392|2025-08-27|ACCT42046|Jessica Davis|C|Walmart|Groceries|-402.94|USD|4177.28|Debit Card|Completed
+TXN100393|2025-09-14|ACCT90275|Emily Johnson|C|Target|Bills|1082.38|USD|6474.73|ACH|Completed
+TXN100394|2025-08-20|ACCT78861|David Wilson|C|Apple|Fuel|4805.97|USD|18406.82|ACH|Completed
+TXN100395|2025-11-07|ACCT34396|David Wilson|D|Walmart|Fuel|2296.64|USD|19905.35|Zelle|Failed
+TXN100396|2025-04-22|ACCT43664|David Wilson|C|Costco|Electronics|2059.25|USD|7364.13|Zelle|Pending
+TXN100397|2025-09-09|ACCT33465|Michael Brown|D|Apple|Bills|3920.85|USD|12658.41|ACH|Reversed
+TXN100398|2025-05-17|ACCT11703|Jessica Davis|C|Starbucks|Fuel|4116.78|USD|10486.81|Zelle|Reversed
+TXN100399|2025-01-10|ACCT93608|John Smith|D|Starbucks|Retail|-118.24|USD|11420.43|Credit Card|Pending
+TXN100050|2025-01-27|ACCT46141|Sarah Miller|D|Amazon|Bills|587.55|USD|18727.25|Zelle|Reversed
+TXN100401|2025-11-08|ACCT98530|Michael Brown|C|Starbucks|Groceries|1763.16|USD|17252.48|Wire|Completed
+TXN100402|2025-05-30|ACCT26302|Jessica Davis|D|Apple|Retail|831.86|USD|1102.61|Debit Card|Reversed
+TXN100403|2025-03-23|ACCT87182|Michael Brown|C|Target|Groceries|1100.15|USD|17923.85|ACH|Pending
+TXN100404|2025-09-18|ACCT77201|Sarah Miller|C|Target|Groceries|1597.3|USD|5307.06|ACH|Failed
+TXN100405|2025-04-08|ACCT59438|Sarah Miller|D|Apple|Bills|2516.74|USD|10470.65|Zelle|Reversed
+TXN100406|2025-03-11|ACCT33412|Jessica Davis|D|Costco|Bills|568.82|USD|8998.47|Credit Card|Reversed
+TXN100407|2025-07-11|ACCT80504|Emily Johnson|D|Shell|Dining|2494.81|USD|11773.33|Credit Card|Reversed
+TXN100408|2025-06-01|ACCT13283|Emily Johnson|C|Apple|Dining|2715.02|USD|3927.0|Debit Card|Reversed
+TXN100409|2026-01-02|ACCT13622|Jessica Davis|D|Apple|Fuel|3124.25|USD|8933.74|Credit Card|Completed
+TXN100410|2025-06-04|ACCT19684|Sarah Miller|D|Starbucks|Retail|1506.23|USD|9025.36|ACH|Completed
+TXN100411|2025-12-13|ACCT36590|Michael Brown|D|Target|Fuel|1134.64|USD|15425.41|Credit Card|Reversed
+TXN100412|2025-07-05|ACCT41844|Michael Brown|D|Target|Dining|-271.4|USD|9283.0|Wire|Pending
+TXN100413|2025-08-31|ACCT33259|John Smith|D|Amazon|Groceries|4738.94|USD|2088.16|Debit Card|Reversed
+TXN100414|2025-11-21|ACCT12771|Michael Brown|D|Amazon|Retail|722.47|USD|18233.31|Credit Card|Failed
+TXN100415|2025-12-29|ACCT93703|David Wilson|D|Target|Retail|4952.06|USD|9456.9|ACH|Reversed
+TXN100416|2025-10-17|ACCT40372|David Wilson|D|Target|Retail|3615.24|USD|9590.9|Debit Card|Completed
+TXN100417|2025-10-15|ACCT73338|Emily Johnson|D|Target|Dining|3247.6|USD|7798.6|Wire|Completed
+TXN100418|2025-07-15|ACCT85636|John Smith|C|Walmart|Fuel|3344.33|USD|12958.09|Credit Card|Reversed
+TXN100419|2025-05-07|ACCT51898|Michael Brown|D|Costco|Groceries|1949.96|USD|19574.47|Debit Card|Reversed
+TXN100420|2025-04-22|ACCT15455|Michael Brown|D|Walmart|Fuel|347.71|USD|12582.25|Zelle|Reversed
+TXN100421|2025-08-03|ACCT67537|David Wilson|D|Walmart|Fuel|889.53|USD|2687.07|Debit Card|Pending
+TXN100422|2025-11-17|ACCT51816|Michael Brown|C|Amazon|Retail|1516.77|USD|1763.73|Debit Card|Reversed
+TXN100423|2025-09-05|ACCT10274|Jessica Davis|C|Apple|Bills|936.09|USD|14655.04|ACH|Pending
+TXN100424|2025-12-16|ACCT54151|Jessica Davis|C|Apple|Groceries|2696.37|USD|11620.68|ACH|Completed
+TXN100425|2025-07-27|ACCT76793|Michael Brown|C|Target|Electronics|3303.32|USD|1943.47|ACH|Completed
+TXN100426|2025-06-25|ACCT38849|Emily Johnson|D|Starbucks|Bills|982.36|USD|18183.62|Wire|Reversed
+TXN100427|2025-03-09|ACCT42176|David Wilson|C|Costco|Fuel|989.65|USD|4886.59|Debit Card|Completed
+TXN100428|2025-01-16|ACCT75371|John Smith|D|Costco|Retail|2823.97|USD|13060.21|Wire|Completed
+TXN100429|2025-05-20|ACCT90849|Michael Brown|C|Target|Fuel|2079.52|USD|14274.1|Wire|Pending
+TXN100430|2025-04-18|ACCT69933|Sarah Miller|D|Costco|Groceries|4355.84|USD|6394.62|Zelle|Completed
+TXN100431|2025-08-03|ACCT59453|Emily Johnson|D|Costco|Groceries|3026.36|USD|10251.61|Debit Card|Failed
+TXN100432|2025-06-22|ACCT83277|Emily Johnson|D|Amazon|Dining|3120.92|USD|4478.64|Wire|Completed
+TXN100433|2025-05-08|ACCT97649|Michael Brown|C|Walmart|Electronics|886.02|USD|19592.8|Debit Card|Completed
+TXN100434|2025-09-19|ACCT44728|David Wilson|D|Apple|Retail|644.09|USD|2017.58|Zelle|Failed
+TXN100435|2025-01-07|ACCT34311|Emily Johnson|D|Shell|Retail|617.62|USD|11460.12|Zelle|Failed
+TXN100436|2025-01-10|ACCT75482|Michael Brown|D|Starbucks|Electronics|1624.53|USD|2085.17|ACH|Failed
+TXN100437|2025-07-15|ACCT34646|Sarah Miller|D|Apple|Dining|345.62|USD|18049.48|ACH|Completed
+TXN100438|2026-02-03|ACCT11591|Michael Brown|D|Costco|Fuel|2657.42|USD|14515.99|Wire|Reversed
+TXN100439|2026-01-23|ACCT31240|Sarah Miller|D|Starbucks|Groceries|2031.65|USD|1354.74|ACH|Completed
+TXN100440|2025-09-01|ACCT23659|Michael Brown|C|Walmart|Dining|-481.63|USD|3106.77|Zelle|Reversed
+TXN100441|2026-01-18|ACCT11907|Sarah Miller|C|Shell|Electronics|4107.62|USD|1505.55|Wire|Pending
+TXN100442|2025-12-10|ACCT34537|Sarah Miller|C|Starbucks|Electronics|3876.02|USD|9246.93|ACH|Reversed
+TXN100443|2025-02-04|ACCT55763|Sarah Miller|D|Starbucks|Fuel|740.37|USD|4755.81|Debit Card|Reversed
+TXN100444|2025-02-21|ACCT43870|David Wilson|D|Target|Bills|2597.75|USD|11640.85|Debit Card|Failed
+TXN100445|2025-01-21|ACCT93754|Michael Brown|D|Target|Groceries|1005.77|USD|1182.08|ACH|Failed
+TXN100446|2025-09-25|ACCT92470|Michael Brown|C|Costco|Groceries|45.0|USD|12734.75|ACH|Pending
+TXN100447|2025-03-30|ACCT78300|Michael Brown|C|Costco|Bills|-484.41|USD|3702.23|Zelle|Reversed
+TXN100448|2025-10-17|ACCT95807|John Smith|C|Starbucks|Dining|1811.96|USD|8268.49|Credit Card|Pending
+TXN100449|2025-12-25|ACCT16173|Emily Johnson|C|Costco|Groceries|3753.54|USD|9773.49|Debit Card|Completed
+TXN100450|2025-03-04|ACCT10711|Michael Brown|D|Target|Groceries|1286.63|USD|4029.97|Credit Card|Pending
+TXN100451|2025-02-25|ACCT73916|Sarah Miller|D|Shell|Electronics|2798.81|USD|11524.51|ACH|Pending
+TXN100452|2025-03-12|ACCT46538|Emily Johnson|C|Target|Retail|-19.41|USD|7483.81|Debit Card|Reversed
+TXN100453|2025-09-20|ACCT26501|John Smith|C|Starbucks|Groceries|4649.81|USD|13320.93|Credit Card|Completed
+TXN100454|2025-10-09|ACCT42963|Emily Johnson|D|Amazon|Retail|3972.9|USD|5105.13|Wire|Completed
+TXN100455|2025-05-18|ACCT13630|Michael Brown|D|Costco|Dining|-495.93|USD|16065.92|ACH|Pending
+TXN100456|2026-01-21|ACCT55277|Sarah Miller|D|Amazon|Bills|610.33|USD|7279.38|Zelle|Pending
+TXN100457|2025-03-25|ACCT86994|Emily Johnson|C|Apple|Bills|201.9|USD|11996.05|Credit Card|Completed
+TXN100458|2025-03-30|ACCT10383|Emily Johnson|D|Costco|Dining|1886.24|USD|3042.08|ACH|Pending
+TXN100459|2025-07-29|ACCT18837|Sarah Miller|C|Starbucks|Dining|2386.05|USD|15585.07|ACH|Failed
+TXN100460|2025-07-24|ACCT43061|David Wilson|D|Amazon|Bills|2900.63|USD|18874.46|Credit Card|Completed
+TXN100461|2025-11-28|ACCT34638|Jessica Davis|C|Walmart|Bills|103.42|USD|18291.94|Debit Card|Reversed
+TXN100462|2025-07-22|ACCT94374|Michael Brown|C|Amazon|Electronics|1240.84|USD|12633.83|Wire|Completed
+TXN100463|2025-11-08|ACCT49229|Sarah Miller|D|Target|Fuel|499.56|USD|13413.22|Wire|Reversed
+TXN100464|2025-07-22|ACCT53161|John Smith|D|Walmart|Groceries|1228.91|USD|17367.36|ACH|Pending
+TXN100465|2025-07-23|ACCT60436|Jessica Davis|C|Starbucks|Retail|1645.65|USD|1222.79|Zelle|Pending
+TXN100466|2025-03-30|ACCT29198|Sarah Miller|D|Target|Retail|517.97|USD|4544.77|Wire|Reversed
+TXN100467|2025-06-15|ACCT37337|Jessica Davis|D|Starbucks|Bills|-236.5|USD|13102.31|Credit Card|Reversed
+TXN100468|2025-01-08|ACCT54721|David Wilson|C|Walmart|Groceries|1650.66|USD|13520.42|Credit Card|Reversed
+TXN100469|2025-10-27|ACCT46566|David Wilson|D|Apple|Dining|4361.59|USD|5138.27|Zelle|Pending
+TXN100470|2025-03-24|ACCT75492|Sarah Miller|D|Amazon|Electronics|1425.62|USD|5384.63|Zelle|Reversed
+TXN100471|2025-04-05|ACCT27868|Sarah Miller|D|Starbucks|Fuel|3205.76|USD|2039.85|Credit Card|Failed
+TXN100472|2025-05-10|ACCT78806|John Smith|D|Starbucks|Retail|1748.55|USD|15656.67|ACH|Pending
+TXN100473|2025-06-25|ACCT82940|David Wilson|D|Walmart|Retail|2754.49|USD|16508.74|Debit Card|Completed
+TXN100474|2025-12-16|ACCT99704|David Wilson|D|Walmart|Fuel|4120.71|USD|11212.04|Zelle|Reversed
+TXN100475|2025-08-21|ACCT28818|David Wilson|D|Target|Electronics|657.33|USD|4797.62|Debit Card|Pending
+TXN100476|2025-03-15|ACCT80963|Sarah Miller|D|Target|Fuel|1546.43|USD|6074.53|Debit Card|Reversed
+TXN100477|2025-07-15|ACCT73514|Sarah Miller|C|Amazon|Bills|2250.99|USD|17306.79|ACH|Reversed
+TXN100478|2025-11-18|ACCT37975|Sarah Miller|C|Amazon|Groceries|3589.51|USD|16895.77|ACH|Pending
+TXN100479|2025-10-19|ACCT28286|John Smith|C|Walmart|Electronics|790.94|USD|6177.14|Debit Card|Failed
+TXN100480|2025-06-25|ACCT49628|Michael Brown|D|Walmart|Fuel|4589.07|USD|3647.22|Zelle|Reversed
+TXN100481|2025-03-19|ACCT62519|David Wilson|C|Costco|Dining|1079.95|USD|3156.05|Credit Card|Failed
+TXN100482|2025-04-19|ACCT76395|Michael Brown|C|Walmart|Fuel|1616.55|USD|8622.35|Zelle|Completed
+TXN100483|2025-09-15|ACCT98154|David Wilson|D|Apple|Electronics|4916.89|USD|8456.25|Zelle|Pending
+TXN100484|2025-02-06|ACCT19103|David Wilson|C|Apple|Dining|4220.91|USD|16639.44|Wire|Failed
+TXN100485|2025-07-02|ACCT27200|John Smith|D|Shell|Bills|-12.12|USD|15549.51|ACH|Failed
+TXN100486|2025-12-11|ACCT52071|Jessica Davis|D|Apple|Fuel|4577.06|USD|6354.02|Zelle|Failed
+TXN100487|2025-08-20|ACCT31446|Jessica Davis|C|Amazon|Retail|-226.87|USD|3519.44|Wire|Failed
+TXN100488|2025-08-07|ACCT61368|John Smith|D|Costco|Fuel|1131.76|USD|10476.27|Debit Card|Pending
+TXN100489|2025-07-09|ACCT89909|John Smith|C|Walmart|Fuel|4540.6|USD|14700.19|Debit Card|Failed
+TXN100490|2025-04-21|ACCT63501|Emily Johnson|D|Shell|Groceries|667.51|USD|17997.46|Zelle|Pending
+TXN100491|2025-07-13|ACCT23832|Sarah Miller|C|Amazon|Retail|4616.34|USD|15254.46|Zelle|Failed
+TXN100492|2025-09-08|ACCT84939|Michael Brown|D|Target|Fuel|1832.08|USD|5008.0|ACH|Reversed
+TXN100493|2025-06-03|ACCT82121|Sarah Miller|C|Starbucks|Groceries|1291.52|USD|6533.36|Credit Card|Pending
+TXN100494|2025-05-05|ACCT85936|Jessica Davis|D|Amazon|Retail|3016.62|USD|18037.27|Wire|Failed
+TXN100495|2025-08-01|ACCT71698|Emily Johnson|C|Walmart|Retail|1769.52|USD|7382.78|Zelle|Pending
+TXN100496|2026-01-30|ACCT61698|Emily Johnson|D|Target|Electronics|379.91|USD|3620.31|Debit Card|Completed
+TXN100497|2025-07-14|ACCT23121|Sarah Miller|D|Costco|Dining|2849.65|USD|9150.91|ACH|Pending
+TXN100498|2025-07-24|ACCT17656|David Wilson|C|Shell|Electronics|3496.7|USD|10201.39|Wire|Reversed
+TXN100499|2025-03-18|ACCT35596|David Wilson|D|Apple|Bills|2908.45|USD|14326.41|ACH|Failed
+TXN100500|2025-02-30|ACCT13046|Michael Brown|C|Amazon|Electronics|2716.39|USD|17937.84|Zelle|Pending
+TXN100501|2025-07-10|ACCT80989|Michael Brown|C|Apple|Electronics|4406.14|USD|10048.86|ACH|Completed
+TXN100502|2025-07-19|ACCT81185|Sarah Miller|D|Starbucks|Retail|2267.7|USD|15542.65|ACH|Completed
+TXN100503|2025-07-25|ACCT45673|Emily Johnson|C|Target|Dining|148.45|USD|16353.96|Credit Card|Pending
+TXN100504|2026-01-05|ACCT58467|Jessica Davis|D|Costco|Bills|1064.97|USD|13310.26|ACH|Completed
+TXN100505|2025-05-25|ACCT98954|Sarah Miller|D|Walmart|Groceries|1066.78|USD|11646.37|Debit Card|Failed
+TXN100506|2025-05-20|ACCT63310|David Wilson|D|Walmart|Electronics|4813.57|USD|10427.72|ACH|Failed
+TXN100507|2025-03-14|ACCT92692|Michael Brown|D|Amazon|Fuel|1932.34|USD|7468.2|Wire|Reversed
+TXN100508|2025-03-31|ACCT98907|Michael Brown|C|Shell|Electronics|463.0|USD|9988.11|Credit Card|Pending
+TXN100509|2025-11-19|ACCT58629|Jessica Davis|D|Amazon|Fuel|1876.79|USD|14411.65|Wire|Pending
+TXN100510|2025-10-04|ACCT96862|Michael Brown|C|Walmart|Groceries|1586.33|USD|3111.07|ACH|Pending
+TXN100511|2026-01-28|ACCT83719|Michael Brown|C|Walmart|Dining|4379.2|USD|5430.34|ACH|Reversed
+TXN100512|2025-11-01|ACCT65135|Jessica Davis|C|Target|Dining|213.5|USD|9960.53|Wire|Failed
+TXN100513|2025-08-23|ACCT70376|David Wilson|C|Target|Dining|1729.29|USD|1685.15|ACH|Failed
+TXN100514|2025-06-26|ACCT69835|David Wilson|C|Shell|Retail|2001.99|USD|8496.97|ACH|Failed
+TXN100515|2026-01-24|ACCT41489|Emily Johnson|D|Target|Bills|412.49|USD|15000.84|Credit Card|Completed
+TXN100516|2025-03-15|ACCT58615|Emily Johnson|C|Costco|Dining|1180.39|USD|11783.81|Zelle|Completed
+TXN100517|2025-01-12|ACCT50476|Michael Brown|C|Walmart|Retail|3303.4|USD|9309.11|ACH|Reversed
+TXN100518|2025-08-08|ACCT79748|David Wilson|D|Target|Bills|4786.46|USD|15565.23|ACH|Pending
+TXN100519|2025-12-12|ACCT71320|Michael Brown|D|Apple|Groceries|788.17|USD|5032.41|Wire|Failed
+TXN100520|2025-11-01|ACCT66094|Sarah Miller|D|Starbucks|Groceries|4570.53|USD|7642.05|Debit Card|Failed
+TXN100521|2025-11-24|ACCT11847|David Wilson|C|Costco|Retail|4846.44|USD|17312.69|Credit Card|Completed
+TXN100522|2025-05-07|ACCT44799|Sarah Miller|D|Apple|Bills|2764.95|USD|17550.8|Zelle|Reversed
+TXN100523|2025-05-08|ACCT16021|David Wilson|D|Apple|Electronics|772.88|USD|16300.46|Zelle|Failed
+TXN100524|2025-08-19|ACCT79227|John Smith|D|Amazon|Bills|2413.57|USD|15748.71|ACH|Reversed
+TXN100525|2025-06-29|ACCT90035|John Smith|D|Apple|Dining|2461.39|USD|9775.4|Wire|Completed
+TXN100526|2025-06-25|ACCT23457|Jessica Davis|D|Starbucks|Bills|-125.33|USD|13838.25|Debit Card|Reversed
+TXN100527|2025-03-16|ACCT37910|David Wilson|D|Amazon|Groceries|621.49|USD|2371.74|Debit Card|Completed
+TXN100528|2025-10-11|ACCT92962|Michael Brown|D|Shell|Bills|372.34|USD|15593.24|Credit Card|Completed
+TXN100529|2025-07-28|ACCT85283|Jessica Davis|C|Target|Electronics|1217.48|USD|16784.26|Zelle|Pending
+TXN100530|2025-08-11|ACCT79310|Emily Johnson|D|Amazon|Retail|839.55|USD|13050.07|ACH|Failed
+TXN100531|2025-02-20|ACCT53286|Michael Brown|C|Amazon|Electronics|-85.63|USD|7991.08|Wire|Pending
+TXN100532|2025-04-01|ACCT28843|Jessica Davis|C|Walmart|Fuel|2174.4|USD|5708.49|Credit Card|Pending
+TXN100533|2026-02-05|ACCT47203|David Wilson|C|Starbucks|Bills|3882.24|USD|1228.34|Zelle|Pending
+TXN100534|2025-05-15|ACCT76686|Emily Johnson|D|Target|Electronics|2810.94|USD|3387.9|Credit Card|Completed
+TXN100535|2025-06-11|ACCT99485|Emily Johnson|C|Starbucks|Dining|1954.18|USD|14286.19|Credit Card|Completed
+TXN100536|2025-01-27|ACCT13566|Jessica Davis|C|Costco|Groceries|1408.66|USD|5342.46|Wire|Pending
+TXN100537|2025-08-06|ACCT48830|John Smith|C|Shell|Bills|529.05|USD|10314.14|Wire|Failed
+TXN100538|2025-11-28|ACCT35481|Jessica Davis|D|Walmart|Groceries|2951.99|USD|5686.11|Wire|Completed
+TXN100539|2025-06-23|ACCT65753|Emily Johnson|D|Amazon|Bills|1773.08|USD|4010.86|Zelle|Completed
+TXN100540|2026-01-13|ACCT82686||C|Costco|Groceries|-273.75|USD|7960.88|ACH|Reversed
+TXN100541|2026-01-15|ACCT81835|David Wilson|D|Target|Dining|282.01|USD|18022.48|Credit Card|Pending
+TXN100542|2025-12-25|ACCT80031|Emily Johnson|D|Amazon|Bills|2330.36|USD|8487.31|Credit Card|Pending
+TXN100543|2025-06-16|ACCT39318|Michael Brown|C|Costco|Electronics|4626.5|USD|13299.65|Credit Card|Failed
+TXN100544|2025-08-09|ACCT71735|Jessica Davis|D|Costco|Electronics|2028.18|USD|17094.7|Debit Card|Failed
+TXN100545|2025-04-30|ACCT47661|John Smith|C|Shell|Retail|431.99|USD|8597.7|Credit Card|Reversed
+TXN100546|2025-09-07|ACCT97327|Jessica Davis|C|Shell|Dining|4944.7|USD|13763.27|Debit Card|Failed
+TXN100547|2025-11-09|ACCT29347|David Wilson|C|Walmart|Electronics|3410.64|USD|6354.69|Wire|Failed
+TXN100548|2025-10-01|ACCT48924|Emily Johnson|D|Costco|Dining|2262.8|USD|4662.01|Credit Card|Reversed
+TXN100549|2025-01-28|ACCT31192|Jessica Davis|C|Costco|Electronics|-17.87|USD|14646.7|ACH|Failed
+TXN100550|2025-11-15|ACCT90525|Michael Brown|C|Target|Fuel|2076.92|USD|3021.59|Wire|Failed
+TXN100551|2025-07-13|ACCT56161|Jessica Davis|C|Walmart|Bills|4370.92|USD|19391.41|Wire|Failed
+TXN100552|2025-08-21|ACCT87107|John Smith|C|Walmart|Dining|-169.22|USD|12256.5|ACH|Failed
+TXN100553|2025-11-13|ACCT13417|Michael Brown|D|Amazon|Bills|-81.13|USD|8699.35|Credit Card|Reversed
+TXN100554|2025-10-21|ACCT89061|John Smith|C|Costco|Electronics|2785.34|USD|10577.49|Wire|Pending
+TXN100555|2026-02-03|ACCT45118|John Smith|C|Shell|Electronics|312.91|USD|1849.39|Debit Card|Pending
+TXN100556|2025-05-03|ACCT83704|Sarah Miller|C|Starbucks|Dining|4474.26|USD|9607.58|Wire|Pending
+TXN100557|2025-09-06|ACCT68383|John Smith|C|Starbucks|Bills|414.68|USD|9271.12|ACH|Reversed
+TXN100558|2025-06-11|ACCT50358|John Smith|C|Walmart|Electronics|1871.68|USD|13293.17|Zelle|Completed
+TXN100559|2026-01-14|ACCT39593|Jessica Davis|D|Amazon|Fuel|173.21|USD|2747.87|Debit Card|Pending
+TXN100560|2025-09-13|ACCT49856|John Smith|C|Walmart|Dining|-443.03|USD|9669.31|Wire|Reversed
+TXN100561|2025-10-15|ACCT43362|Emily Johnson|D|Walmart|Fuel|3754.29|USD|13463.46|Debit Card|Reversed
+TXN100562|2025-01-17|ACCT66476|Emily Johnson|C|Amazon|Bills|2307.79|USD|19929.5|Credit Card|Reversed
+TXN100563|2025-09-11|ACCT84224|Emily Johnson|C|Apple|Dining|2153.84|USD|3104.27|Debit Card|Pending
+TXN100564|2025-09-11|ACCT61599|Jessica Davis|C|Walmart|Retail|3005.59|USD|6509.1|Zelle|Failed
+TXN100565|2025-08-10|ACCT69600|Jessica Davis|C|Walmart|Groceries|394.5|USD|16808.06|Wire|Pending
+TXN100566|2025-11-30|ACCT43559|Sarah Miller|D|Target|Retail|3921.29|USD|2821.0|Debit Card|Completed
+TXN100567|2025-12-29|ACCT94521|Michael Brown|D|Starbucks|Bills|934.62|USD|7700.53|Credit Card|Pending
+TXN100568|2025-06-18|ACCT26294|Sarah Miller|C|Target|Electronics|3895.94|USD|17659.26|ACH|Pending
+TXN100569|2025-10-12|ACCT28473|Sarah Miller|D|Costco|Groceries|742.24|USD|6648.45|ACH|Failed
+TXN100570|2025-04-28|ACCT89404|David Wilson|D|Amazon|Electronics|407.5|USD|12160.73|Debit Card|Failed
+TXN100571|2025-09-21|ACCT16086|Sarah Miller|C|Shell|Fuel|-245.25|USD|4212.22|ACH|Failed
+TXN100572|2025-07-13|ACCT53017|Emily Johnson|C|Amazon|Groceries|3816.57|USD|13433.9|Debit Card|Completed
+TXN100573|2026-01-11|ACCT74736|Emily Johnson|C|Apple|Retail|954.51|USD|14035.1|Wire|Completed
+TXN100574|2025-08-17|ACCT77513|Jessica Davis|D|Target|Retail|3030.83|USD|1527.73|Wire|Pending
+TXN100575|2025-03-08|ACCT20225|John Smith|D|Costco|Electronics|4145.04|USD|8499.05|Zelle|Completed
+TXN100576|2025-07-29|ACCT53663|Jessica Davis|D|Target|Dining|642.42|USD|12552.89|Debit Card|Reversed
+TXN100577|2025-12-18|ACCT18250|Sarah Miller|C|Amazon|Fuel|4694.54|USD|11080.16|Credit Card|Reversed
+TXN100578|2025-07-01|ACCT86550|Jessica Davis|D|Walmart|Fuel|1049.01|USD|15270.13|Zelle|Reversed
+TXN100579|2026-01-10|ACCT89363|David Wilson|D|Starbucks|Electronics|4592.48|USD|2131.79|Credit Card|Pending
+TXN100580|2025-08-10|ACCT22534|Emily Johnson|C|Amazon|Retail|1082.67|USD|13674.71|Debit Card|Reversed
+TXN100581|2025-05-13|ACCT30210|Michael Brown|C|Walmart|Bills|2714.81|USD|18626.6|Zelle|Reversed
+TXN100582|2025-09-19|ACCT36368|Sarah Miller|D|Apple|Fuel|2822.77|USD|3840.19|Wire|Reversed
+TXN100583|2026-01-28|ACCT55990|John Smith|C|Shell|Electronics|1542.74|USD|6841.48|Zelle|Completed
+TXN100584|2026-01-25|ACCT45760|John Smith|C|Walmart|Fuel|640.12|USD|13758.23|Wire|Reversed
+TXN100585|2025-02-15|ACCT24165|Michael Brown|C|Starbucks|Retail|4558.54|USD|14949.32|Debit Card|Pending
+TXN100586|2025-04-23|ACCT29315|Emily Johnson|C|Costco|Dining|2916.95|USD|10415.78|ACH|Reversed
+TXN100587|2025-11-25|ACCT42077|Jessica Davis|C|Amazon|Retail|1689.18|USD|3255.46|Wire|Completed
+TXN100588|2026-01-29|ACCT70706|John Smith|D|Walmart|Bills|3902.51|USD|2099.48|Wire|Pending
+TXN100589|2025-06-25|ACCT44356|Jessica Davis|D|Starbucks|Fuel|463.55|USD|1276.79|Credit Card|Reversed
+TXN100590|2025-06-27|ACCT86288|John Smith|D|Amazon|Bills|1075.88|USD|5585.92|Wire|Completed
+TXN100591|2025-04-24|ACCT64556|Michael Brown|C|Amazon|Fuel|543.16|USD|11088.63|Wire|Pending
+TXN100592|2025-12-26|ACCT40346|Emily Johnson|C|Starbucks|Groceries|3079.58|USD|8111.98|Credit Card|Completed
+TXN100593|2025-07-21|ACCT45277|Sarah Miller|C|Costco|Electronics|4383.69|USD|19370.58|Zelle|Pending
+TXN100594|2025-03-09|ACCT78310|Michael Brown|D|Starbucks|Fuel|-410.96|USD|12884.58|Wire|Pending
+TXN100595|2025-09-18|ACCT16465|David Wilson|C|Target|Fuel|4784.95|USD|13687.08|ACH|Pending
+TXN100596|2026-01-25|ACCT60261|Sarah Miller|C|Costco|Dining|2696.83|USD|4191.2|Wire|Completed
+TXN100597|2025-08-08|ACCT12744|David Wilson|D|Target|Electronics|4372.72|USD|1916.83|Wire|Reversed
+TXN100598|2025-06-03|ACCT68696|Michael Brown|C|Apple|Fuel|712.02|USD|15748.35|Wire|Completed
+TXN100599|2025-08-17|ACCT29900|David Wilson|C|Starbucks|Dining|2298.05|USD|2631.03|Wire|Completed
+TXN100050|2025-07-06|ACCT55790|Emily Johnson|C|Apple|Groceries|0|USD|17249.82|Wire|Completed
+TXN100601|2025-09-16|ACCT34141|Sarah Miller|D|Shell|Bills|2038.59|USD|17896.2|Wire|Failed
+TXN100602|2025-07-09|ACCT92338|Michael Brown|C|Target|Electronics|2342.01|USD|6513.2|Debit Card|Reversed
+TXN100603|2025-07-12|ACCT88281|Jessica Davis|C|Walmart|Retail|2335.86|USD|2993.61|Debit Card|Failed
+TXN100604|2026-01-14|ACCT51386|Emily Johnson|C|Target|Groceries|3494.69|USD|13780.29|Zelle|Reversed
+TXN100605|2025-01-30|ACCT36107|Michael Brown|D|Starbucks|Groceries|1151.81|USD|19723.95|Zelle|Pending
+TXN100606|2025-11-10|ACCT62060|Sarah Miller|D|Starbucks|Retail|1872.03|USD|17533.65|Zelle|Completed
+TXN100607|2025-01-20|ACCT51222|Sarah Miller|D|Amazon|Retail|470.27|USD|9426.09|Wire|Reversed
+TXN100608|2025-08-26|ACCT88818|Michael Brown|D|Walmart|Electronics|4412.07|USD|12303.62|Wire|Reversed
+TXN100609|2025-05-15|ACCT53473|John Smith|C|Apple|Electronics|2551.45|USD|5794.15|Credit Card|Completed
+TXN100610|2025-06-10|ACCT34764|Michael Brown|C|Starbucks|Retail|2240.46|USD|3039.37|Wire|Completed
+TXN100611|2025-07-04|ACCT40134|Sarah Miller|C|Amazon|Bills|-241.05|USD|13697.05|ACH|Reversed
+TXN100612|2026-02-03|ACCT61507|Emily Johnson|D|Costco|Groceries|-439.95|USD|8318.56|Debit Card|Pending
+TXN100613|2025-12-24|ACCT57942|John Smith|C|Starbucks|Retail|4232.33|USD|12175.33|Debit Card|Failed
+TXN100614|2025-01-19|ACCT12258|Sarah Miller|D|Amazon|Bills|3179.57|USD|4873.47|Wire|Pending
+TXN100615|2025-01-02|ACCT43171|John Smith|D|Costco|Bills|1862.93|USD|15408.01|ACH|Reversed
+TXN100616|2025-07-17|ACCT67601|John Smith|C|Walmart|Fuel|63.38|USD|14086.39|Wire|Pending
+TXN100617|2025-07-24|ACCT25375|Michael Brown|D|Target|Retail|4983.8|USD|8160.72|Credit Card|Reversed
+TXN100618|2025-03-28|ACCT84292|John Smith|C|Starbucks|Fuel|2063.11|USD|19260.28|Debit Card|Failed
+TXN100619|2025-09-02|ACCT70935|John Smith|D|Apple|Fuel|3517.27|USD|16587.08|Credit Card|Failed
+TXN100620|2025-08-22|ACCT40540|Emily Johnson|D|Costco|Retail|-447.63|USD|15573.26|Credit Card|Failed
+TXN100621|2025-10-15|ACCT83006|Sarah Miller|D|Starbucks|Retail|307.22|USD|13972.4|ACH|Completed
+TXN100622|2025-05-10|ACCT45033|Emily Johnson|D|Target|Dining|1059.25|USD|1048.71|Debit Card|Failed
+TXN100623|2025-03-15|ACCT80276|David Wilson|D|Target|Retail|1139.41|USD|16764.76|Credit Card|Reversed
+TXN100624|2025-05-09|ACCT78309|John Smith|D|Shell|Bills|4131.86|USD|11623.74|Debit Card|Failed
+TXN100625|2025-05-30|ACCT70990|Sarah Miller|C|Apple|Fuel|1022.98|USD|13059.12|Wire|Failed
+TXN100626|2025-07-13|ACCT26269|Michael Brown|D|Shell|Bills|4225.17|USD|11716.04|Credit Card|Pending
+TXN100627|2025-07-13|ACCT18958|Sarah Miller|C|Walmart|Fuel|4678.53|USD|14980.31|Zelle|Failed
+TXN100628|2025-11-26|ACCT60261|Michael Brown|C|Target|Dining|2792.54|USD|17844.47|Zelle|Reversed
+TXN100629|2025-03-12|ACCT29968|David Wilson|C|Costco|Groceries|4347.8|USD|11462.08|Wire|Completed
+TXN100630|2025-07-15|ACCT25348|Michael Brown|C|Target|Dining|4235.71|USD|3891.23|ACH|Failed
+TXN100631|2026-01-04|ACCT84125|Emily Johnson|D|Costco|Retail|755.26|USD|6905.24|Debit Card|Pending
+TXN100632|2025-12-11|ACCT11519|Sarah Miller|C|Apple|Bills|-464.8|USD|6957.43|Credit Card|Completed
+TXN100633|2025-12-05|ACCT91942|David Wilson|C|Amazon|Dining|-455.17|USD|5669.8|Debit Card|Pending
+TXN100634|2025-08-05|ACCT86650|Jessica Davis|D|Apple|Retail|416.28|USD|17647.06|ACH|Failed
+TXN100635|2025-07-19|ACCT35718|Emily Johnson|C|Shell|Retail|4176.63|USD|3358.05|ACH|Reversed
+TXN100636|2025-01-25|ACCT39157|Jessica Davis|D|Amazon|Groceries|2811.6|USD|4574.84|ACH|Pending
+TXN100637|2025-03-27|ACCT60830|Michael Brown|D|Starbucks|Retail|3088.27|USD|3754.15|Zelle|Failed
+TXN100638|2025-01-19|ACCT48552|Emily Johnson|D|Shell|Fuel|4421.94|USD|17917.25|Wire|Reversed
+TXN100639|2025-10-20|ACCT65514|John Smith|C|Target|Dining|541.99|USD|2123.05|Wire|Failed
+TXN100640|2025-02-14|ACCT84675|David Wilson|D|Target|Electronics|2391.41|USD|8008.27|Credit Card|Reversed
+TXN100641|2025-05-11|ACCT16435|David Wilson|D|Apple|Fuel|2134.86|USD|5226.22|Debit Card|Failed
+TXN100642|2025-09-03|ACCT61887|Jessica Davis|D|Starbucks|Fuel|1855.5|USD|5341.4|ACH|Pending
+TXN100643|2025-07-03|ACCT12359|Jessica Davis|C|Amazon|Bills|4853.93|USD|8748.12|Credit Card|Completed
+TXN100644|2025-12-04|ACCT20956|John Smith|D|Shell|Groceries|2090.6|USD|11337.12|Wire|Failed
+TXN100645|2025-12-24|ACCT26781|John Smith|D|Amazon|Electronics|336.26|USD|8000.65|Wire|Pending
+TXN100646|2025-05-21|ACCT60921|Emily Johnson|C|Starbucks|Groceries|1617.26|USD|2738.31|ACH|Pending
+TXN100647|2025-11-03|ACCT86428|Jessica Davis|C|Walmart|Dining|2323.14|USD|1920.33|Debit Card|Pending
+TXN100648|2025-12-23|ACCT99645|David Wilson|D|Amazon|Groceries|2094.83|USD|16597.69|ACH|Failed
+TXN100649|2025-07-11|ACCT80954|Jessica Davis|C|Walmart|Electronics|2053.99|USD|8312.78|Debit Card|Pending
+TXN100650|2025-12-28|ACCT99255|Sarah Miller|D|Costco|Dining|3430.28|USD|9248.08|Zelle|Reversed
+TXN100651|2025-07-01|ACCT12557|Jessica Davis|D|Costco|Retail|2119.44|USD|13976.42|Credit Card|Completed
+TXN100652|2025-08-20|ACCT41980|Sarah Miller|D|Target|Fuel|1709.35|USD|4708.47|Zelle|Completed
+TXN100653|2026-02-03|ACCT47813|Emily Johnson|D|Shell|Bills|4201.88|USD|9827.3|ACH|Pending
+TXN100654|2025-01-16|ACCT14942|Emily Johnson|C|Starbucks|Dining|3330.91|USD|16664.01|Debit Card|Completed
+TXN100655|2025-01-19|ACCT22386|Michael Brown|C|Costco|Fuel|3603.92|USD|10594.72|Zelle|Pending
+TXN100656|2025-11-19|ACCT13335|John Smith|D|Starbucks|Fuel|2628.77|USD|1159.96|Debit Card|Failed
+TXN100657|2025-10-31|ACCT91091|Sarah Miller|D|Walmart|Groceries|4640.16|USD|8634.63|Wire|Completed
+TXN100658|2025-05-10|ACCT80308|Sarah Miller|C|Target|Bills|3348.09|USD|4408.88|Wire|Reversed
+TXN100659|2026-01-09|ACCT87569|Sarah Miller|C|Shell|Electronics|1693.54|USD|19151.24|Zelle|Pending
+TXN100660|2025-10-26|ACCT90075|Jessica Davis|D|Walmart|Electronics|1263.48|USD|4083.45|Credit Card|Failed
+TXN100661|2025-02-19|ACCT65708|Sarah Miller|D|Target|Groceries|1539.17|USD|17184.44|Debit Card|Completed
+TXN100662|2025-05-20|ACCT20143|John Smith|D|Walmart|Fuel|1992.71|USD|6331.67|Zelle|Reversed
+TXN100663|2025-07-30|ACCT78651|Emily Johnson|C|Target|Dining|433.6|USD|11892.03|Debit Card|Reversed
+TXN100664|2025-06-08|ACCT62549|Emily Johnson|D|Costco|Retail|-42.54|USD|1442.73|Wire|Reversed
+TXN100665|2025-03-04|ACCT30176|Michael Brown|D|Starbucks|Groceries|2888.46|USD|7181.06|Credit Card|Failed
+TXN100666|2025-01-16|ACCT77680|Emily Johnson|D|Walmart|Dining|1351.23|USD|7692.87|Wire|Pending
+TXN100667|2025-07-07|ACCT10911|Sarah Miller|C|Target|Bills|4912.47|USD|18858.27|ACH|Reversed
+TXN100668|2025-04-09|ACCT93705|John Smith|C|Apple|Dining|284.3|USD|15686.18|ACH|Pending
+TXN100669|2026-01-07|ACCT77525|Sarah Miller|C|Amazon|Dining|3238.16|USD|13097.93|Debit Card|Reversed
+TXN100670|2025-04-10|ACCT40961|Sarah Miller|D|Costco|Bills|870.57|USD|17044.37|ACH|Reversed
+TXN100671|2025-10-26|ACCT29713|Michael Brown|C|Amazon|Retail|788.93|USD|12082.95|Wire|Failed
+TXN100672|2025-03-06|ACCT72271|John Smith|C|Walmart|Retail|3731.98|USD|5981.34|Debit Card|Completed
+TXN100673|2025-01-23|ACCT97062|Emily Johnson|C|Apple|Retail|2542.05|USD|13034.37|Wire|Pending
+TXN100674|2025-08-14|ACCT66093|Emily Johnson|C|Starbucks|Groceries|3957.88|USD|7436.66|ACH|Pending
+TXN100675|2025-07-03|ACCT41850|Michael Brown|D|Costco|Fuel|4173.71|USD|1557.55|Wire|Reversed
+TXN100676|2025-02-27|ACCT39010|John Smith|D|Starbucks|Retail|-188.87|USD|7102.53|Credit Card|Failed
+TXN100677|2025-06-12|ACCT99346|Sarah Miller|C|Shell|Retail|710.0|USD|7249.74|ACH|Pending
+TXN100678|2025-03-11|ACCT85765|John Smith|C|Walmart|Bills|751.11|USD|15217.33|Debit Card|Reversed
+TXN100679|2025-09-01|ACCT98246|Emily Johnson|C|Target|Retail|1974.08|USD|14027.55|Debit Card|Completed
+TXN100680|2025-06-21|ACCT39355|Sarah Miller|D|Shell|Fuel|4967.9|USD|14517.18|Zelle|Completed
+TXN100681|2025-10-18|ACCT31877|David Wilson|C|Target|Bills|3413.79|USD|8255.64|Debit Card|Failed
+TXN100682|2025-02-20|ACCT61419|Michael Brown|D|Shell|Electronics|3938.96|USD|4814.76|Credit Card|Completed
+TXN100683|2025-12-10|ACCT51136|Sarah Miller|C|Shell|Retail|-144.19|USD|12794.16|Zelle|Pending
+TXN100684|2025-04-07|ACCT44839|Sarah Miller|D|Costco|Groceries|1902.66|USD|13497.23|Wire|Reversed
+TXN100685|2025-04-16|ACCT90116|Jessica Davis|C|Starbucks|Electronics|544.32|USD|8206.7|Credit Card|Completed
+TXN100686|2026-01-27|ACCT83292|John Smith|D|Costco|Bills|2576.17|USD|9210.36|ACH|Pending
+TXN100687|2026-01-12|ACCT87224|Jessica Davis|D|Costco|Retail|2837.76|USD|9708.93|Debit Card|Failed
+TXN100688|2025-12-02|ACCT38429|David Wilson|D|Apple|Fuel|231.95|USD|19811.13|ACH|Completed
+TXN100689|2025-05-20|ACCT80596|Jessica Davis|C|Target|Dining|1213.17|USD|3322.01|ACH|Reversed
+TXN100690|2025-12-23|ACCT38934|Michael Brown|D|Walmart|Retail|351.92|USD|3225.8|Credit Card|Reversed
+TXN100691|2025-05-22|ACCT30619|Emily Johnson|C|Shell|Groceries|2225.81|USD|11729.01|ACH|Completed
+TXN100692|2026-01-02|ACCT58809|Emily Johnson|D|Costco|Fuel|-334.42|USD|6619.42|Wire|Failed
+TXN100693|2025-10-29|ACCT21187|Sarah Miller|C|Target|Retail|731.92|USD|12291.98|Wire|Failed
+TXN100694|2026-01-08|ACCT10777|Jessica Davis|C|Target|Fuel|2980.21|USD|1300.93|Debit Card|Pending
+TXN100695|2025-03-10|ACCT78705|Michael Brown|C|Apple|Groceries|1548.84|USD|5823.4|ACH|Reversed
+TXN100696|2025-05-22|ACCT64858|Sarah Miller|C|Shell|Dining|4733.4|USD|18175.58|Zelle|Reversed
+TXN100697|2025-08-25|ACCT91592|Jessica Davis|D|Target|Bills|4975.8|USD|11282.17|Zelle|Reversed
+TXN100698|2025-02-01|ACCT27225|Sarah Miller|D|Starbucks|Groceries|1492.12|USD|5600.09|Credit Card|Pending
+TXN100699|2025-08-21|ACCT24003|David Wilson|C|Target|Groceries|4200.97|USD|14614.06|Zelle|Completed
+TXN100700|2025-08-29|ACCT96926|David Wilson|C|Shell|Dining|3427.97|USD|2862.96|Zelle|Reversed
+TXN100701|2025-01-22|ACCT45722|Emily Johnson|D|Apple|Bills|3954.46|USD|3296.12|ACH|Reversed
+TXN100702|2025-01-07|ACCT71078|Sarah Miller|D|Shell|Groceries|1596.76|USD|2209.17|Zelle|Pending
+TXN100703|2025-10-19|ACCT68497|Michael Brown|D|Apple|Retail|4854.33|USD|16502.5|Debit Card|Pending
+TXN100704|2025-01-13|ACCT14014|David Wilson|C|Costco|Electronics|1416.6|USD|6855.69|Wire|Failed
+TXN100705|2025-09-28|ACCT36871|Emily Johnson|D|Shell|Retail|4450.18|USD|8591.21|Wire|Completed
+TXN100706|2025-08-28|ACCT73043|Michael Brown|C|Apple|Fuel|1604.82|USD|5875.55|Debit Card|Reversed
+TXN100707|2025-07-11|ACCT85562|David Wilson|D|Starbucks|Dining|712.31|USD|18980.96|Zelle|Failed
+TXN100708|2025-10-18|ACCT57676|Jessica Davis|C|Amazon|Retail|2852.95|USD|7458.21|ACH|Reversed
+TXN100709|2026-01-06|ACCT21539|John Smith|C|Starbucks|Retail|2927.41|USD|10742.9|Wire|Completed
+TXN100710|2026-01-25|ACCT92780|Sarah Miller|C|Costco|Retail|3361.93|USD|9846.53|Wire|Completed
+TXN100711|2025-09-27|ACCT25321|Jessica Davis|C|Amazon|Electronics|1078.86|USD|2509.25|Wire|Completed
+TXN100712|2026-02-03|ACCT73941|Emily Johnson|D|Costco|Bills|31.57|USD|3268.11|Wire|Failed
+TXN100713|2025-02-03|ACCT17528|John Smith|C|Walmart|Retail|1574.97|USD|11042.49|ACH|Pending
+TXN100714|2025-10-05|ACCT48675|David Wilson|D|Target|Electronics|4831.01|USD|15995.51|ACH|Pending
+TXN100715|2025-07-25|ACCT49603|Jessica Davis|C|Walmart|Bills|3913.67|USD|2732.61|Debit Card|Failed
+TXN100716|2025-05-02|ACCT49642|Michael Brown|C|Walmart|Dining|1867.6|USD|8776.31|Debit Card|Pending
+TXN100717|2026-01-13|ACCT73460|Jessica Davis|C|Target|Retail|1340.1|USD|9825.14|Wire|Completed
+TXN100718|2025-09-23|ACCT74526|Sarah Miller|D|Walmart|Fuel|1195.4|USD|12518.61|Credit Card|Failed
+TXN100719|2025-09-21|ACCT41878|Michael Brown|C|Shell|Electronics|1283.91|USD|1187.54|Debit Card|Reversed
+TXN100720|2026-01-14|ACCT92578||D|Apple|Dining|4512.06|USD|18067.93|Credit Card|Reversed
+TXN100721|2025-05-06|ACCT50258|David Wilson|C|Target|Groceries|4298.69|USD|4206.69|ACH|Failed
+TXN100722|2025-04-09|ACCT89505|Michael Brown|C|Shell|Dining|3283.48|USD|17702.51|Wire|Completed
+TXN100723|2026-01-02|ACCT30290|Emily Johnson|C|Walmart|Retail|-106.03|USD|12396.82|Debit Card|Completed
+TXN100724|2025-04-30|ACCT77853|Jessica Davis|C|Shell|Electronics|1230.14|USD|9467.05|ACH|Failed
+TXN100725|2025-03-23|ACCT69394|David Wilson|D|Amazon|Bills|4794.67|USD|9481.88|ACH|Reversed
+TXN100726|2025-11-25|ACCT65170|Michael Brown|C|Target|Groceries|2964.53|USD|18222.88|ACH|Completed
+TXN100727|2025-08-12|ACCT80484|Sarah Miller|D|Apple|Dining|4480.49|USD|8868.55|Debit Card|Pending
+TXN100728|2025-02-13|ACCT59070|Emily Johnson|D|Walmart|Fuel|1507.5|USD|12536.14|Wire|Completed
+TXN100729|2025-05-14|ACCT22514|Emily Johnson|C|Starbucks|Dining|423.17|USD|13733.16|Wire|Failed
+TXN100730|2025-02-22|ACCT45264|Michael Brown|C|Starbucks|Electronics|110.55|USD|3825.55|ACH|Pending
+TXN100731|2025-02-04|ACCT65483|John Smith|C|Costco|Groceries|-388.37|USD|6315.77|Debit Card|Completed
+TXN100732|2025-04-15|ACCT27279|Jessica Davis|C|Target|Bills|2726.46|USD|6675.67|Credit Card|Failed
+TXN100733|2026-01-13|ACCT66994|David Wilson|C|Starbucks|Dining|1279.92|USD|5840.64|Wire|Pending
+TXN100734|2025-02-25|ACCT79458|Jessica Davis|D|Shell|Groceries|316.62|USD|2958.29|Credit Card|Completed
+TXN100735|2026-01-17|ACCT61741|David Wilson|D|Amazon|Bills|1260.85|USD|6597.49|Credit Card|Completed
+TXN100736|2025-08-21|ACCT90641|David Wilson|D|Walmart|Bills|4302.04|USD|9282.09|Wire|Failed
+TXN100737|2025-01-28|ACCT79095|David Wilson|C|Apple|Fuel|-329.46|USD|14393.64|Credit Card|Pending
+TXN100738|2025-07-20|ACCT63101|Michael Brown|C|Shell|Fuel|581.62|USD|17289.32|Debit Card|Pending
+TXN100739|2025-05-30|ACCT10506|Emily Johnson|C|Apple|Bills|2689.98|USD|15155.48|Debit Card|Failed
+TXN100740|2025-12-27|ACCT23107|David Wilson|D|Starbucks|Dining|4480.56|USD|2198.48|Credit Card|Pending
+TXN100741|2025-03-07|ACCT22457|Jessica Davis|D|Target|Groceries|1361.65|USD|2069.08|Credit Card|Pending
+TXN100742|2025-07-23|ACCT13493|Jessica Davis|D|Amazon|Retail|4902.47|USD|15240.19|Wire|Failed
+TXN100743|2025-09-13|ACCT33723|Emily Johnson|D|Walmart|Groceries|3348.03|USD|18769.19|Wire|Failed
+TXN100744|2025-08-22|ACCT67425|Jessica Davis|D|Walmart|Retail|4769.02|USD|15427.6|Debit Card|Failed
+TXN100745|2025-01-10|ACCT91024|Michael Brown|C|Costco|Electronics|2822.52|USD|16254.81|ACH|Pending
+TXN100746|2026-01-08|ACCT34252|David Wilson|D|Starbucks|Bills|3159.48|USD|5387.07|Debit Card|Completed
+TXN100747|2025-04-23|ACCT18848|Michael Brown|D|Walmart|Bills|1008.83|USD|18727.35|Wire|Pending
+TXN100748|2025-03-02|ACCT19098|Michael Brown|C|Amazon|Retail|4715.26|USD|3397.66|Credit Card|Completed
+TXN100749|2025-02-19|ACCT65497|John Smith|C|Shell|Bills|3940.85|USD|4177.95|Credit Card|Reversed
+TXN100750|2025-02-30|ACCT25485|John Smith|D|Starbucks|Groceries|2810.33|USD|16581.0|ACH|Failed
+TXN100751|2025-10-17|ACCT10665|Sarah Miller|D|Starbucks|Dining|94.99|USD|13915.14|Wire|Completed
+TXN100752|2025-01-21|ACCT73283|Emily Johnson|D|Target|Fuel|4976.19|USD|11213.45|ACH|Reversed
+TXN100753|2025-04-06|ACCT83041|Sarah Miller|C|Target|Electronics|1347.93|USD|19038.47|Credit Card|Reversed
+TXN100754|2025-02-05|ACCT51539|Emily Johnson|D|Target|Groceries|610.33|USD|17695.94|Wire|Pending
+TXN100755|2025-04-23|ACCT28260|Sarah Miller|D|Starbucks|Retail|1478.37|USD|15048.09|Zelle|Failed
+TXN100756|2026-01-30|ACCT33173|David Wilson|D|Walmart|Retail|4854.64|USD|17333.48|ACH|Failed
+TXN100757|2025-08-10|ACCT47068|Sarah Miller|C|Shell|Dining|2714.45|USD|1210.52|ACH|Completed
+TXN100758|2025-11-08|ACCT36411|Sarah Miller|C|Costco|Electronics|1729.41|USD|18531.54|Wire|Reversed
+TXN100759|2025-12-20|ACCT64508|David Wilson|D|Shell|Fuel|4780.43|USD|13555.26|Wire|Pending
+TXN100760|2025-07-25|ACCT60981|Jessica Davis|C|Shell|Dining|3093.48|USD|4666.7|ACH|Completed
+TXN100761|2025-05-08|ACCT15970|John Smith|D|Apple|Groceries|1173.18|USD|6080.38|Wire|Failed
+TXN100762|2025-12-19|ACCT70634|Emily Johnson|D|Amazon|Groceries|2072.76|USD|14958.12|Zelle|Failed
+TXN100763|2025-10-13|ACCT31560|John Smith|D|Walmart|Groceries|2358.38|USD|3181.2|Wire|Pending
+TXN100764|2026-01-27|ACCT35488|Jessica Davis|D|Apple|Bills|3955.08|USD|18962.5|ACH|Failed
+TXN100765|2025-06-22|ACCT22870|David Wilson|C|Target|Fuel|2526.65|USD|19396.61|Zelle|Pending
+TXN100766|2026-01-04|ACCT49253|Jessica Davis|D|Shell|Retail|745.02|USD|2294.83|Zelle|Reversed
+TXN100767|2025-08-27|ACCT44711|Sarah Miller|C|Walmart|Groceries|4236.2|USD|9468.12|ACH|Reversed
+TXN100768|2025-11-07|ACCT88858|Michael Brown|C|Target|Dining|4274.29|USD|16911.31|Wire|Failed
+TXN100769|2025-09-09|ACCT42748|Sarah Miller|C|Target|Retail|3374.18|USD|15864.18|Zelle|Completed
+TXN100770|2025-09-04|ACCT72497|Michael Brown|C|Apple|Retail|699.95|USD|1470.46|Credit Card|Failed
+TXN100771|2025-09-08|ACCT63751|John Smith|C|Starbucks|Electronics|4276.27|USD|16095.9|Credit Card|Failed
+TXN100772|2025-09-21|ACCT64385|John Smith|C|Shell|Fuel|2584.24|USD|11781.37|Credit Card|Pending
+TXN100773|2025-08-19|ACCT43430|Emily Johnson|D|Starbucks|Retail|1955.08|USD|19768.14|Debit Card|Reversed
+TXN100774|2025-07-04|ACCT96075|Sarah Miller|C|Target|Fuel|1344.92|USD|13049.78|Zelle|Reversed
+TXN100775|2025-02-28|ACCT70047|David Wilson|C|Apple|Bills|3420.45|USD|15501.99|Zelle|Completed
+TXN100776|2025-07-29|ACCT81529|Michael Brown|D|Amazon|Groceries|3637.08|USD|6457.71|Debit Card|Reversed
+TXN100777|2025-08-26|ACCT29995|David Wilson|D|Shell|Electronics|664.19|USD|12111.69|Zelle|Completed
+TXN100778|2025-04-25|ACCT60510|Sarah Miller|D|Target|Bills|1154.71|USD|7787.7|Credit Card|Failed
+TXN100779|2025-03-11|ACCT32408|Michael Brown|D|Apple|Electronics|2617.1|USD|18286.15|ACH|Reversed
+TXN100780|2025-12-24|ACCT71303|David Wilson|D|Walmart|Retail|978.31|USD|1860.94|Zelle|Completed
+TXN100781|2025-05-08|ACCT35666|Michael Brown|D|Target|Fuel|1791.69|USD|18517.22|Wire|Pending
+TXN100782|2025-12-13|ACCT46706|Jessica Davis|C|Amazon|Bills|2720.16|USD|1624.09|Wire|Reversed
+TXN100783|2026-01-01|ACCT86041|Emily Johnson|D|Walmart|Retail|3653.0|USD|11061.5|ACH|Reversed
+TXN100784|2025-12-22|ACCT40136|Sarah Miller|D|Amazon|Fuel|8.08|USD|15202.23|Debit Card|Failed
+TXN100785|2025-10-25|ACCT42529|John Smith|C|Target|Dining|4134.62|USD|15805.57|Zelle|Failed
+TXN100786|2025-08-27|ACCT69552|Sarah Miller|D|Amazon|Electronics|1211.95|USD|11478.17|Credit Card|Completed
+TXN100787|2026-01-14|ACCT93058|Jessica Davis|D|Starbucks|Bills|1334.5|USD|8916.34|Debit Card|Failed
+TXN100788|2025-01-18|ACCT57941|Sarah Miller|D|Walmart|Bills|1949.29|USD|10233.59|Wire|Pending
+TXN100789|2025-03-09|ACCT32109|Michael Brown|C|Apple|Groceries|2271.98|USD|19709.37|ACH|Completed
+TXN100790|2025-11-27|ACCT38973|Emily Johnson|C|Amazon|Bills|4602.65|USD|19617.43|Credit Card|Completed
+TXN100791|2025-11-05|ACCT73204|John Smith|D|Costco|Bills|188.31|USD|12007.07|Credit Card|Failed
+TXN100792|2025-01-05|ACCT71973|Emily Johnson|D|Starbucks|Fuel|4002.44|USD|10962.34|Credit Card|Completed
+TXN100793|2025-05-21|ACCT10831|Sarah Miller|D|Shell|Electronics|3373.1|USD|18548.64|Credit Card|Failed
+TXN100794|2025-09-30|ACCT88236|Jessica Davis|C|Starbucks|Retail|2718.21|USD|19464.67|Debit Card|Failed
+TXN100795|2025-12-29|ACCT16999|John Smith|C|Walmart|Fuel|391.95|USD|17354.09|Zelle|Reversed
+TXN100796|2025-05-12|ACCT82413|Jessica Davis|C|Target|Electronics|1649.11|USD|9681.02|ACH|Completed
+TXN100797|2025-04-05|ACCT25513|Sarah Miller|C|Target|Electronics|66.79|USD|8133.05|Wire|Pending
+TXN100798|2025-04-12|ACCT42016|John Smith|C|Costco|Electronics|1584.27|USD|4670.82|Zelle|Completed
+TXN100799|2025-03-11|ACCT92886|Jessica Davis|C|Apple|Bills|837.86|USD|5721.0|Zelle|Pending
+TXN100050|2025-11-17|ACCT81975|Emily Johnson|C|Shell|Dining|1985.31|USD|19434.39|Debit Card|Pending
+TXN100801|2026-01-03|ACCT76392|John Smith|C|Starbucks|Bills|3008.83|USD|1954.52|Debit Card|Reversed
+TXN100802|2025-10-01|ACCT40935|Emily Johnson|D|Costco|Fuel|1772.01|USD|16454.2|Credit Card|Reversed
+TXN100803|2025-11-23|ACCT37621|Jessica Davis|D|Shell|Fuel|4616.36|USD|16334.42|Wire|Reversed
+TXN100804|2025-08-12|ACCT61604|John Smith|D|Costco|Retail|4583.14|USD|4943.47|Debit Card|Completed
+TXN100805|2025-12-28|ACCT83878|David Wilson|C|Starbucks|Dining|-259.47|USD|13893.59|Wire|Completed
+TXN100806|2025-01-05|ACCT27744|John Smith|D|Walmart|Electronics|1707.51|USD|9956.51|Zelle|Failed
+TXN100807|2025-01-08|ACCT98909|Emily Johnson|D|Walmart|Fuel|4301.22|USD|9412.38|ACH|Failed
+TXN100808|2025-05-19|ACCT10820|Emily Johnson|D|Walmart|Groceries|1267.86|USD|17358.7|Credit Card|Completed
+TXN100809|2025-09-20|ACCT31685|Jessica Davis|D|Target|Fuel|936.78|USD|13371.98|Debit Card|Pending
+TXN100810|2025-10-01|ACCT68920|Emily Johnson|C|Costco|Groceries|2258.11|USD|1384.74|ACH|Pending
+TXN100811|2026-01-12|ACCT65882|Jessica Davis|D|Apple|Bills|2684.29|USD|9745.05|Debit Card|Pending
+TXN100812|2025-10-18|ACCT35503|David Wilson|D|Starbucks|Electronics|4709.81|USD|15204.06|Zelle|Reversed
+TXN100813|2025-10-03|ACCT68313|John Smith|C|Walmart|Dining|2733.96|USD|4965.31|Credit Card|Failed
+TXN100814|2025-11-05|ACCT93965|Emily Johnson|D|Costco|Dining|3025.02|USD|4463.62|Debit Card|Failed
+TXN100815|2026-01-11|ACCT25236|Sarah Miller|C|Amazon|Fuel|-387.89|USD|10826.44|Credit Card|Failed
+TXN100816|2025-11-17|ACCT30671|David Wilson|D|Apple|Electronics|0.02|USD|8145.32|Debit Card|Reversed
+TXN100817|2025-10-03|ACCT39192|Sarah Miller|D|Starbucks|Bills|1048.48|USD|8948.96|Zelle|Failed
+TXN100818|2025-03-28|ACCT39238|Sarah Miller|C|Apple|Groceries|3100.55|USD|4888.61|Wire|Reversed
+TXN100819|2026-01-29|ACCT40781|Jessica Davis|C|Starbucks|Fuel|42.21|USD|5453.14|Wire|Pending
+TXN100820|2025-11-16|ACCT40925|David Wilson|C|Walmart|Electronics|1096.05|USD|7181.94|ACH|Completed
+TXN100821|2025-03-26|ACCT54808|Michael Brown|D|Target|Bills|726.34|USD|15376.97|ACH|Reversed
+TXN100822|2025-03-02|ACCT57367|John Smith|D|Apple|Electronics|355.2|USD|5780.95|Debit Card|Completed
+TXN100823|2026-01-20|ACCT39834|Michael Brown|D|Costco|Fuel|3131.44|USD|5861.85|Wire|Reversed
+TXN100824|2025-05-23|ACCT12872|Jessica Davis|C|Amazon|Groceries|1755.4|USD|15737.94|Wire|Pending
+TXN100825|2025-06-18|ACCT77301|Emily Johnson|C|Amazon|Retail|630.14|USD|5715.38|Zelle|Completed
+TXN100826|2025-01-26|ACCT52176|Emily Johnson|D|Costco|Electronics|1931.14|USD|6160.27|Wire|Failed
+TXN100827|2025-03-03|ACCT21637|Michael Brown|D|Amazon|Retail|2093.94|USD|3796.87|Zelle|Completed
+TXN100828|2025-06-25|ACCT27991|John Smith|C|Apple|Retail|999.4|USD|2526.07|Debit Card|Pending
+TXN100829|2025-07-25|ACCT39079|Michael Brown|D|Amazon|Groceries|903.42|USD|14458.48|Debit Card|Reversed
+TXN100830|2025-10-31|ACCT46983|Emily Johnson|C|Walmart|Electronics|650.25|USD|10147.58|ACH|Failed
+TXN100831|2025-01-06|ACCT65227|John Smith|D|Costco|Fuel|1871.21|USD|12339.74|Zelle|Failed
+TXN100832|2025-06-11|ACCT22772|Emily Johnson|C|Apple|Electronics|4784.44|USD|18591.34|Debit Card|Completed
+TXN100833|2025-04-23|ACCT36488|Michael Brown|C|Starbucks|Bills|846.62|USD|6564.43|Credit Card|Failed
+TXN100834|2025-09-13|ACCT35172|Emily Johnson|C|Apple|Dining|-99.13|USD|8362.78|Wire|Reversed
+TXN100835|2025-02-09|ACCT63341|John Smith|D|Amazon|Electronics|-211.71|USD|12707.44|Debit Card|Failed
+TXN100836|2025-07-24|ACCT40069|Sarah Miller|C|Apple|Dining|-65.9|USD|7752.7|ACH|Reversed
+TXN100837|2025-06-06|ACCT87813|Jessica Davis|C|Costco|Retail|2236.06|USD|9572.8|Credit Card|Failed
+TXN100838|2025-12-21|ACCT66209|John Smith|C|Shell|Groceries|359.65|USD|15630.9|Debit Card|Completed
+TXN100839|2025-12-19|ACCT51646|John Smith|D|Costco|Electronics|3811.68|USD|2434.46|ACH|Completed
+TXN100840|2025-05-11|ACCT64767|Jessica Davis|C|Costco|Electronics|1243.34|USD|1403.86|Wire|Pending
+TXN100841|2025-10-30|ACCT52955|David Wilson|D|Shell|Retail|242.45|USD|5990.56|ACH|Pending
+TXN100842|2026-01-14|ACCT61219|Sarah Miller|D|Apple|Dining|489.04|USD|3068.89|Credit Card|Completed
+TXN100843|2025-04-07|ACCT53512|Jessica Davis|D|Target|Retail|39.59|USD|5240.85|Zelle|Failed
+TXN100844|2025-05-15|ACCT39090|David Wilson|D|Costco|Electronics|-162.26|USD|16238.32|ACH|Reversed
+TXN100845|2025-08-19|ACCT45938|David Wilson|C|Walmart|Electronics|2687.92|USD|18437.32|Zelle|Failed
+TXN100846|2025-11-17|ACCT95454|Jessica Davis|C|Apple|Fuel|1835.27|USD|13087.52|Zelle|Reversed
+TXN100847|2025-06-20|ACCT48173|Michael Brown|D|Starbucks|Groceries|4385.92|USD|15221.21|Wire|Failed
+TXN100848|2025-12-10|ACCT83010|David Wilson|C|Apple|Fuel|4581.59|USD|3652.64|Debit Card|Failed
+TXN100849|2026-01-26|ACCT38107|John Smith|C|Walmart|Dining|4578.36|USD|14310.16|Zelle|Completed
+TXN100850|2025-07-20|ACCT46148|John Smith|C|Walmart|Groceries|1851.93|USD|2901.62|Debit Card|Reversed
+TXN100851|2025-03-30|ACCT50237|Jessica Davis|D|Shell|Electronics|3397.88|USD|17476.16|ACH|Completed
+TXN100852|2025-01-02|ACCT49812|Jessica Davis|C|Target|Groceries|4278.88|USD|7474.3|ACH|Completed
+TXN100853|2026-01-22|ACCT19710|David Wilson|D|Amazon|Bills|-271.24|USD|5003.69|Zelle|Reversed
+TXN100854|2025-02-11|ACCT18919|Sarah Miller|D|Target|Fuel|2892.83|USD|3037.57|Zelle|Failed
+TXN100855|2025-02-06|ACCT94921|John Smith|D|Costco|Electronics|3782.91|USD|3419.49|ACH|Completed
+TXN100856|2025-01-21|ACCT94494|John Smith|D|Costco|Groceries|3873.31|USD|7498.46|Debit Card|Failed
+TXN100857|2025-09-16|ACCT99574|Michael Brown|D|Walmart|Groceries|2619.95|USD|15559.87|ACH|Reversed
+TXN100858|2025-12-08|ACCT99619|Sarah Miller|C|Amazon|Retail|4582.47|USD|19993.64|ACH|Completed
+TXN100859|2025-05-20|ACCT74346|Jessica Davis|C|Starbucks|Electronics|1940.2|USD|16811.88|Wire|Failed
+TXN100860|2025-11-09|ACCT15559|Jessica Davis|D|Target|Retail|2068.48|USD|2131.95|ACH|Reversed
+TXN100861|2025-12-19|ACCT43598|David Wilson|D|Amazon|Fuel|3902.26|USD|5962.74|Wire|Failed
+TXN100862|2025-07-15|ACCT60962|David Wilson|D|Apple|Retail|-383.05|USD|5533.45|Wire|Failed
+TXN100863|2025-09-25|ACCT40239|John Smith|D|Apple|Dining|2885.15|USD|10323.43|ACH|Completed
+TXN100864|2025-09-19|ACCT48744|Sarah Miller|D|Target|Dining|4288.01|USD|4301.93|Wire|Reversed
+TXN100865|2025-04-18|ACCT75300|Michael Brown|D|Target|Electronics|4650.15|USD|17016.39|Wire|Completed
+TXN100866|2025-01-26|ACCT10747|John Smith|C|Target|Electronics|994.9|USD|17963.63|Wire|Pending
+TXN100867|2025-07-06|ACCT79720|Michael Brown|C|Walmart|Groceries|3573.95|USD|13664.94|Debit Card|Pending
+TXN100868|2025-05-14|ACCT76189|Emily Johnson|D|Target|Dining|2309.19|USD|16077.14|Credit Card|Pending
+TXN100869|2025-02-03|ACCT90679|Jessica Davis|D|Apple|Retail|3997.45|USD|14634.43|Credit Card|Failed
+TXN100870|2025-02-03|ACCT76156|Emily Johnson|C|Starbucks|Groceries|3680.32|USD|8118.23|Wire|Reversed
+TXN100871|2025-02-25|ACCT79739|John Smith|D|Amazon|Dining|1482.17|USD|19578.48|Debit Card|Pending
+TXN100872|2025-06-04|ACCT63084|Jessica Davis|D|Walmart|Bills|3643.37|USD|18615.46|Debit Card|Failed
+TXN100873|2025-02-23|ACCT36213|David Wilson|C|Apple|Groceries|1108.33|USD|8823.73|Credit Card|Failed
+TXN100874|2025-05-27|ACCT52103|Sarah Miller|D|Starbucks|Dining|1790.25|USD|8925.52|Credit Card|Completed
+TXN100875|2025-10-26|ACCT78279|Jessica Davis|C|Starbucks|Electronics|588.67|USD|12783.39|ACH|Reversed
+TXN100876|2025-02-05|ACCT11498|Jessica Davis|D|Shell|Electronics|2628.62|USD|13401.17|Wire|Completed
+TXN100877|2025-04-26|ACCT15301|Jessica Davis|C|Apple|Dining|4346.8|USD|3409.38|Wire|Completed
+TXN100878|2026-01-11|ACCT75601|John Smith|C|Amazon|Retail|1408.2|USD|6585.17|Credit Card|Failed
+TXN100879|2025-02-17|ACCT40842|Michael Brown|D|Walmart|Dining|1938.63|USD|19903.38|Credit Card|Failed
+TXN100880|2025-11-25|ACCT20979|Sarah Miller|D|Target|Fuel|2177.86|USD|7738.69|Wire|Reversed
+TXN100881|2025-03-26|ACCT54709|David Wilson|C|Shell|Electronics|305.54|USD|15349.15|Wire|Reversed
+TXN100882|2025-03-11|ACCT86016|David Wilson|D|Apple|Electronics|4927.29|USD|3329.44|Credit Card|Pending
+TXN100883|2025-11-27|ACCT22785|Jessica Davis|C|Shell|Retail|3994.33|USD|17778.15|ACH|Completed
+TXN100884|2025-12-15|ACCT66795|David Wilson|D|Starbucks|Bills|4409.63|USD|16236.3|ACH|Failed
+TXN100885|2026-01-15|ACCT33242|Jessica Davis|C|Apple|Bills|2657.65|USD|12437.71|Zelle|Completed
+TXN100886|2025-05-12|ACCT46931|Emily Johnson|C|Amazon|Retail|-479.14|USD|10434.51|Zelle|Completed
+TXN100887|2025-09-06|ACCT76260|John Smith|D|Costco|Groceries|2262.65|USD|16398.65|Credit Card|Completed
+TXN100888|2025-09-26|ACCT98373|Emily Johnson|D|Starbucks|Fuel|2879.38|USD|9793.49|Credit Card|Pending
+TXN100889|2025-10-08|ACCT17610|Jessica Davis|D|Apple|Electronics|162.96|USD|5705.81|Credit Card|Completed
+TXN100890|2025-01-08|ACCT97293|Sarah Miller|C|Walmart|Bills|3700.35|USD|15954.88|ACH|Pending
+TXN100891|2025-06-11|ACCT23658|Sarah Miller|D|Starbucks|Dining|2615.07|USD|12305.16|Credit Card|Completed
+TXN100892|2025-06-26|ACCT59497|Sarah Miller|C|Walmart|Bills|2320.37|USD|13672.72|ACH|Completed
+TXN100893|2025-11-03|ACCT84614|Michael Brown|D|Amazon|Electronics|387.65|USD|7811.91|Zelle|Failed
+TXN100894|2025-03-14|ACCT53619|Jessica Davis|D|Starbucks|Retail|779.47|USD|5206.16|Zelle|Completed
+TXN100895|2025-08-16|ACCT28281|Michael Brown|D|Apple|Dining|4112.22|USD|12479.71|Debit Card|Pending
+TXN100896|2025-04-22|ACCT36324|Michael Brown|D|Walmart|Fuel|141.65|USD|14768.42|Zelle|Failed
+TXN100897|2025-05-17|ACCT40564|David Wilson|D|Amazon|Dining|2768.63|USD|16150.19|ACH|Pending
+TXN100898|2025-03-22|ACCT59950|John Smith|C|Target|Fuel|4335.24|USD|18969.09|Debit Card|Completed
+TXN100899|2025-12-05|ACCT66459|Michael Brown|D|Walmart|Dining|1853.66|USD|5540.57|Debit Card|Pending
+TXN100900|2025-12-11|ACCT41160||D|Starbucks|Bills|0|USD|5417.79|Debit Card|Pending
+TXN100901|2025-02-27|ACCT24285|David Wilson|D|Target|Groceries|-476.44|USD|6645.61|Wire|Completed
+TXN100902|2025-09-26|ACCT78244|David Wilson|D|Apple|Groceries|2559.57|USD|17484.85|Zelle|Completed
+TXN100903|2025-04-14|ACCT61011|Emily Johnson|C|Shell|Dining|4378.72|USD|4213.78|Wire|Completed
+TXN100904|2025-07-04|ACCT40489|John Smith|C|Target|Bills|4628.29|USD|17787.3|ACH|Failed
+TXN100905|2025-04-10|ACCT78891|Jessica Davis|D|Walmart|Fuel|935.53|USD|10267.57|Wire|Reversed
+TXN100906|2025-01-13|ACCT13383|Emily Johnson|C|Starbucks|Groceries|3673.28|USD|17054.67|Debit Card|Completed
+TXN100907|2025-06-25|ACCT22895|David Wilson|C|Shell|Retail|4532.08|USD|11494.43|ACH|Failed
+TXN100908|2025-10-10|ACCT85185|David Wilson|D|Target|Bills|2327.6|USD|1818.61|Zelle|Completed
+TXN100909|2025-03-21|ACCT85805|Jessica Davis|C|Starbucks|Bills|4095.35|USD|9465.06|Credit Card|Pending
+TXN100910|2025-11-21|ACCT62669|Michael Brown|C|Starbucks|Electronics|3837.74|USD|17449.49|Wire|Pending
+TXN100911|2025-05-13|ACCT22531|Sarah Miller|C|Walmart|Retail|1146.48|USD|3595.17|Credit Card|Failed
+TXN100912|2025-02-25|ACCT87875|Emily Johnson|C|Shell|Bills|3417.91|USD|19254.89|Wire|Failed
+TXN100913|2025-12-18|ACCT46365|David Wilson|D|Shell|Electronics|2936.48|USD|14080.05|Wire|Failed
+TXN100914|2025-03-12|ACCT35890|Emily Johnson|D|Shell|Fuel|-417.43|USD|18424.04|Wire|Failed
+TXN100915|2025-10-07|ACCT61545|Sarah Miller|C|Walmart|Electronics|4466.75|USD|12402.28|Credit Card|Pending
+TXN100916|2025-12-30|ACCT92313|Emily Johnson|D|Walmart|Bills|4755.21|USD|3550.28|ACH|Failed
+TXN100917|2025-12-06|ACCT15883|John Smith|C|Shell|Bills|342.73|USD|18240.17|Debit Card|Failed
+TXN100918|2025-02-07|ACCT52785|Sarah Miller|D|Target|Dining|4105.15|USD|5056.75|ACH|Pending
+TXN100919|2026-01-21|ACCT46546|Sarah Miller|D|Apple|Bills|609.09|USD|18806.92|Credit Card|Failed
+TXN100920|2025-09-28|ACCT77074|Michael Brown|C|Amazon|Electronics|1411.27|USD|6546.19|ACH|Reversed
+TXN100921|2025-02-16|ACCT52922|David Wilson|D|Starbucks|Electronics|3321.66|USD|3075.38|Wire|Pending
+TXN100922|2025-02-11|ACCT34826|Jessica Davis|C|Walmart|Fuel|3256.58|USD|1641.71|ACH|Pending
+TXN100923|2025-12-19|ACCT21861|David Wilson|D|Shell|Groceries|1262.24|USD|3182.87|ACH|Completed
+TXN100924|2025-12-29|ACCT20493|David Wilson|D|Costco|Dining|1637.67|USD|18451.22|ACH|Completed
+TXN100925|2025-11-11|ACCT52971|John Smith|D|Costco|Retail|3492.99|USD|12119.82|Debit Card|Reversed
+TXN100926|2025-01-19|ACCT14973|Jessica Davis|C|Starbucks|Dining|643.73|USD|1883.67|Debit Card|Failed
+TXN100927|2025-07-10|ACCT30366|David Wilson|C|Starbucks|Electronics|1578.29|USD|10873.42|Wire|Failed
+TXN100928|2026-01-17|ACCT95568|David Wilson|D|Target|Fuel|2644.89|USD|14045.55|Credit Card|Pending
+TXN100929|2025-08-31|ACCT97608|Michael Brown|D|Apple|Groceries|1951.0|USD|2655.54|Zelle|Failed
+TXN100930|2025-09-24|ACCT69138|John Smith|C|Amazon|Fuel|3983.4|USD|14035.51|Credit Card|Pending
+TXN100931|2025-11-24|ACCT98867|Emily Johnson|C|Shell|Dining|4359.45|USD|1699.8|ACH|Pending
+TXN100932|2025-07-14|ACCT44347|Emily Johnson|D|Target|Dining|3194.24|USD|12323.19|Debit Card|Pending
+TXN100933|2025-12-09|ACCT24211|Michael Brown|C|Costco|Dining|-228.25|USD|3068.85|Zelle|Reversed
+TXN100934|2025-02-14|ACCT34654|David Wilson|D|Costco|Bills|-42.66|USD|13862.15|Debit Card|Completed
+TXN100935|2025-04-05|ACCT60498|David Wilson|D|Shell|Bills|2336.67|USD|19192.58|Debit Card|Pending
+TXN100936|2025-07-16|ACCT25139|David Wilson|D|Walmart|Retail|1138.17|USD|17051.44|Credit Card|Completed
+TXN100937|2025-12-10|ACCT75625|John Smith|C|Costco|Groceries|999.93|USD|11655.01|ACH|Pending
+TXN100938|2025-09-22|ACCT65795|Michael Brown|C|Starbucks|Electronics|510.56|USD|5768.77|Credit Card|Failed
+TXN100939|2025-03-14|ACCT23223|Sarah Miller|D|Starbucks|Groceries|4024.24|USD|9297.86|Zelle|Completed
+TXN100940|2025-11-27|ACCT44216|Michael Brown|D|Amazon|Groceries|4275.32|USD|9523.81|Wire|Completed
+TXN100941|2025-01-30|ACCT50790|Jessica Davis|D|Starbucks|Electronics|-24.88|USD|1683.41|Wire|Completed
+TXN100942|2025-08-26|ACCT37845|Michael Brown|D|Walmart|Dining|4134.92|USD|11059.59|Zelle|Reversed
+TXN100943|2025-08-30|ACCT56767|Jessica Davis|C|Costco|Fuel|3270.75|USD|1214.7|Debit Card|Completed
+TXN100944|2025-02-25|ACCT79384|Jessica Davis|D|Starbucks|Retail|1233.21|USD|11967.39|ACH|Pending
+TXN100945|2025-12-11|ACCT44092|David Wilson|D|Apple|Groceries|3109.31|USD|14938.72|Credit Card|Reversed
+TXN100946|2025-09-07|ACCT24298|Emily Johnson|D|Amazon|Electronics|3244.38|USD|11203.3|ACH|Failed
+TXN100947|2025-02-15|ACCT87992|Jessica Davis|D|Target|Dining|4466.35|USD|19316.35|Credit Card|Completed
+TXN100948|2025-10-22|ACCT92453|Michael Brown|C|Starbucks|Fuel|884.34|USD|10508.34|Zelle|Failed
+TXN100949|2025-06-22|ACCT29901|John Smith|C|Apple|Groceries|4204.14|USD|3666.02|Zelle|Reversed
+TXN100950|2025-01-18|ACCT43512|Emily Johnson|D|Walmart|Fuel|2657.09|USD|13690.85|Credit Card|Failed
+TXN100951|2025-10-05|ACCT40973|Jessica Davis|D|Shell|Fuel|4758.06|USD|2155.88|ACH|Failed
+TXN100952|2025-09-30|ACCT71466|Michael Brown|D|Shell|Fuel|1129.22|USD|17667.25|Wire|Pending
+TXN100953|2026-01-19|ACCT41227|Sarah Miller|D|Shell|Retail|3013.31|USD|3260.16|Credit Card|Reversed
+TXN100954|2025-10-24|ACCT39321|Michael Brown|D|Target|Bills|4774.87|USD|14451.62|Debit Card|Failed
+TXN100955|2025-11-18|ACCT50319|Jessica Davis|D|Apple|Retail|2563.14|USD|18638.16|ACH|Reversed
+TXN100956|2025-04-15|ACCT16278|Emily Johnson|C|Walmart|Electronics|4202.55|USD|14131.63|Credit Card|Pending
+TXN100957|2025-11-26|ACCT13694|Jessica Davis|C|Costco|Bills|716.22|USD|12464.64|Credit Card|Failed
+TXN100958|2025-09-25|ACCT70595|John Smith|D|Walmart|Groceries|164.18|USD|18749.79|Credit Card|Pending
+TXN100959|2026-01-05|ACCT86943|John Smith|C|Walmart|Groceries|3082.08|USD|1980.91|Credit Card|Failed
+TXN100960|2025-10-30|ACCT87444|David Wilson|C|Target|Fuel|671.9|USD|4562.65|Zelle|Completed
+TXN100961|2025-12-29|ACCT10042|Michael Brown|C|Apple|Dining|1183.17|USD|2242.63|Credit Card|Failed
+TXN100962|2025-08-26|ACCT92904|John Smith|C|Costco|Groceries|1543.48|USD|11435.86|ACH|Failed
+TXN100963|2025-12-12|ACCT85474|Michael Brown|D|Costco|Dining|3748.9|USD|1075.47|Credit Card|Reversed
+TXN100964|2025-01-28|ACCT33690|Sarah Miller|D|Shell|Electronics|-493.48|USD|14949.75|Wire|Failed
+TXN100965|2025-04-21|ACCT63267|Jessica Davis|C|Apple|Bills|3965.42|USD|8579.91|ACH|Reversed
+TXN100966|2025-12-10|ACCT30995|Michael Brown|C|Amazon|Electronics|1811.53|USD|6493.78|Debit Card|Completed
+TXN100967|2025-07-02|ACCT63192|Michael Brown|D|Costco|Bills|2996.25|USD|5317.33|Credit Card|Pending
+TXN100968|2025-04-23|ACCT35398|David Wilson|D|Starbucks|Retail|1830.2|USD|9352.81|Credit Card|Pending
+TXN100969|2025-12-25|ACCT54917|David Wilson|C|Amazon|Electronics|1432.45|USD|5576.86|Credit Card|Completed
+TXN100970|2025-06-14|ACCT59852|Michael Brown|C|Walmart|Fuel|3581.85|USD|3136.81|Debit Card|Completed
+TXN100971|2025-05-06|ACCT90149|Michael Brown|D|Walmart|Dining|2940.43|USD|16193.41|Debit Card|Reversed
+TXN100972|2025-05-18|ACCT88334|John Smith|D|Walmart|Retail|4961.86|USD|5401.89|Debit Card|Reversed
+TXN100973|2025-11-07|ACCT68389|David Wilson|C|Shell|Bills|2388.7|USD|11043.52|Wire|Reversed
+TXN100974|2025-08-16|ACCT24558|John Smith|C|Costco|Groceries|-393.64|USD|5544.77|Zelle|Pending
+TXN100975|2025-09-30|ACCT61925|Jessica Davis|C|Walmart|Retail|2844.9|USD|4683.93|Zelle|Failed
+TXN100976|2025-05-16|ACCT56112|Emily Johnson|D|Starbucks|Fuel|1949.12|USD|16666.12|Zelle|Pending
+TXN100977|2025-02-01|ACCT52033|Sarah Miller|C|Target|Groceries|4464.46|USD|18913.91|Wire|Reversed
+TXN100978|2025-09-08|ACCT42794|David Wilson|D|Apple|Electronics|2468.98|USD|3936.87|ACH|Pending
+TXN100979|2025-07-25|ACCT44876|David Wilson|D|Starbucks|Electronics|1259.06|USD|10197.72|ACH|Reversed
+TXN100980|2025-07-02|ACCT21346|Michael Brown|D|Starbucks|Retail|3932.42|USD|19230.61|Wire|Failed
+TXN100981|2025-12-25|ACCT14568|Emily Johnson|D|Costco|Groceries|716.05|USD|6210.59|Debit Card|Pending
+TXN100982|2025-12-20|ACCT93418|Jessica Davis|D|Walmart|Bills|2977.34|USD|4931.91|Wire|Failed
+TXN100983|2025-08-22|ACCT91864|Michael Brown|C|Costco|Groceries|4399.77|USD|3717.52|Wire|Reversed
+TXN100984|2025-05-27|ACCT79166|John Smith|C|Costco|Bills|817.79|USD|12821.32|Credit Card|Reversed
+TXN100985|2025-09-26|ACCT45399|David Wilson|D|Amazon|Groceries|4313.32|USD|1224.38|Credit Card|Completed
+TXN100986|2025-09-18|ACCT12386|Michael Brown|D|Amazon|Groceries|68.89|USD|11011.24|ACH|Pending
+TXN100987|2025-11-18|ACCT35000|John Smith|D|Apple|Electronics|1956.54|USD|6350.52|Credit Card|Failed
+TXN100988|2025-04-10|ACCT68279|Michael Brown|C|Starbucks|Electronics|3621.35|USD|1024.33|Wire|Reversed
+TXN100989|2025-05-17|ACCT60021|John Smith|D|Costco|Fuel|4141.35|USD|8151.54|Debit Card|Pending
+TXN100990|2025-04-05|ACCT34978|Jessica Davis|C|Costco|Retail|4121.89|USD|10675.62|Wire|Completed
+TXN100991|2025-10-17|ACCT94972|Michael Brown|C|Walmart|Retail|1322.86|USD|1002.98|Debit Card|Failed
+TXN100992|2025-05-28|ACCT97143|Sarah Miller|C|Apple|Groceries|4968.7|USD|1593.71|Debit Card|Failed
+TXN100993|2025-10-20|ACCT72131|Jessica Davis|C|Walmart|Dining|4446.92|USD|1700.88|Wire|Completed
+TXN100994|2025-12-27|ACCT88466|John Smith|C|Shell|Dining|2482.91|USD|16012.37|Credit Card|Reversed
+TXN100995|2025-01-13|ACCT64694|David Wilson|D|Apple|Groceries|4608.45|USD|11222.75|Debit Card|Completed
+TXN100996|2025-11-26|ACCT47418|Emily Johnson|C|Starbucks|Bills|4709.39|USD|8851.11|Zelle|Completed
+TXN100997|2025-11-19|ACCT14260|Michael Brown|D|Walmart|Dining|300.23|USD|5761.15|Wire|Failed
+TXN100998|2025-11-01|ACCT27809|John Smith|C|Starbucks|Fuel|1074.24|USD|15445.05|Debit Card|Failed
+TXN100999|2025-01-06|ACCT92264|Emily Johnson|D|Target|Dining|-493.41|USD|1003.97|Debit Card|Completed
+TXN100050|2025-02-30|ACCT56931|Emily Johnson|D|Shell|Retail|1977.81|USD|8532.49|Wire|Pending
+TXN101001|2025-09-09|ACCT65252|John Smith|C|Amazon|Fuel|2908.6|USD|2461.04|Wire|Completed
+TXN101002|2025-10-05|ACCT41327|Emily Johnson|D|Shell|Retail|423.05|USD|13335.68|ACH|Pending
+TXN101003|2025-10-30|ACCT35721|Michael Brown|C|Shell|Groceries|676.26|USD|8023.9|Credit Card|Reversed
+TXN101004|2025-04-13|ACCT28790|Michael Brown|C|Amazon|Retail|2374.36|USD|1867.82|ACH|Pending
+TXN101005|2025-04-10|ACCT95987|John Smith|C|Shell|Bills|263.32|USD|4231.25|ACH|Completed
+TXN101006|2025-09-23|ACCT78832|John Smith|D|Shell|Groceries|-143.82|USD|12463.24|Credit Card|Pending
+TXN101007|2025-08-26|ACCT49782|John Smith|C|Walmart|Bills|4101.52|USD|6182.07|Debit Card|Failed
+TXN101008|2025-05-22|ACCT13885|Jessica Davis|D|Amazon|Bills|889.85|USD|17423.82|Debit Card|Pending
+TXN101009|2025-01-23|ACCT72407|David Wilson|C|Starbucks|Groceries|2178.93|USD|2670.66|Debit Card|Failed
+TXN101010|2026-01-28|ACCT73735|Jessica Davis|D|Amazon|Bills|-460.06|USD|11246.76|ACH|Pending
+TXN101011|2026-01-21|ACCT19462|Michael Brown|D|Apple|Retail|3832.93|USD|4820.45|ACH|Completed
+TXN101012|2025-02-08|ACCT62782|Emily Johnson|D|Walmart|Electronics|2972.27|USD|2602.29|Wire|Failed
+TXN101013|2025-10-20|ACCT47141|David Wilson|C|Apple|Dining|-183.82|USD|1497.89|Wire|Failed
+TXN101014|2025-12-19|ACCT41576|David Wilson|C|Target|Dining|897.24|USD|19262.5|ACH|Pending
+TXN101015|2025-09-10|ACCT66138|Michael Brown|D|Shell|Retail|4865.72|USD|2353.27|Wire|Pending
+TXN101016|2025-11-12|ACCT60711|Emily Johnson|C|Apple|Electronics|4912.28|USD|16989.11|Wire|Reversed
+TXN101017|2025-01-03|ACCT55206|Emily Johnson|C|Costco|Dining|4595.51|USD|5925.81|ACH|Reversed
+TXN101018|2025-12-13|ACCT42626|Sarah Miller|D|Target|Groceries|1798.08|USD|19252.5|Credit Card|Failed
+TXN101019|2025-09-20|ACCT41946|John Smith|D|Shell|Fuel|3927.51|USD|17512.91|Zelle|Reversed
+TXN101020|2026-01-08|ACCT12697|John Smith|D|Costco|Retail|2073.13|USD|18796.71|ACH|Completed
+TXN101021|2025-04-09|ACCT46117|John Smith|C|Costco|Bills|4570.93|USD|5059.97|ACH|Reversed
+TXN101022|2025-07-15|ACCT11862|Sarah Miller|C|Walmart|Dining|1888.16|USD|15652.17|Wire|Reversed
+TXN101023|2025-08-17|ACCT77174|Michael Brown|C|Apple|Dining|1458.4|USD|10458.9|Wire|Completed
+TXN101024|2025-03-24|ACCT71817|Sarah Miller|C|Target|Bills|586.24|USD|15872.27|Zelle|Completed
+TXN101025|2025-12-22|ACCT90746|Michael Brown|C|Target|Groceries|3002.13|USD|14467.61|Credit Card|Completed
+TXN101026|2025-03-25|ACCT19244|John Smith|D|Starbucks|Retail|988.71|USD|1455.78|Credit Card|Failed
+TXN101027|2025-05-25|ACCT90285|Sarah Miller|C|Walmart|Bills|2291.68|USD|19807.64|Credit Card|Completed
+TXN101028|2025-07-25|ACCT29480|David Wilson|C|Apple|Bills|938.06|USD|1202.44|Credit Card|Failed
+TXN101029|2025-02-21|ACCT45429|Jessica Davis|C|Walmart|Groceries|579.27|USD|9915.94|Zelle|Reversed
+TXN101030|2025-05-06|ACCT67944|David Wilson|D|Starbucks|Fuel|4853.15|USD|6166.86|Zelle|Reversed
+TXN101031|2025-03-27|ACCT99641|Jessica Davis|C|Target|Bills|1429.25|USD|11529.4|Debit Card|Pending
+TXN101032|2025-04-14|ACCT46423|Sarah Miller|D|Starbucks|Groceries|893.92|USD|3774.03|ACH|Pending
+TXN101033|2025-09-17|ACCT78172|Jessica Davis|C|Walmart|Fuel|480.7|USD|8018.04|Zelle|Pending
+TXN101034|2025-06-23|ACCT94583|Sarah Miller|C|Starbucks|Fuel|956.75|USD|15450.6|Wire|Completed
+TXN101035|2025-07-26|ACCT34881|Jessica Davis|C|Amazon|Electronics|4875.6|USD|7822.01|Debit Card|Reversed
+TXN101036|2025-07-14|ACCT18994|Jessica Davis|D|Walmart|Groceries|1424.08|USD|11111.83|Credit Card|Completed
+TXN101037|2025-07-30|ACCT85910|John Smith|D|Costco|Retail|4155.48|USD|16925.16|Zelle|Failed
+TXN101038|2025-09-24|ACCT49625|Sarah Miller|C|Shell|Dining|619.8|USD|9768.31|Wire|Failed
+TXN101039|2025-11-10|ACCT55585|Michael Brown|D|Walmart|Groceries|-86.07|USD|14413.97|ACH|Failed
+TXN101040|2025-01-05|ACCT92051|John Smith|C|Amazon|Dining|4654.25|USD|13061.46|Debit Card|Pending
+TXN101041|2025-07-31|ACCT20845|Jessica Davis|C|Amazon|Fuel|981.99|USD|13296.39|Zelle|Failed
+TXN101042|2025-12-18|ACCT62683|David Wilson|D|Walmart|Dining|2935.88|USD|7402.58|Wire|Reversed
+TXN101043|2025-10-14|ACCT35925|David Wilson|C|Costco|Fuel|2126.28|USD|16208.89|ACH|Completed
+TXN101044|2025-12-12|ACCT70071|Emily Johnson|D|Walmart|Fuel|2860.04|USD|13013.65|Wire|Pending
+TXN101045|2025-05-13|ACCT54416|John Smith|D|Apple|Groceries|1067.92|USD|3419.4|ACH|Failed
+TXN101046|2025-09-06|ACCT56343|John Smith|C|Costco|Fuel|4607.5|USD|3359.16|Wire|Reversed
+TXN101047|2025-11-03|ACCT42830|Emily Johnson|C|Target|Electronics|917.55|USD|18611.89|Credit Card|Reversed
+TXN101048|2025-12-03|ACCT67412|Emily Johnson|C|Target|Bills|3587.22|USD|8850.19|Zelle|Failed
+TXN101049|2026-01-16|ACCT88439|Jessica Davis|C|Costco|Retail|1181.56|USD|10239.81|Wire|Reversed
+TXN101050|2026-01-13|ACCT43268|Emily Johnson|C|Starbucks|Dining|4153.07|USD|13871.8|Debit Card|Reversed
+TXN101051|2025-08-13|ACCT39619|Emily Johnson|D|Costco|Retail|849.56|USD|6833.43|Credit Card|Reversed
+TXN101052|2025-10-31|ACCT59645|John Smith|D|Walmart|Dining|2936.32|USD|16988.2|ACH|Pending
+TXN101053|2025-08-28|ACCT90781|Sarah Miller|D|Walmart|Fuel|4625.76|USD|4293.98|Debit Card|Pending
+TXN101054|2025-06-21|ACCT11378|David Wilson|D|Apple|Retail|3214.61|USD|12571.95|Zelle|Failed
+TXN101055|2026-01-09|ACCT32661|Jessica Davis|D|Starbucks|Bills|-397.71|USD|9891.99|ACH|Pending
+TXN101056|2025-01-12|ACCT32237|John Smith|D|Costco|Retail|7.65|USD|6644.22|ACH|Failed
+TXN101057|2025-12-01|ACCT52411|Emily Johnson|D|Shell|Electronics|1240.43|USD|8688.25|ACH|Failed
+TXN101058|2025-06-10|ACCT90138|Michael Brown|D|Costco|Fuel|1538.44|USD|6232.27|Debit Card|Failed
+TXN101059|2025-12-18|ACCT25932|Emily Johnson|C|Apple|Bills|3383.16|USD|15662.16|Credit Card|Failed
+TXN101060|2025-01-13|ACCT46535|John Smith|C|Starbucks|Dining|4031.5|USD|7993.74|Debit Card|Failed
+TXN101061|2025-12-28|ACCT16375|Michael Brown|D|Apple|Dining|385.94|USD|9669.6|Wire|Pending
+TXN101062|2025-11-24|ACCT95385|Sarah Miller|D|Apple|Fuel|2587.63|USD|17160.97|Zelle|Reversed
+TXN101063|2025-11-25|ACCT40282|Sarah Miller|C|Apple|Dining|4715.75|USD|11609.02|ACH|Completed
+TXN101064|2025-12-10|ACCT36086|John Smith|C|Starbucks|Fuel|4763.89|USD|9771.0|Wire|Reversed
+TXN101065|2025-06-06|ACCT58975|Michael Brown|D|Amazon|Dining|279.01|USD|9297.41|Credit Card|Pending
+TXN101066|2025-10-05|ACCT19791|Jessica Davis|C|Shell|Dining|213.17|USD|11856.11|Zelle|Completed
+TXN101067|2025-05-24|ACCT94660|Michael Brown|D|Starbucks|Bills|3268.64|USD|16906.25|Wire|Pending
+TXN101068|2025-04-13|ACCT68675|Emily Johnson|C|Starbucks|Dining|1706.75|USD|12429.15|Zelle|Pending
+TXN101069|2025-01-08|ACCT52793|Emily Johnson|C|Shell|Electronics|2771.36|USD|18673.29|Credit Card|Completed
+TXN101070|2025-12-01|ACCT17455|Emily Johnson|C|Walmart|Fuel|644.66|USD|10858.55|ACH|Pending
+TXN101071|2025-09-01|ACCT61833|Emily Johnson|D|Shell|Retail|899.73|USD|8386.33|ACH|Failed
+TXN101072|2025-12-12|ACCT10753|David Wilson|C|Apple|Groceries|-42.86|USD|1285.51|Wire|Failed
+TXN101073|2026-01-01|ACCT14369|David Wilson|C|Amazon|Bills|4245.02|USD|6082.21|ACH|Reversed
+TXN101074|2025-06-12|ACCT35339|David Wilson|D|Target|Bills|1945.38|USD|3708.92|ACH|Reversed
+TXN101075|2025-04-22|ACCT80474|John Smith|D|Costco|Groceries|2215.02|USD|10752.72|Zelle|Completed
+TXN101076|2025-09-05|ACCT39939|Jessica Davis|C|Amazon|Bills|4473.74|USD|9184.39|Debit Card|Failed
+TXN101077|2025-12-16|ACCT15975|John Smith|C|Starbucks|Bills|1019.87|USD|11245.29|Credit Card|Completed
+TXN101078|2025-08-24|ACCT98978|Jessica Davis|D|Shell|Bills|-38.76|USD|15421.88|Credit Card|Reversed
+TXN101079|2025-10-20|ACCT19656|Jessica Davis|D|Apple|Fuel|-248.13|USD|2722.85|Zelle|Completed
+TXN101080|2025-06-18|ACCT89421||D|Amazon|Retail|544.4|USD|16088.79|Zelle|Completed
+TXN101081|2025-10-01|ACCT96342|Sarah Miller|C|Shell|Bills|4071.98|USD|12966.19|Wire|Failed
+TXN101082|2025-04-15|ACCT87563|Emily Johnson|D|Target|Dining|1479.09|USD|8530.3|Debit Card|Completed
+TXN101083|2025-05-18|ACCT10781|Sarah Miller|C|Apple|Electronics|3040.71|USD|8208.3|Zelle|Completed
+TXN101084|2025-11-24|ACCT71524|Michael Brown|C|Target|Electronics|2216.67|USD|3433.34|Zelle|Pending
+TXN101085|2025-01-16|ACCT53962|Sarah Miller|D|Amazon|Bills|4497.87|USD|10890.71|Debit Card|Failed
+TXN101086|2025-10-31|ACCT73148|Emily Johnson|D|Walmart|Fuel|3853.26|USD|11478.08|ACH|Failed
+TXN101087|2025-07-14|ACCT89192|Sarah Miller|D|Shell|Retail|211.41|USD|4016.93|Zelle|Pending
+TXN101088|2025-11-05|ACCT18232|David Wilson|C|Costco|Retail|2376.38|USD|19640.67|Debit Card|Pending
+TXN101089|2025-10-26|ACCT12846|John Smith|C|Starbucks|Groceries|303.35|USD|5118.17|Credit Card|Completed
+TXN101090|2025-10-09|ACCT99248|Michael Brown|C|Target|Dining|2441.26|USD|10384.22|Debit Card|Reversed
+TXN101091|2025-06-05|ACCT29958|John Smith|D|Walmart|Groceries|2562.97|USD|4395.71|Wire|Failed
+TXN101092|2025-05-09|ACCT22520|Jessica Davis|D|Costco|Bills|1318.38|USD|2668.99|Zelle|Completed
+TXN101093|2025-07-02|ACCT24758|Jessica Davis|C|Amazon|Retail|2149.64|USD|19843.85|Zelle|Failed
+TXN101094|2025-07-23|ACCT92918|David Wilson|D|Costco|Electronics|-444.99|USD|15645.16|Debit Card|Reversed
+TXN101095|2025-05-20|ACCT28171|Michael Brown|D|Shell|Bills|1531.81|USD|3143.79|Zelle|Reversed
+TXN101096|2025-12-05|ACCT29085|David Wilson|D|Starbucks|Fuel|3158.36|USD|5577.66|Credit Card|Pending
+TXN101097|2025-12-18|ACCT89567|John Smith|C|Costco|Bills|4139.83|USD|10868.58|Debit Card|Pending
+TXN101098|2025-11-19|ACCT33244|Jessica Davis|D|Costco|Fuel|2314.61|USD|17672.01|Wire|Pending
+TXN101099|2025-08-31|ACCT41958|John Smith|C|Amazon|Fuel|1221.54|USD|11130.28|Zelle|Pending
+TXN101100|2025-04-08|ACCT63004|John Smith|C|Starbucks|Fuel|2556.27|USD|4013.06|Credit Card|Pending
+TXN101101|2025-02-21|ACCT15905|Sarah Miller|D|Starbucks|Retail|2999.77|USD|18545.92|ACH|Failed
+TXN101102|2025-01-19|ACCT14624|David Wilson|D|Starbucks|Retail|4317.83|USD|3063.27|Zelle|Reversed
+TXN101103|2025-02-24|ACCT17106|Sarah Miller|D|Starbucks|Dining|174.75|USD|16162.23|Credit Card|Completed
+TXN101104|2025-10-17|ACCT97634|Michael Brown|C|Target|Fuel|1616.99|USD|13573.42|Debit Card|Completed
+TXN101105|2025-01-06|ACCT28887|Jessica Davis|D|Costco|Electronics|3450.8|USD|5533.11|Zelle|Reversed
+TXN101106|2026-01-02|ACCT56827|Sarah Miller|C|Walmart|Bills|1699.87|USD|5958.23|Debit Card|Reversed
+TXN101107|2025-02-25|ACCT96476|Jessica Davis|D|Amazon|Fuel|3623.77|USD|9588.48|Zelle|Failed
+TXN101108|2025-04-05|ACCT19389|David Wilson|C|Amazon|Bills|4421.7|USD|15701.47|Wire|Failed
+TXN101109|2025-01-31|ACCT65490|Michael Brown|C|Shell|Groceries|1032.18|USD|17371.91|ACH|Pending
+TXN101110|2026-01-29|ACCT81792|Sarah Miller|D|Shell|Groceries|2882.47|USD|1344.57|ACH|Failed
+TXN101111|2025-07-03|ACCT38414|Jessica Davis|C|Starbucks|Bills|-274.26|USD|5236.83|Debit Card|Completed
+TXN101112|2025-07-21|ACCT40938|Michael Brown|C|Apple|Bills|4678.27|USD|12471.16|ACH|Failed
+TXN101113|2025-05-04|ACCT64072|Sarah Miller|D|Apple|Electronics|-121.1|USD|9732.49|Credit Card|Reversed
+TXN101114|2025-07-07|ACCT84005|Michael Brown|C|Walmart|Fuel|4335.05|USD|6802.45|ACH|Completed
+TXN101115|2026-01-10|ACCT84758|David Wilson|C|Walmart|Groceries|2727.69|USD|12976.6|Debit Card|Pending
+TXN101116|2025-06-10|ACCT25605|Emily Johnson|D|Walmart|Dining|388.33|USD|7694.8|Wire|Reversed
+TXN101117|2025-01-12|ACCT61463|Jessica Davis|D|Costco|Electronics|4984.16|USD|19847.19|Credit Card|Reversed
+TXN101118|2025-07-06|ACCT51079|John Smith|C|Target|Dining|2405.4|USD|7240.54|Zelle|Failed
+TXN101119|2025-08-31|ACCT54041|Michael Brown|C|Apple|Retail|3834.6|USD|18676.37|Debit Card|Failed
+TXN101120|2025-11-19|ACCT12579|Emily Johnson|C|Apple|Groceries|105.07|USD|2331.79|Credit Card|Pending
+TXN101121|2025-08-17|ACCT80470|Sarah Miller|C|Costco|Bills|3113.93|USD|7096.24|Debit Card|Completed
+TXN101122|2025-10-12|ACCT54632|Sarah Miller|C|Costco|Bills|2044.43|USD|4919.27|Wire|Failed
+TXN101123|2025-08-04|ACCT41357|Emily Johnson|C|Starbucks|Groceries|3938.57|USD|17145.85|ACH|Failed
+TXN101124|2025-12-27|ACCT90976|Michael Brown|D|Amazon|Fuel|1996.32|USD|2012.12|Zelle|Pending
+TXN101125|2025-06-23|ACCT45751|Michael Brown|D|Starbucks|Groceries|2846.92|USD|14211.54|Credit Card|Failed
+TXN101126|2025-01-06|ACCT87928|David Wilson|D|Target|Groceries|1633.61|USD|6420.14|Credit Card|Pending
+TXN101127|2025-03-03|ACCT10275|David Wilson|C|Apple|Bills|3451.65|USD|7757.52|Zelle|Completed
+TXN101128|2025-07-23|ACCT40147|Jessica Davis|D|Amazon|Fuel|3163.44|USD|1541.59|ACH|Completed
+TXN101129|2025-08-02|ACCT89713|David Wilson|C|Target|Retail|1008.45|USD|3851.1|Zelle|Failed
+TXN101130|2025-09-17|ACCT88906|Sarah Miller|C|Shell|Fuel|1984.61|USD|11163.16|Zelle|Reversed
+TXN101131|2025-05-19|ACCT87553|John Smith|C|Walmart|Fuel|2040.1|USD|9617.53|Wire|Pending
+TXN101132|2026-01-29|ACCT31753|David Wilson|C|Target|Fuel|1899.57|USD|11039.31|ACH|Failed
+TXN101133|2025-12-06|ACCT45100|Jessica Davis|C|Walmart|Dining|1537.36|USD|18103.19|Wire|Failed
+TXN101134|2026-01-13|ACCT99633|Jessica Davis|C|Costco|Fuel|3359.84|USD|18676.66|Wire|Completed
+TXN101135|2025-10-31|ACCT98198|Michael Brown|D|Starbucks|Retail|2509.86|USD|14880.42|Zelle|Failed
+TXN101136|2025-08-25|ACCT84393|Emily Johnson|C|Target|Bills|3192.76|USD|13309.19|Debit Card|Pending
+TXN101137|2025-04-09|ACCT15478|Sarah Miller|C|Target|Groceries|-355.36|USD|2894.27|Zelle|Pending
+TXN101138|2025-07-30|ACCT75030|Sarah Miller|D|Starbucks|Fuel|442.36|USD|8145.74|Credit Card|Reversed
+TXN101139|2025-08-30|ACCT67277|David Wilson|C|Apple|Dining|4667.12|USD|1238.42|Debit Card|Failed
+TXN101140|2025-09-27|ACCT50539|Michael Brown|D|Starbucks|Retail|2518.07|USD|7151.88|Debit Card|Completed
+TXN101141|2026-01-31|ACCT47895|John Smith|C|Shell|Bills|2465.45|USD|19966.34|Debit Card|Completed
+TXN101142|2025-01-18|ACCT45651|Sarah Miller|C|Shell|Bills|1820.34|USD|12136.87|Credit Card|Failed
+TXN101143|2025-02-15|ACCT45935|Emily Johnson|C|Costco|Fuel|2722.58|USD|6201.12|ACH|Failed
+TXN101144|2025-10-13|ACCT37711|Emily Johnson|D|Amazon|Retail|879.07|USD|14636.55|Debit Card|Failed
+TXN101145|2025-03-04|ACCT11218|John Smith|D|Starbucks|Groceries|1155.79|USD|12682.0|ACH|Reversed
+TXN101146|2026-01-01|ACCT69847|David Wilson|C|Walmart|Dining|-62.56|USD|13614.16|Credit Card|Pending
+TXN101147|2025-03-22|ACCT16015|Jessica Davis|D|Starbucks|Electronics|627.32|USD|8564.05|Credit Card|Completed
+TXN101148|2025-10-27|ACCT39436|Sarah Miller|D|Amazon|Fuel|1980.22|USD|16681.15|Wire|Completed
+TXN101149|2025-01-21|ACCT96672|John Smith|C|Amazon|Retail|-205.95|USD|9786.12|Debit Card|Reversed
+TXN101150|2025-07-03|ACCT28454|Jessica Davis|D|Apple|Dining|236.01|USD|11932.44|Debit Card|Failed
+TXN101151|2025-08-18|ACCT45322|Sarah Miller|D|Target|Dining|3947.64|USD|17475.66|Zelle|Reversed
+TXN101152|2025-10-24|ACCT75024|David Wilson|C|Target|Electronics|2862.96|USD|1569.45|Debit Card|Pending
+TXN101153|2025-07-18|ACCT56828|John Smith|D|Starbucks|Fuel|3225.4|USD|3907.45|Credit Card|Pending
+TXN101154|2025-03-27|ACCT71363|John Smith|C|Costco|Fuel|4910.89|USD|14580.43|Debit Card|Failed
+TXN101155|2025-09-22|ACCT14195|Emily Johnson|D|Apple|Groceries|2455.95|USD|8889.38|Zelle|Completed
+TXN101156|2025-08-07|ACCT88934|Michael Brown|D|Costco|Retail|561.46|USD|8072.58|Zelle|Failed
+TXN101157|2025-03-24|ACCT84722|Sarah Miller|C|Target|Bills|2095.15|USD|1301.83|Wire|Reversed
+TXN101158|2025-09-17|ACCT53946|Emily Johnson|C|Shell|Groceries|3982.12|USD|6165.88|Zelle|Failed
+TXN101159|2026-01-18|ACCT79550|Michael Brown|D|Costco|Fuel|3930.84|USD|8029.85|Zelle|Completed
+TXN101160|2025-11-09|ACCT61920|Jessica Davis|C|Apple|Bills|4135.54|USD|9173.9|Wire|Reversed
+TXN101161|2025-11-05|ACCT52049|Emily Johnson|D|Apple|Dining|2940.62|USD|10051.88|Debit Card|Reversed
+TXN101162|2025-11-03|ACCT64682|Emily Johnson|D|Amazon|Retail|4240.16|USD|10984.68|ACH|Completed
+TXN101163|2025-06-09|ACCT36149|Michael Brown|C|Shell|Fuel|2005.93|USD|16738.89|Zelle|Completed
+TXN101164|2026-01-11|ACCT34324|Sarah Miller|C|Apple|Groceries|-281.47|USD|19420.14|Zelle|Failed
+TXN101165|2025-02-12|ACCT15924|Emily Johnson|D|Apple|Electronics|4510.47|USD|16896.29|Zelle|Completed
+TXN101166|2025-05-16|ACCT15930|Sarah Miller|C|Target|Fuel|1375.98|USD|11951.25|Debit Card|Reversed
+TXN101167|2025-12-22|ACCT14351|Sarah Miller|C|Starbucks|Retail|2532.27|USD|7747.87|Wire|Failed
+TXN101168|2025-07-22|ACCT70341|Jessica Davis|C|Costco|Retail|1151.57|USD|14018.69|Wire|Reversed
+TXN101169|2025-09-21|ACCT97388|John Smith|D|Apple|Groceries|3472.6|USD|18330.9|Debit Card|Failed
+TXN101170|2025-02-24|ACCT13126|Sarah Miller|C|Amazon|Retail|4881.08|USD|16466.34|ACH|Pending
+TXN101171|2025-10-03|ACCT77709|Michael Brown|C|Amazon|Electronics|1002.97|USD|2940.89|Debit Card|Completed
+TXN101172|2025-08-30|ACCT87386|David Wilson|D|Amazon|Retail|2385.52|USD|4142.86|ACH|Pending
+TXN101173|2025-01-24|ACCT71980|Jessica Davis|D|Apple|Retail|3047.19|USD|10706.32|ACH|Pending
+TXN101174|2025-10-24|ACCT45173|Emily Johnson|C|Target|Bills|4106.06|USD|14169.76|Debit Card|Reversed
+TXN101175|2025-09-19|ACCT83197|David Wilson|D|Shell|Fuel|2187.16|USD|18682.51|ACH|Completed
+TXN101176|2025-06-05|ACCT44777|Emily Johnson|C|Costco|Retail|4659.46|USD|8354.32|Wire|Pending
+TXN101177|2025-09-08|ACCT81371|Sarah Miller|D|Apple|Retail|3145.11|USD|3821.7|Zelle|Completed
+TXN101178|2025-11-01|ACCT29782|Emily Johnson|C|Starbucks|Retail|3841.46|USD|10039.69|Debit Card|Completed
+TXN101179|2025-02-07|ACCT79502|Emily Johnson|D|Target|Retail|2266.92|USD|8052.27|Debit Card|Reversed
+TXN101180|2025-09-08|ACCT13903|David Wilson|D|Amazon|Retail|670.59|USD|2343.22|Debit Card|Pending
+TXN101181|2026-01-04|ACCT80363|Michael Brown|C|Costco|Dining|4394.06|USD|1400.28|ACH|Failed
+TXN101182|2025-12-25|ACCT57806|Michael Brown|C|Shell|Groceries|1173.06|USD|3680.68|Zelle|Pending
+TXN101183|2025-06-29|ACCT33313|John Smith|D|Costco|Groceries|3817.44|USD|3939.53|Zelle|Pending
+TXN101184|2025-04-26|ACCT72837|Jessica Davis|C|Shell|Fuel|4321.37|USD|19034.06|Credit Card|Completed
+TXN101185|2025-03-31|ACCT74489|David Wilson|D|Costco|Groceries|1387.86|USD|8407.4|ACH|Reversed
+TXN101186|2025-04-01|ACCT99605|Michael Brown|C|Target|Electronics|4484.45|USD|17450.8|Wire|Completed
+TXN101187|2025-03-31|ACCT53770|David Wilson|D|Shell|Fuel|-359.31|USD|9128.2|Debit Card|Completed
+TXN101188|2025-09-07|ACCT48479|David Wilson|D|Shell|Retail|1310.52|USD|15472.26|Credit Card|Reversed
+TXN101189|2025-01-24|ACCT79816|Sarah Miller|D|Apple|Fuel|3927.72|USD|5541.1|Wire|Pending
+TXN101190|2025-12-17|ACCT83230|Jessica Davis|C|Apple|Groceries|984.22|USD|13069.8|ACH|Pending
+TXN101191|2025-05-31|ACCT69321|Emily Johnson|C|Target|Retail|2117.36|USD|1716.77|Credit Card|Failed
+TXN101192|2025-10-11|ACCT62491|Sarah Miller|C|Walmart|Bills|-392.86|USD|1592.47|ACH|Pending
+TXN101193|2025-01-22|ACCT34949|Michael Brown|D|Shell|Electronics|1325.92|USD|16686.51|Debit Card|Completed
+TXN101194|2025-08-16|ACCT25317|John Smith|C|Costco|Bills|270.7|USD|13075.46|ACH|Failed
+TXN101195|2025-12-18|ACCT56678|Jessica Davis|D|Amazon|Dining|4742.41|USD|6360.48|Wire|Failed
+TXN101196|2026-01-15|ACCT91647|Jessica Davis|D|Walmart|Electronics|4166.34|USD|1567.51|Debit Card|Reversed
+TXN101197|2025-01-11|ACCT64444|David Wilson|C|Amazon|Electronics|4671.53|USD|10903.61|Debit Card|Pending
+TXN101198|2026-01-30|ACCT83053|Emily Johnson|C|Walmart|Electronics|246.18|USD|6562.73|Credit Card|Pending
+TXN101199|2025-08-19|ACCT92569|David Wilson|C|Walmart|Dining|979.85|USD|16050.25|Wire|Pending
