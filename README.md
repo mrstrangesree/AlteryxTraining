@@ -19,4 +19,4 @@ The main purpose of this repository is to support and streamline training activi
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mrstrangesree/AlteryxTraining
