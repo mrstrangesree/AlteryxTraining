@@ -1,0 +1,61 @@
+match_id,team,opponent,goals_scored,goals_conceded,shots_on_target,possession,match_date
+8001,Barcelona,Real Madrid,2,1,6,60,2024-01-01
+8002,Manchester United,Liverpool,1,2,5,48,2024-01-02
+8003,Bayern Munich,Dortmund,3,1,8,62,2024-01-03
+8004,PSG,Lyon,4,0,10,65,2024-01-04
+8005,Juventus,AC Milan,2,2,7,55,2024-01-05
+8006,Chelsea,Arsenal,1,1,4,50,2024-01-06
+8007,Inter Milan,Roma,3,2,9,58,2024-01-07
+8008,Atletico Madrid,Sevilla,2,0,6,52,2024-01-08
+8009,Tottenham,Everton,2,1,7,54,2024-01-09
+8010,Napoli,Fiorentina,3,1,8,59,2024-01-10
+8011,Barcelona,Sevilla,3,0,9,64,2024-01-11
+8012,Real Madrid,Valencia,2,1,6,61,2024-01-12
+8013,Liverpool,Chelsea,2,2,7,57,2024-01-13
+8014,Arsenal,Tottenham,1,0,5,53,2024-01-14
+8015,Bayern Munich,Leipzig,4,2,10,66,2024-01-15
+8016,PSG,Marseille,3,1,8,63,2024-01-16
+8017,Juventus,Napoli,1,2,4,49,2024-01-17
+8018,AC Milan,Inter Milan,2,3,6,51,2024-01-18
+8019,Roma,Lazio,2,1,5,52,2024-01-19
+8020,Dortmund,Schalke,3,0,9,60,2024-01-20
+8021,Everton,Leicester,1,1,4,48,2024-01-21
+8022,Fiorentina,Atalanta,2,2,6,54,2024-01-22
+8023,Sevilla,Villarreal,1,0,5,50,2024-01-23
+8024,Valencia,Real Betis,2,1,7,56,2024-01-24
+8025,Leipzig,Bayern Munich,1,3,5,47,2024-01-25
+8026,Marseille,PSG,0,2,3,46,2024-01-26
+8027,Lazio,Roma,1,2,4,49,2024-01-27
+8028,Schalke,Dortmund,0,4,2,40,2024-01-28
+8029,Leicester,Everton,2,2,6,52,2024-01-29
+8030,Atalanta,Fiorentina,3,2,8,58,2024-01-30
+8031,Barcelona,Atletico Madrid,2,2,7,59,2024-02-01
+8032,Real Madrid,Barcelona,3,2,8,55,2024-02-02
+8033,Liverpool,Manchester United,4,1,10,62,2024-02-03
+8034,Chelsea,Arsenal,2,3,7,53,2024-02-04
+8035,Bayern Munich,Dortmund,5,2,11,67,2024-02-05
+8036,PSG,Lyon,2,1,6,60,2024-02-06
+8037,Juventus,AC Milan,3,1,9,58,2024-02-07
+8038,Inter Milan,Roma,2,0,7,55,2024-02-08
+8039,Atletico Madrid,Sevilla,1,1,5,51,2024-02-09
+8040,Tottenham,Everton,3,1,8,57,2024-02-10
+8041,Napoli,Fiorentina,2,2,6,54,2024-02-11
+8042,Barcelona,Valencia,4,1,10,66,2024-02-12
+8043,Real Madrid,Sevilla,3,0,9,63,2024-02-13
+8044,Liverpool,Chelsea,2,1,7,58,2024-02-14
+8045,Arsenal,Tottenham,2,2,6,52,2024-02-15
+8046,Bayern Munich,Leipzig,3,1,8,65,2024-02-16
+8047,PSG,Marseille,4,2,9,64,2024-02-17
+8048,Juventus,Napoli,2,0,6,57,2024-02-18
+8049,AC Milan,Inter Milan,1,2,5,50,2024-02-19
+8050,Roma,Lazio,3,1,7,56,2024-02-20
+8051,Dortmund,Schalke,4,1,10,61,2024-02-21
+8052,Everton,Leicester,2,0,6,53,2024-02-22
+8053,Fiorentina,Atalanta,1,3,5,49,2024-02-23
+8054,Sevilla,Villarreal,2,1,6,55,2024-02-24
+8055,Valencia,Real Betis,1,1,4,52,2024-02-25
+8056,Leipzig,Bayern Munich,2,4,7,48,2024-02-26
+8057,Marseille,PSG,1,3,5,47,2024-02-27
+8058,Lazio,Roma,0,1,3,45,2024-02-28
+8059,Schalke,Dortmund,1,3,4,42,2024-02-29
+8060,Leicester,Everton,1,2,5,50,2024-03-01
