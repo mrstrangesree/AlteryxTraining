@@ -1,0 +1,203 @@
+Name,Designation,Age,Sex,AnnualIncome
+Aarav Sharma,Data Analyst,25,M,650000
+Meera Iyer,HR Manager,32,F,950000
+Rohan Gupta,Software Engineer,28,M,1200000
+Ananya Das,Data Analyst,24,F,620000
+Karan Mehta,Sales Executive,30,M,550000
+Priya Nair,HR Executive,27,F,480000
+Rahul Verma,Software Engineer,29,M,1250000
+Sneha Kapoor,UI/UX Designer,26,F,700000
+Vikram Singh,Team Lead,35,M,1500000
+Pooja Sharma,Data Analyst,25,F,640000
+Aditya Jain,Software Engineer,31,M,1400000
+Neha Gupta,HR Manager,33,F,980000
+Arjun Singh,DevOps Engineer,29,M,1300000
+Kavya Reddy,UI/UX Designer,27,F,720000
+Mohit Agarwal,Sales Manager,34,M,1100000
+Isha Patel,HR Executive,26,F,500000
+Nikhil Joshi,Data Scientist,30,M,1600000
+Divya Mishra,Data Analyst,25,F,630000
+Sandeep Yadav,Software Engineer,28,M,1220000
+Ritu Saxena,HR Manager,32,F,970000
+Manish Pandey,DevOps Engineer,31,M,1350000
+Shreya Banerjee,UI/UX Designer,26,F,710000
+Deepak Verma,Sales Executive,29,M,560000
+Tanvi Kulkarni,Data Analyst,24,F,610000
+Harsh Singh,Software Engineer,27,M,1180000
+Aditi Ghosh,HR Executive,25,F,490000
+Sameer Khan,Team Lead,36,M,1550000
+Pankaj Tripathi,Sales Manager,33,M,1120000
+Nisha Arora,UI/UX Designer,28,F,730000
+Gaurav Tiwari,Data Scientist,32,M,1650000
+Komal Choudhary,HR Manager,34,F,1000000
+Yash Patel,Software Engineer,26,M,1150000
+Ankita Sharma,Data Analyst,27,F,650000
+Rajeev Srivastava,DevOps Engineer,37,M,1700000
+Sonal Jain,HR Executive,26,F,510000
+Varun Malhotra,Team Lead,35,M,1580000
+Preeti Desai,UI/UX Designer,25,F,690000
+Abhishek Rajput,Software Engineer,30,M,1280000
+Rakesh Gupta,Sales Executive,31,M,580000
+Bhavna Joshi,HR Manager,33,F,990000
+Kunal Bansal,Data Scientist,29,M,1620000
+Payal Mehta,Data Analyst,24,F,600000
+Dinesh Chandra,DevOps Engineer,32,M,1400000
+Farhan Ali,Software Engineer,28,M,1210000
+Zoya Khan,UI/UX Designer,27,F,740000
+Imran Hussain,Sales Manager,36,M,1150000
+Saba Parveen,HR Executive,25,F,495000
+Arif Sheikh,Data Analyst,26,M,660000
+Salma Begum,HR Manager,35,F,1010000
+Naveen Reddy,Software Engineer,29,M,1230000
+Lakshmi Iyer,Data Scientist,31,F,1680000
+Tejaswini Rao,UI/UX Designer,28,F,750000
+Prakash Hegde,DevOps Engineer,34,M,1450000
+Sunil Naik,Team Lead,38,M,1600000
+Geeta Patil,HR Executive,27,F,520000
+Mahesh Gowda,Sales Executive,30,M,570000
+Rekha Shetty,HR Manager,36,F,1020000
+Santosh Das,Software Engineer,27,M,1190000
+Pritam Paul,Data Analyst,25,M,640000
+Rohit Sinha,DevOps Engineer,33,M,1500000
+Ashok Singh,Sales Manager,37,M,1180000
+Lata Mangeshkar,HR Executive,28,F,530000
+Kiran Bedi,Team Lead,40,F,1750000
+Anil Kapoor,Software Engineer,38,M,1550000
+Aarav Sharma,Data Analyst,25,M,650000
+Meera Iyer,HR Manager,32,F,950000
+Rohan Gupta,Software Engineer,28,M,1200000
+Ananya Das,Marketing Executive,24,F,600000
+Karan Mehta,Sales Executive,30,M,550000
+Priya Nair,Teacher,27,F,480000
+Rahul Verma,Doctor,35,M,1800000
+Sneha Kapoor,UI/UX Designer,26,F,700000
+Vikram Singh,Team Lead,36,M,1500000
+Pooja Sharma,Nurse,29,F,650000
+Aditya Jain,Software Engineer,31,M,1400000
+Neha Gupta,HR Manager,33,F,980000
+Arjun Singh,DevOps Engineer,29,M,1300000
+Kavya Reddy,Architect,28,F,900000
+Mohit Agarwal,Sales Manager,34,M,1100000
+Isha Patel,Accountant,26,F,520000
+Nikhil Joshi,Data Scientist,30,M,1600000
+Divya Mishra,Data Analyst,25,F,630000
+Sandeep Yadav,Lawyer,32,M,1700000
+Ritu Saxena,HR Manager,32,F,970000
+Manish Pandey,Doctor,38,M,2000000
+Shreya Banerjee,UI/UX Designer,26,F,710000
+Deepak Verma,Sales Executive,29,M,560000
+Tanvi Kulkarni,Teacher,24,F,450000
+Harsh Singh,Software Engineer,27,M,1180000
+Aditi Ghosh,Nurse,25,F,500000
+Sameer Khan,Team Lead,36,M,1550000
+Pankaj Tripathi,Sales Manager,33,M,1120000
+Nisha Arora,Graphic Designer,28,F,730000
+Gaurav Tiwari,Data Scientist,32,M,1650000
+Komal Choudhary,HR Manager,34,F,1000000
+Yash Patel,Software Engineer,26,M,1150000
+Ankita Sharma,Data Analyst,27,F,650000
+Rajeev Srivastava,DevOps Engineer,37,M,1700000
+Sonal Jain,Accountant,26,F,510000
+Varun Malhotra,Team Lead,35,M,1580000
+Preeti Desai,UI/UX Designer,25,F,690000
+Abhishek Rajput,Software Engineer,30,M,1280000
+Rakesh Gupta,Sales Executive,31,M,580000
+Bhavna Joshi,HR Manager,33,F,990000
+Kunal Bansal,Data Scientist,29,M,1620000
+Payal Mehta,Teacher,24,F,460000
+Dinesh Chandra,DevOps Engineer,32,M,1400000
+Farhan Ali,Software Engineer,28,M,1210000
+Zoya Khan,Graphic Designer,27,F,740000
+Imran Hussain,Sales Manager,36,M,1150000
+Saba Parveen,HR Executive,25,F,495000
+Arif Sheikh,Data Analyst,26,M,660000
+Salma Begum,HR Manager,35,F,1010000
+Naveen Reddy,Software Engineer,29,M,1230000
+Lakshmi Iyer,Data Scientist,31,F,1680000
+Tejaswini Rao,UI/UX Designer,28,F,750000
+Prakash Hegde,Architect,34,M,1450000
+Sunil Naik,Team Lead,38,M,1600000
+Geeta Patil,Teacher,27,F,520000
+Mahesh Gowda,Sales Executive,30,M,570000
+Rekha Shetty,HR Manager,36,F,1020000
+Santosh Das,Doctor,39,M,2100000
+Pritam Paul,Data Analyst,25,M,640000
+Rohit Sinha,DevOps Engineer,33,M,1500000
+Ashok Singh,Lawyer,37,M,1180000
+Lata Mangeshkar,Teacher,28,F,530000
+Kiran Bedi,Consultant,40,F,1750000
+Anil Kapoor,Actor,38,M,3000000
+Deepa Menon,Doctor,34,F,1900000
+Ravi Shankar,Photographer,29,M,750000
+Meenal Shah,Journalist,31,F,820000
+Tarun Khanna,Chef,30,M,680000
+Alisha Dsouza,Marketing Executive,27,F,610000
+Arjun Malhotra,Data Analyst,25,M,650000
+Sneha Iyer,HR Manager,32,F,950000
+Raghav Mehta,Software Engineer,28,M,1200000
+Ishita Verma,Marketing Executive,24,F,600000
+Kunal Sharma,Sales Executive,30,M,550000
+Anjali Nair,Teacher,27,F,480000
+Vivek Rao,Doctor,35,M,1800000
+Megha Kapoor,UI/UX Designer,26,F,700000
+Siddharth Singh,Team Lead,36,M,1500000
+Nandini Patel,Nurse,29,F,650000
+Rohan Desai,Software Engineer,31,M,1400000
+Priyanka Joshi,HR Manager,33,F,980000
+Aman Gupta,DevOps Engineer,29,M,1300000
+Tanya Reddy,Architect,28,F,900000
+Nitin Agarwal,Sales Manager,34,M,1100000
+Shalini Mehta,Accountant,26,F,520000
+Devansh Khanna,Data Scientist,30,M,1600000
+Ritika Banerjee,Data Analyst,25,F,630000
+Harsh Vardhan,Lawyer,32,M,1700000
+Komal Saxena,HR Manager,32,F,970000
+Manav Jain,Doctor,38,M,2000000
+Aishwarya Kulkarni,UI/UX Designer,26,F,710000
+Varun Chawla,Sales Executive,29,M,560000
+Payal Sharma,Teacher,24,F,450000
+Aakash Mehra,Software Engineer,27,M,1180000
+Deepali Ghosh,Nurse,25,F,500000
+Sahil Khan,Team Lead,36,M,1550000
+Yash Thakur,Sales Manager,33,M,1120000
+Neha Bhatia,Graphic Designer,28,F,730000
+Karan Oberoi,Data Scientist,32,M,1650000
+Simran Kaur,HR Manager,34,F,1000000
+Raj Malhotra,Software Engineer,26,M,1150000
+Ira Sen,Data Analyst,27,F,650000
+Aditya Roy,DevOps Engineer,37,M,1700000
+Bhavana Nair,Accountant,26,F,510000
+Rohit Kapoor,Team Lead,35,M,1580000
+Anusha Iyer,UI/UX Designer,25,F,690000
+Mayank Dutta,Software Engineer,30,M,1280000
+Vikas Reddy,Sales Executive,31,M,580000
+Radhika Menon,HR Manager,33,F,990000
+Sarthak Bose,Data Scientist,29,M,1620000
+Lavanya Iyer,Teacher,24,F,460000
+Gaurav Mishra,DevOps Engineer,32,M,1400000
+Naveen Kumar,Software Engineer,28,M,1210000
+Zoya Sheikh,Graphic Designer,27,F,740000
+Faisal Khan,Sales Manager,36,M,1150000
+Meera Dsouza,HR Executive,25,F,495000
+Amitabh Sinha,Data Analyst,26,M,660000
+Sonia Arora,HR Manager,35,F,1010000
+Kartik Nair,Software Engineer,29,M,1230000
+Aparna Iyer,Data Scientist,31,F,1680000
+Shruti Rao,UI/UX Designer,28,F,750000
+Pranav Hegde,Architect,34,M,1450000
+Akhil Naik,Team Lead,38,M,1600000
+Geeta Menon,Teacher,27,F,520000
+Suresh Babu,Sales Executive,30,M,570000
+Rekha Nair,HR Manager,36,F,1020000
+Mahesh Iyer,Doctor,39,M,2100000
+Aarohi Sen,Data Analyst,25,F,640000
+Nikhil Verma,DevOps Engineer,33,M,1500000
+Sanjay Kumar,Lawyer,37,M,1180000
+Lakshmi Devi,Teacher,28,F,530000
+Divya Sharma,Consultant,40,F,1750000
+Armaan Malik,Actor,38,M,3000000
+Pooja Menon,Doctor,34,F,1900000
+Ravi Kumar,Photographer,29,M,750000
+Ananya Shah,Journalist,31,F,820000
+Sameer Qureshi,Chef,30,M,680000
+Ishani Roy,Marketing Executive,27,F,610000

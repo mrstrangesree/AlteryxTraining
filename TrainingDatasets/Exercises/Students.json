@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Aarav Sharma", "age": 22, "score": 78 },
+  { "id": 2, "name": "Meera Iyer", "age": 24, "score": 85 },
+  { "id": 3, "name": "Rohan Gupta", "age": 23, "score": 78 },
+  { "id": 4, "name": "Ananya Das", "age": 21, "score": 92 },
+  { "id": 5, "name": "Karan Mehta", "age": 25, "score": 85 },
+  { "id": 6, "name": "Priya Nair", "age": 22, "score": 88 },
+  { "id": 7, "name": "Rahul Verma", "age": 24, "score": 78 },
+  { "id": 8, "name": "Sneha Kapoor", "age": 23, "score": 90 },
+  { "id": 9, "name": "Vikram Singh", "age": 26, "score": 85 },
+  { "id": 10, "name": "Pooja Sharma", "age": 21, "score": 88 },
+  { "id": 11, "name": "Aditya Jain", "age": 27, "score": 92 },
+  { "id": 12, "name": "Neha Gupta", "age": 22, "score": 78 },
+  { "id": 13, "name": "Arjun Singh", "age": 24, "score": 85 },
+  { "id": 14, "name": "Kavya Reddy", "age": 23, "score": 90 },
+  { "id": 15, "name": "Mohit Agarwal", "age": 25, "score": 88 }
+]
